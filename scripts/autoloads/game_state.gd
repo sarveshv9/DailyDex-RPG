@@ -9,9 +9,9 @@ var current_hp: Dictionary = {} # CreatureData → current HP (int)
 var game_flags: Dictionary = {} # General-purpose flags (unused in V1, ready for expansion)
 
 # --- Scene transition state ---
+var current_map_scene: String = "res://scenes/overworld/overworld.tscn"
 var overworld_player_grid_pos: Vector2i = Vector2i(3, 3)
 var wild_creature: CreatureData = null
-var returning_from_battle: bool = false
 
 
 func _ready() -> void:
@@ -68,5 +68,10 @@ func start_battle(wild: CreatureData) -> void:
 func end_battle(won: bool) -> void:
 	if not won:
 		heal_party()
-	returning_from_battle = true
-	get_tree().change_scene_to_file("res://scenes/overworld/overworld.tscn")
+	get_tree().change_scene_to_file(current_map_scene)
+
+
+func warp_to(scene_path: String, target_pos: Vector2i) -> void:
+	current_map_scene = scene_path
+	overworld_player_grid_pos = target_pos
+	get_tree().change_scene_to_file(scene_path)

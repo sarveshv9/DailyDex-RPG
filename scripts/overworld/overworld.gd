@@ -4,7 +4,7 @@ extends Node2D
 
 const TILE_SIZE := 16
 
-enum Tile { GROUND, OBSTACLE, GRASS }
+enum Tile { GROUND, OBSTACLE, GRASS, WARP }
 
 ## 2-D array [row][col] of Tile values, generated in _ready.
 var map_data: Array = []
@@ -12,25 +12,28 @@ var map_data: Array = []
 ## Grid position of the NPC (used for collision checks).
 var npc_grid_pos: Vector2i = Vector2i(10, 7)
 
+## Warp targets: { Vector2i(x, y): {"scene": path, "pos": Vector2i} }
+var warps: Dictionary = {}
+
 @onready var player: Node2D = $Player
-@onready var npc: Node2D = $NPC
-@onready var dialogue_box: CanvasLayer = $DialogueBox
+@onready var npc: Node2D = get_node_or_null("NPC")
+@onready var dialogue_box: CanvasLayer = get_node_or_null("DialogueBox")
 
 
 func _ready() -> void:
+	GameState.current_map_scene = scene_file_path
 	_generate_map()
 
 	# Place NPC at its grid position
-	npc.position = Vector2(npc_grid_pos.x * TILE_SIZE, npc_grid_pos.y * TILE_SIZE)
+	if npc:
+		npc.position = Vector2(npc_grid_pos.x * TILE_SIZE, npc_grid_pos.y * TILE_SIZE)
 
-	# Restore player position when returning from battle
-	if GameState.returning_from_battle:
-		player.grid_pos = GameState.overworld_player_grid_pos
-		player.position = Vector2(
-			player.grid_pos.x * TILE_SIZE,
-			player.grid_pos.y * TILE_SIZE
-		)
-		GameState.returning_from_battle = false
+	# Always restore player position from GameState
+	player.grid_pos = GameState.overworld_player_grid_pos
+	player.position = Vector2(
+		player.grid_pos.x * TILE_SIZE,
+		player.grid_pos.y * TILE_SIZE
+	)
 
 	# Camera limits — keep within the map
 	var cam: Camera2D = player.get_node("Camera2D")
@@ -41,7 +44,8 @@ func _ready() -> void:
 
 	# Wire up signals
 	player.interact_with_npc.connect(_on_player_interact_npc)
-	dialogue_box.dialogue_finished.connect(_on_dialogue_finished)
+	if dialogue_box:
+		dialogue_box.dialogue_finished.connect(_on_dialogue_finished)
 
 	queue_redraw()
 
@@ -74,6 +78,13 @@ func _generate_map() -> void:
 				row.append(Tile.GROUND)
 		map_data.append(row)
 
+	# Add a warp to Map 2 at the top edge
+	map_data[0][10] = Tile.WARP
+	warps[Vector2i(10, 0)] = {
+		"scene": "res://scenes/overworld/overworld2.tscn",
+		"pos": Vector2i(5, 8)
+	}
+
 
 # ---------------------------------------------------------------------------
 # Drawing (colored rectangles — placeholder visuals)
@@ -90,6 +101,8 @@ func _draw() -> void:
 					color = Color(0.35, 0.30, 0.25)  # dark brown
 				Tile.GRASS:
 					color = Color(0.20, 0.65, 0.20)  # green
+				Tile.WARP:
+					color = Color(0.60, 0.20, 0.80)  # purple
 			draw_rect(
 				Rect2(x * TILE_SIZE, y * TILE_SIZE, TILE_SIZE, TILE_SIZE),
 				color
@@ -115,7 +128,21 @@ func is_tile_walkable(grid_x: int, grid_y: int) -> bool:
 
 
 func is_npc_at(grid_x: int, grid_y: int) -> bool:
+	if not npc:
+		return false
 	return Vector2i(grid_x, grid_y) == npc_grid_pos
+
+
+func is_warp_tile(grid_x: int, grid_y: int) -> bool:
+	if grid_y < 0 or grid_y >= map_data.size():
+		return false
+	if grid_x < 0 or grid_x >= map_data[grid_y].size():
+		return false
+	return map_data[grid_y][grid_x] == Tile.WARP
+
+
+func get_warp_data(grid_x: int, grid_y: int) -> Dictionary:
+	return warps.get(Vector2i(grid_x, grid_y), {})
 
 
 func is_grass_tile(grid_x: int, grid_y: int) -> bool:

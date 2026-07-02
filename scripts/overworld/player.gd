@@ -65,8 +65,16 @@ func _on_move_finished() -> void:
 	# Persist position so we can restore it after battle
 	GameState.overworld_player_grid_pos = grid_pos
 
-	# Random encounter check on grass tiles
 	var overworld := get_parent()
+
+	# Map transition check
+	if overworld.has_method("is_warp_tile") and overworld.is_warp_tile(grid_pos.x, grid_pos.y):
+		var warp_data: Dictionary = overworld.get_warp_data(grid_pos.x, grid_pos.y)
+		if warp_data.has("scene") and warp_data.has("pos"):
+			GameState.warp_to(warp_data["scene"], warp_data["pos"])
+		return
+
+	# Random encounter check on grass tiles
 	if overworld.is_grass_tile(grid_pos.x, grid_pos.y):
 		if randf() < ENCOUNTER_CHANCE:
 			_trigger_encounter()
