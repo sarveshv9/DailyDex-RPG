@@ -159,6 +159,8 @@ func is_grass_tile(grid_x: int, grid_y: int) -> bool:
 
 func _on_player_interact_npc() -> void:
 	player.lock_input()
+	if "is_healer" in npc and npc.is_healer:
+		GameState.heal_party()
 	dialogue_box.start(npc.dialogue_lines)
 
 
