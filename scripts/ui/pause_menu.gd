@@ -6,6 +6,7 @@ var panel: PanelContainer
 var resume_btn: Button
 var save_btn: Button
 var load_btn: Button
+var party_btn: Button
 
 
 func _ready() -> void:
@@ -56,6 +57,12 @@ func _build_ui() -> void:
 	resume_btn.pressed.connect(_on_resume_pressed)
 	vbox.add_child(resume_btn)
 
+	party_btn = Button.new()
+	party_btn.text = "Party"
+	party_btn.add_theme_font_size_override("font_size", 10)
+	party_btn.pressed.connect(_on_party_pressed)
+	vbox.add_child(party_btn)
+
 	save_btn = Button.new()
 	save_btn.text = "Save Game"
 	save_btn.add_theme_font_size_override("font_size", 10)
@@ -79,6 +86,13 @@ func _toggle_pause() -> void:
 
 func _on_resume_pressed() -> void:
 	_toggle_pause()
+
+
+func _on_party_pressed() -> void:
+	visible = false
+	# Keep the game paused while Party Menu is open
+	# We rely on PartyMenu to unpause when closed.
+	PartyMenu.open()
 
 
 func _on_save_pressed() -> void:

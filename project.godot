@@ -20,6 +20,7 @@ run/main_scene="res://scenes/overworld/overworld.tscn"
 GameState="*res://scripts/autoloads/game_state.gd"
 PauseMenu="*res://ui/pause_menu.tscn"
 TypeChart="*res://scripts/autoloads/type_chart.gd"
+PartyMenu="*res://ui/party_menu.tscn"
 
 [display]
 
