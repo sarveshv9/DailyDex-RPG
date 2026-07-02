@@ -2,6 +2,7 @@ class_name MoveData
 extends Resource
 ## Data container for a single creature move.
 
-@export var move_name: String = ""
+@export var move_name: String = "Tackle"
+@export var element_type: String = "Normal"
 @export var power: int = 1
 @export var accuracy: int = 100  # 0-100 percentage (all 100 in V1)

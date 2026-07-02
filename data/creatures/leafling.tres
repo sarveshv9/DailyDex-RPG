@@ -7,6 +7,7 @@
 [resource]
 script = ExtResource("1")
 creature_name = "Leafling"
+element_type = "Grass"
 max_hp = 45
 attack = 12
 defense = 10

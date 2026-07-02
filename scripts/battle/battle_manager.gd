@@ -117,8 +117,8 @@ func _init_battle() -> void:
 	# Visuals
 	player_rect.color = player_creature.color
 	enemy_rect.color = enemy_creature.color
-	player_name_label.text = player_creature.creature_name
-	enemy_name_label.text = enemy_creature.creature_name
+	player_name_label.text = "%s (%s)" % [player_creature.creature_name, player_creature.element_type]
+	enemy_name_label.text = "%s (%s)" % [enemy_creature.creature_name, enemy_creature.element_type]
 	_update_hp_display()
 
 	# Move buttons
@@ -182,7 +182,8 @@ func _execute_turn(attacker: CreatureData, move: Resource, is_player_attacking: 
 	await get_tree().create_timer(0.7).timeout
 
 	var defender: CreatureData = enemy_creature if is_player_attacking else player_creature
-	var damage := _calc_damage(attacker, move, defender)
+	var multiplier := TypeChart.get_multiplier(move.element_type, defender.element_type)
+	var damage := _calc_damage(attacker, move, defender, multiplier)
 
 	if is_player_attacking:
 		enemy_hp = maxi(0, enemy_hp - damage)
@@ -196,14 +197,21 @@ func _execute_turn(attacker: CreatureData, move: Resource, is_player_attacking: 
 	await get_tree().create_timer(0.12).timeout
 	target_rect.color = original_color
 
+	if multiplier > 1.0:
+		battle_log.text = "It's super effective!"
+		await get_tree().create_timer(0.7).timeout
+	elif multiplier < 1.0:
+		battle_log.text = "It's not very effective..."
+		await get_tree().create_timer(0.7).timeout
+
 	battle_log.text = "It dealt %d damage!" % damage
 	_update_hp_display()
 	await get_tree().create_timer(0.5).timeout
 
 
-func _calc_damage(attacker: CreatureData, move: Resource, defender: CreatureData) -> int:
-	## damage = atk * power / 10 − def, minimum 1
-	var raw: float = attacker.attack * move.power / 10.0 - defender.defense
+func _calc_damage(attacker: CreatureData, move: Resource, defender: CreatureData, multiplier: float) -> int:
+	## damage = (atk * power / 10 − def) * multiplier, minimum 1
+	var raw: float = (attacker.attack * move.power / 10.0 - defender.defense) * multiplier
 	return maxi(1, int(raw))
 
 
