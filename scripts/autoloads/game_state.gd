@@ -2,6 +2,7 @@ extends Node
 ## Autoload singleton — holds party, HP, flags, and handles scene transitions.
 
 # --- Party ---
+const MAX_PARTY_SIZE: int = 6
 var party: Array = []           # Array of CreatureData
 var party_hp: Array[int] = []   # Parallel array: current HP
 

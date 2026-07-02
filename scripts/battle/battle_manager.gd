@@ -21,6 +21,7 @@ var player_hp_label: Label
 var enemy_hp_label: Label
 var move_btn_1: Button
 var move_btn_2: Button
+var catch_btn: Button
 var battle_log: Label
 
 
@@ -67,9 +68,10 @@ func _build_ui() -> void:
 	player_hp_bar = _make_hp_bar(Vector2(10, 132), Vector2(130, 10))
 	player_hp_label = _make_label(Vector2(10, 144), 8)
 
-	# --- Move buttons (bottom-right) ---
+	# --- Move buttons & Catch (bottom) ---
 	move_btn_1 = _make_button(Vector2(185, 120), Vector2(126, 22))
 	move_btn_2 = _make_button(Vector2(185, 146), Vector2(126, 22))
+	catch_btn = _make_button(Vector2(148, 120), Vector2(33, 48))
 
 	# --- Battle log (very bottom) ---
 	battle_log = _make_label(Vector2(10, 164), 9)
@@ -130,6 +132,11 @@ func _init_battle() -> void:
 		move_btn_2.pressed.connect(_on_move_selected.bind(1))
 	else:
 		move_btn_2.visible = false
+
+	catch_btn.text = "Catch"
+	catch_btn.pressed.connect(_on_catch_pressed)
+	if GameState.party.size() >= GameState.MAX_PARTY_SIZE:
+		catch_btn.disabled = true
 
 	battle_log.text = "A wild %s appeared!" % enemy_creature.creature_name
 	state = BattleState.CHOOSING
@@ -209,6 +216,49 @@ func _execute_turn(attacker: CreatureData, move: Resource, is_player_attacking: 
 	await get_tree().create_timer(0.5).timeout
 
 
+func _on_catch_pressed() -> void:
+	if state != BattleState.CHOOSING:
+		return
+
+	state = BattleState.ANIMATING
+	_set_moves_enabled(false)
+
+	battle_log.text = "You threw a CatchBall!"
+	await get_tree().create_timer(1.0).timeout
+
+	# Catch formula: base 15% + up to 100% depending on missing HP
+	var hp_percent := float(enemy_hp) / float(enemy_creature.max_hp)
+	var chance := 1.15 - hp_percent
+	
+	if randf() < chance:
+		battle_log.text = "Gotcha! Caught %s!" % enemy_creature.creature_name
+		await get_tree().create_timer(1.5).timeout
+		
+		# Add to party (duplicate so we don't modify the base resource!)
+		GameState.party.append(enemy_creature.duplicate())
+		GameState.party_hp.append(enemy_hp)
+		
+		# End battle as win
+		GameState.party_hp[0] = player_hp
+		GameState.end_battle(true)
+	else:
+		battle_log.text = "Oh no! It broke free!"
+		await get_tree().create_timer(1.2).timeout
+		
+		# Enemy gets a free turn
+		var enemy_move = _pick_enemy_move()
+		await _execute_turn(enemy_creature, enemy_move, false)
+		
+		if player_hp <= 0:
+			state = BattleState.BATTLE_OVER
+			battle_log.text = "You lost!"
+			await get_tree().create_timer(1.5).timeout
+			GameState.end_battle(false)
+		else:
+			state = BattleState.CHOOSING
+			_set_moves_enabled(true)
+
+
 func _calc_damage(attacker: CreatureData, move: Resource, defender: CreatureData, multiplier: float) -> int:
 	## damage = (atk * power / 10 − def) * multiplier, minimum 1
 	var raw: float = (attacker.attack * move.power / 10.0 - defender.defense) * multiplier
@@ -237,3 +287,6 @@ func _set_moves_enabled(enabled: bool) -> void:
 	move_btn_1.disabled = not enabled
 	if move_btn_2.visible:
 		move_btn_2.disabled = not enabled
+	
+	if GameState.party.size() < GameState.MAX_PARTY_SIZE:
+		catch_btn.disabled = not enabled
