@@ -18,6 +18,7 @@ run/main_scene="res://scenes/overworld/overworld.tscn"
 [autoload]
 
 GameState="*res://scripts/autoloads/game_state.gd"
+PauseMenu="*res://ui/pause_menu.tscn"
 
 [display]
 

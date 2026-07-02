@@ -111,7 +111,7 @@ func _init_battle() -> void:
 	player_creature = GameState.get_lead_creature()
 	enemy_creature = GameState.wild_creature
 
-	player_hp = GameState.current_hp.get(player_creature, player_creature.max_hp)
+	player_hp = GameState.party_hp[0]
 	enemy_hp = enemy_creature.max_hp
 
 	# Visuals
@@ -165,7 +165,7 @@ func _on_move_selected(move_index: int) -> void:
 		state = BattleState.BATTLE_OVER
 		battle_log.text = "You won!"
 		await get_tree().create_timer(1.5).timeout
-		GameState.current_hp[player_creature] = player_hp
+		GameState.party_hp[0] = player_hp
 		GameState.end_battle(true)
 	elif player_hp <= 0:
 		state = BattleState.BATTLE_OVER

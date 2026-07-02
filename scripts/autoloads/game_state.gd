@@ -3,7 +3,7 @@ extends Node
 
 # --- Party ---
 var party: Array = []           # Array of CreatureData
-var current_hp: Dictionary = {} # CreatureData → current HP (int)
+var party_hp: Array[int] = []   # Parallel array: current HP
 
 # --- Flags ---
 var game_flags: Dictionary = {} # General-purpose flags (unused in V1, ready for expansion)
@@ -20,7 +20,7 @@ func _ready() -> void:
 	var flamelet := load("res://data/creatures/flamelet.tres") as CreatureData
 	if flamelet:
 		party.append(flamelet)
-		current_hp[flamelet] = flamelet.max_hp
+		party_hp.append(flamelet.max_hp)
 
 
 func _register_inputs() -> void:
@@ -49,13 +49,13 @@ func get_lead_creature() -> CreatureData:
 
 
 func heal_party() -> void:
-	for creature in party:
-		current_hp[creature] = creature.max_hp
+	for i in range(party.size()):
+		party_hp[i] = party[i].max_hp
 
 
 func is_party_alive() -> bool:
-	for creature in party:
-		if current_hp.get(creature, 0) > 0:
+	for hp in party_hp:
+		if hp > 0:
 			return true
 	return false
 
@@ -75,3 +75,55 @@ func warp_to(scene_path: String, target_pos: Vector2i) -> void:
 	current_map_scene = scene_path
 	overworld_player_grid_pos = target_pos
 	get_tree().change_scene_to_file(scene_path)
+
+
+func save_game() -> void:
+	var save_data := {
+		"current_map_scene": current_map_scene,
+		"player_pos_x": overworld_player_grid_pos.x,
+		"player_pos_y": overworld_player_grid_pos.y,
+		"party": []
+	}
+	
+	for i in range(party.size()):
+		var c: CreatureData = party[i]
+		save_data["party"].append({
+			"resource": c.resource_path,
+			"hp": party_hp[i]
+		})
+	
+	var file := FileAccess.open("user://savegame.json", FileAccess.WRITE)
+	if file:
+		file.store_string(JSON.stringify(save_data, "\t"))
+
+
+func load_game() -> void:
+	if not FileAccess.file_exists("user://savegame.json"):
+		return
+		
+	var file := FileAccess.open("user://savegame.json", FileAccess.READ)
+	var content := file.get_as_text()
+	var save_data: Dictionary = JSON.parse_string(content)
+	
+	if save_data:
+		current_map_scene = save_data.get("current_map_scene", "res://scenes/overworld/overworld.tscn")
+		overworld_player_grid_pos = Vector2i(
+			save_data.get("player_pos_x", 3),
+			save_data.get("player_pos_y", 3)
+		)
+		
+		party.clear()
+		party_hp.clear()
+		
+		var saved_party: Array = save_data.get("party", [])
+		for c_data in saved_party:
+			var res_path: String = c_data.get("resource", "")
+			if ResourceLoader.exists(res_path):
+				var creature: CreatureData = load(res_path) as CreatureData
+				if creature:
+					party.append(creature)
+					party_hp.append(c_data.get("hp", creature.max_hp))
+		
+		# Resume the loaded state
+		get_tree().paused = false
+		get_tree().change_scene_to_file(current_map_scene)
