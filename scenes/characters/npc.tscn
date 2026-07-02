@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=3 uid="uid://bx4im14dneh6k"]
+
+[ext_resource type="Script" path="res://scripts/overworld/npc.gd" id="1_ceaqc"]
+[ext_resource type="SpriteFrames" uid="uid://dyjb0mxepxa2b" path="res://resources/spriteframes/bug_catcher.tres" id="4_m3kmy"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_7qyh0"]
+size = Vector2(16, 16)
+
+[node name="NPC" type="CharacterBody2D"]
+script = ExtResource("1_ceaqc")
+
+[node name="Collider" type="CollisionShape2D" parent="."]
+position = Vector2(8, 8)
+scale = Vector2(0.9, 0.9)
+shape = SubResource("RectangleShape2D_7qyh0")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+position = Vector2(8, 4)
+scale = Vector2(0.5, 0.5)
+sprite_frames = ExtResource("4_m3kmy")
+animation = &"idle_down"

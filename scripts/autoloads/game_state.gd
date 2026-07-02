@@ -63,19 +63,28 @@ func is_party_alive() -> bool:
 
 func start_battle(wild: CreatureData) -> void:
 	wild_creature = wild
+	TransitionLayer.battle_flash()
+	await TransitionLayer.fade_finished
 	get_tree().change_scene_to_file("res://scenes/battle/battle.tscn")
+	TransitionLayer.fade_in()
 
 
 func end_battle(won: bool) -> void:
 	if not won:
 		heal_party()
+	TransitionLayer.fade_out()
+	await TransitionLayer.fade_finished
 	get_tree().change_scene_to_file(current_map_scene)
+	TransitionLayer.fade_in()
 
 
 func warp_to(scene_path: String, target_pos: Vector2i) -> void:
 	current_map_scene = scene_path
 	overworld_player_grid_pos = target_pos
+	TransitionLayer.fade_out()
+	await TransitionLayer.fade_finished
 	get_tree().change_scene_to_file(scene_path)
+	TransitionLayer.fade_in()
 
 
 func save_game() -> void:
@@ -127,4 +136,7 @@ func load_game() -> void:
 		
 		# Resume the loaded state
 		get_tree().paused = false
+		TransitionLayer.fade_out()
+		await TransitionLayer.fade_finished
 		get_tree().change_scene_to_file(current_map_scene)
+		TransitionLayer.fade_in()
