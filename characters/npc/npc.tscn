@@ -1,0 +1,19 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://characters/npc/npc.gd" id="1_1oqjc"]
+[ext_resource type="Texture2D" path="res://characters/npc/sprites/npc_01.png" id="2_ts6vr"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_davfq"]
+size = Vector2(14, 14)
+
+[node name="NPC" type="CharacterBody2D" unique_id=986619972]
+collision_layer = 4
+script = ExtResource("1_1oqjc")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=914421950]
+position = Vector2(0, -4)
+texture = ExtResource("2_ts6vr")
+hframes = 12
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1620747504]
+shape = SubResource("RectangleShape2D_davfq")

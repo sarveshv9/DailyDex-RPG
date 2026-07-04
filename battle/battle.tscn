@@ -1,0 +1,35 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://battle/battle.gd" id="1_8l5c3"]
+[ext_resource type="Texture2D" path="res://ui/assets/battle_bg.png" id="2_eiab3"]
+[ext_resource type="Texture2D" path="res://ui/assets/battle_menu.png" id="3_evq16"]
+[ext_resource type="Texture2D" path="res://characters/player/sprites/player.png" id="4_fbd0j"]
+[ext_resource type="Texture2D" path="res://characters/npc/sprites/npc_01.png" id="5_xeu4k"]
+
+[node name="BattleScene" type="CanvasLayer" unique_id=2106411045]
+script = ExtResource("1_8l5c3")
+
+[node name="Background" type="TextureRect" parent="." unique_id=744010208]
+scale = Vector2(2, 2)
+texture = ExtResource("2_eiab3")
+
+[node name="Menu" type="TextureRect" parent="." unique_id=1638724128]
+offset_top = 174.0
+offset_bottom = 174.0
+scale = Vector2(2, 2)
+texture = ExtResource("3_evq16")
+
+[node name="PlayerSlot" type="Sprite2D" parent="." unique_id=816116345]
+position = Vector2(100, 180)
+scale = Vector2(4, 4)
+texture = ExtResource("4_fbd0j")
+hframes = 12
+vframes = 2
+frame = 4
+
+[node name="EnemySlot" type="Sprite2D" parent="." unique_id=104795495]
+position = Vector2(380, 80)
+scale = Vector2(4, 4)
+texture = ExtResource("5_xeu4k")
+hframes = 12
+frame = 1

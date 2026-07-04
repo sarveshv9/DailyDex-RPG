@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://cxjoyclean"]
+
+[ext_resource type="Script" path="res://characters/npc/npc.gd" id="1_script"]
+[ext_resource type="Texture2D" uid="uid://bo5lmhsk7qhuy" path="res://characters/npc/sprites/npc_07.png" id="2_texture"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_nurse"]
+size = Vector2(16, 16)
+
+[node name="NurseJoy" type="CharacterBody2D"]
+collision_layer = 2
+collision_mask = 0
+script = ExtResource("1_script")
+dialogue_text = "Welcome to our Pokemon Center! We heal your Pokemon back to perfect health!"
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_texture")
+hframes = 4
+vframes = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_nurse")

@@ -1,0 +1,27 @@
+[gd_resource type="TileSet" format=3]
+
+[ext_resource type="Texture2D" path="res://maps/tilesets/emerald_exterior_tileset.png" id="1_oacs6"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_o0jdb"]
+texture = ExtResource("1_oacs6")
+1:0/0 = 0
+2:0/0 = 0
+2:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+5:1/0 = 0
+5:1/0/custom_data_0 = true
+6:1/0 = 0
+6:2/0 = 0
+6:2/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+6:3/0 = 0
+7:3/0 = 0
+6:4/0 = 0
+6:4/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+7:4/0 = 0
+7:4/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+
+[resource]
+physics_layer_0/collision_layer = 1
+physics_layer_0/collision_mask = 0
+custom_data_layer_0/name = "is_encounter_tile"
+custom_data_layer_0/type = 1
+sources/0 = SubResource("TileSetAtlasSource_o0jdb")

@@ -11,17 +11,13 @@ config_version=5
 [application]
 
 config/name="DailyDex_RPG"
-run/main_scene="res://scenes/levels/small_town.tscn"
+run/main_scene="res://maps/my_custom_map.tscn"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
 
-GameState="*res://scripts/autoloads/game_state.gd"
-PauseMenu="*res://ui/pause_menu.tscn"
-TypeChart="*res://scripts/autoloads/type_chart.gd"
-PartyMenu="*res://ui/party_menu.tscn"
-TransitionLayer="*res://ui/transition_layer.tscn"
+TransitionLayer="*res://autoloads/transition_layer.tscn"
 
 [display]
 
@@ -64,6 +60,14 @@ interact={
 ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="world_solid"
+2d_physics/layer_2="player"
+2d_physics/layer_3="npc"
+2d_physics/layer_4="encounter_zone"
+2d_physics/layer_5="interaction_trigger"
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
@@ -72,3 +76,5 @@ interact={
 
 textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
+2d/snap/snap_2d_transforms_to_pixel=true
+2d/snap/snap_2d_vertices_to_pixel=true

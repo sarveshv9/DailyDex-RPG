@@ -1,0 +1,27 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://ui/dialogue/dialogue_ui.gd" id="1_ysedr"]
+[ext_resource type="Texture2D" path="res://ui/assets/dialogue.png" id="2_awmck"]
+[ext_resource type="FontFile" path="res://assets/fonts/pokefont.ttf" id="3_yi6h4"]
+
+[node name="DialogueUI" type="CanvasLayer" unique_id=485765520]
+script = ExtResource("1_ysedr")
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=121198872]
+offset_top = 126.0
+offset_bottom = 126.0
+scale = Vector2(3, 3)
+texture = ExtResource("2_awmck")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="TextureRect" unique_id=1611354958]
+layout_mode = 0
+offset_left = 10.0
+offset_top = 10.0
+offset_right = 150.0
+offset_bottom = 38.0
+theme_override_fonts/normal_font = ExtResource("3_yi6h4")
+theme_override_font_sizes/normal_font_size = 16
+theme_override_colors/default_color = Color(0, 0, 0, 1)
+scroll_active = false
+
+[node name="Timer" type="Timer" parent="." unique_id=877199531]

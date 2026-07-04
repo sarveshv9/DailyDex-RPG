@@ -1,0 +1,20 @@
+# Ignore Audio Fonts and Graphics folders
+Audio/
+Fonts/
+Graphics/
+.import/
+.vscode/
+bin/
+Maps/TiledMaps/
+.directory
+*.apk
+*.exe
+*.x86_64
+export_presets.cfg
+*.keystore
+PermittedAssets/UraniumIcon.png
+PermittedAssets/UraniumIcon.png.import
+Utilities/Save/*.tres
+Pokémon Uranium.nro
+Pokémon Uranium.pck
+SetUpComplete.txt
