@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlpnrxcge6fyx"
-path="res://.godot/imported/anim_front.png-b1ae8ad4e6be74d35bfd816fb549f2fe.ctex"
+path="res://.godot/imported/anim_front.png-e6d304e8c6938e31f665e96e73ead5dd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/murkrow/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-b1ae8ad4e6be74d35bfd816fb549f2fe.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-e6d304e8c6938e31f665e96e73ead5dd.ctex"]
 
 [params]
 

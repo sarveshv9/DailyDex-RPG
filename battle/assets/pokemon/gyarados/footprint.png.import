@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsc8phhxxu422"
-path="res://.godot/imported/footprint.png-65ae5a86594a5a5366a6025ad2c5cb22.ctex"
+path="res://.godot/imported/footprint.png-f5039806cfd29009a8202a03e81cc006.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/gyarados/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-65ae5a86594a5a5366a6025ad2c5cb22.ctex"]
+dest_files=["res://.godot/imported/footprint.png-f5039806cfd29009a8202a03e81cc006.ctex"]
 
 [params]
 

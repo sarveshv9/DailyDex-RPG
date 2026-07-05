@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c27jqkeyjj1h5"
-path="res://.godot/imported/front.png-363a1f1ace1042f3c01842f152ccdf24.ctex"
+path="res://.godot/imported/front.png-899283b77117572c583babdd637ffdbf.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ludicolo/front.png"
-dest_files=["res://.godot/imported/front.png-363a1f1ace1042f3c01842f152ccdf24.ctex"]
+dest_files=["res://.godot/imported/front.png-899283b77117572c583babdd637ffdbf.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbo6serm5lb7t"
-path="res://.godot/imported/icon.png-f391b08c2554971998ae197ba617d88a.ctex"
+path="res://.godot/imported/icon.png-3b1c36be0685c7681600cf1c211ac510.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/venomoth/icon.png"
-dest_files=["res://.godot/imported/icon.png-f391b08c2554971998ae197ba617d88a.ctex"]
+dest_files=["res://.godot/imported/icon.png-3b1c36be0685c7681600cf1c211ac510.ctex"]
 
 [params]
 

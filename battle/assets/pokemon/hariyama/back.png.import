@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crdxnrmik5wag"
-path="res://.godot/imported/back.png-565fdde9e0289e9d789418d173037bfd.ctex"
+path="res://.godot/imported/back.png-15067ad9027582115d9152d8e8257e9f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/hariyama/back.png"
-dest_files=["res://.godot/imported/back.png-565fdde9e0289e9d789418d173037bfd.ctex"]
+dest_files=["res://.godot/imported/back.png-15067ad9027582115d9152d8e8257e9f.ctex"]
 
 [params]
 

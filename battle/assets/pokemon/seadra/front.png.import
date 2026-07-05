@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqvigukkwodt5"
-path="res://.godot/imported/front.png-62e2beb99fe3600f7401f5f8857d2534.ctex"
+path="res://.godot/imported/front.png-0904e28156a8adf2418f8b83a018f5c4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/seadra/front.png"
-dest_files=["res://.godot/imported/front.png-62e2beb99fe3600f7401f5f8857d2534.ctex"]
+dest_files=["res://.godot/imported/front.png-0904e28156a8adf2418f8b83a018f5c4.ctex"]
 
 [params]
 

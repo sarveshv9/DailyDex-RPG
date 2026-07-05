@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7c4ubjthgw6m"
-path="res://.godot/imported/icon.png-db6d18c9c227600fd92663a0506cb868.ctex"
+path="res://.godot/imported/icon.png-7145787ac5dc00e10e34fff2c8909549.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/deoxys/icon.png"
-dest_files=["res://.godot/imported/icon.png-db6d18c9c227600fd92663a0506cb868.ctex"]
+dest_files=["res://.godot/imported/icon.png-7145787ac5dc00e10e34fff2c8909549.ctex"]
 
 [params]
 

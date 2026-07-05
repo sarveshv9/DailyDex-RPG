@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbc3ujjl817h"
-path="res://.godot/imported/back.png-55b169e152f607c69ffdc4446ea4d41e.ctex"
+path="res://.godot/imported/back.png-6281dfa5397b77ab38adfb80e6c3b100.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/wailord/back.png"
-dest_files=["res://.godot/imported/back.png-55b169e152f607c69ffdc4446ea4d41e.ctex"]
+dest_files=["res://.godot/imported/back.png-6281dfa5397b77ab38adfb80e6c3b100.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqte17lsgoyiw"
-path="res://.godot/imported/footprint.png-01d647d50b8150bd303e73a06da110b3.ctex"
+path="res://.godot/imported/footprint.png-c04024277fcca0c9ef3253fcc441fa9d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/electabuzz/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-01d647d50b8150bd303e73a06da110b3.ctex"]
+dest_files=["res://.godot/imported/footprint.png-c04024277fcca0c9ef3253fcc441fa9d.ctex"]
 
 [params]
 

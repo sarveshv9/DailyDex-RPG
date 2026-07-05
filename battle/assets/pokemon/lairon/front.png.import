@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://38k1uh16ykgd"
-path="res://.godot/imported/front.png-a0d114dec0bdeccdc49ef69da041ca6d.ctex"
+path="res://.godot/imported/front.png-88dba813c179c4f3bd3b6e9697b251ad.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/lairon/front.png"
-dest_files=["res://.godot/imported/front.png-a0d114dec0bdeccdc49ef69da041ca6d.ctex"]
+dest_files=["res://.godot/imported/front.png-88dba813c179c4f3bd3b6e9697b251ad.ctex"]
 
 [params]
 

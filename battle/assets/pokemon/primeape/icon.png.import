@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5u5khjdx57u5"
-path="res://.godot/imported/icon.png-5bd64d6f5d14e44cc7612dca7d8b1bc6.ctex"
+path="res://.godot/imported/icon.png-45fe64c6e428bb0f27d6b171a4789959.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/primeape/icon.png"
-dest_files=["res://.godot/imported/icon.png-5bd64d6f5d14e44cc7612dca7d8b1bc6.ctex"]
+dest_files=["res://.godot/imported/icon.png-45fe64c6e428bb0f27d6b171a4789959.ctex"]
 
 [params]
 

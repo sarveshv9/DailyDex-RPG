@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkenljrwxkbaf"
-path="res://.godot/imported/back.png-240d0768576fc2a3fbdc1ac023a833e0.ctex"
+path="res://.godot/imported/back.png-103571e5252c9d185f68accf2e9b8c28.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/bellsprout/back.png"
-dest_files=["res://.godot/imported/back.png-240d0768576fc2a3fbdc1ac023a833e0.ctex"]
+dest_files=["res://.godot/imported/back.png-103571e5252c9d185f68accf2e9b8c28.ctex"]
 
 [params]
 

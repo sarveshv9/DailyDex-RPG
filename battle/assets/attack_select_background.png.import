@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbtcanods1xaq"
-path="res://.godot/imported/attack_select_background.png-f85fa76d6c0790211fd3c1c9b5b1bcb5.ctex"
+path="res://.godot/imported/attack_select_background.png-5387d0519d07b9742e72ec2c8f810d56.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/attack_select_background.png"
-dest_files=["res://.godot/imported/attack_select_background.png-f85fa76d6c0790211fd3c1c9b5b1bcb5.ctex"]
+dest_files=["res://.godot/imported/attack_select_background.png-5387d0519d07b9742e72ec2c8f810d56.ctex"]
 
 [params]
 

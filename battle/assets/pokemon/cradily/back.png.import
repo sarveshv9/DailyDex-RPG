@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vq6rjcsko8ta"
-path="res://.godot/imported/back.png-80a577d6f02cb556f1df6f317285b48d.ctex"
+path="res://.godot/imported/back.png-888d6ee615aab443f6725a35d10d759f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cradily/back.png"
-dest_files=["res://.godot/imported/back.png-80a577d6f02cb556f1df6f317285b48d.ctex"]
+dest_files=["res://.godot/imported/back.png-888d6ee615aab443f6725a35d10d759f.ctex"]
 
 [params]
 

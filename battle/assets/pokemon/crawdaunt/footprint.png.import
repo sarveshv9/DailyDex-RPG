@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://biperitk0s4b5"
-path="res://.godot/imported/footprint.png-a094401439ae620a14f0f719a590719c.ctex"
+path="res://.godot/imported/footprint.png-2060b574707459243cd1396c41cd87e6.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/crawdaunt/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-a094401439ae620a14f0f719a590719c.ctex"]
+dest_files=["res://.godot/imported/footprint.png-2060b574707459243cd1396c41cd87e6.ctex"]
 
 [params]
 

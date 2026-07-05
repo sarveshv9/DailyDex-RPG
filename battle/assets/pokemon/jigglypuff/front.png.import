@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3fqsrql5cpti"
-path="res://.godot/imported/front.png-62ca8492acd9000781e56d0d8bb60509.ctex"
+path="res://.godot/imported/front.png-1abca71c5a388e76cf53d7b330713d0e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/jigglypuff/front.png"
-dest_files=["res://.godot/imported/front.png-62ca8492acd9000781e56d0d8bb60509.ctex"]
+dest_files=["res://.godot/imported/front.png-1abca71c5a388e76cf53d7b330713d0e.ctex"]
 
 [params]
 

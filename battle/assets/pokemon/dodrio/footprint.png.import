@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clvvaofy8vj44"
-path="res://.godot/imported/footprint.png-1925e5e540273f266a43cff253d9e06b.ctex"
+path="res://.godot/imported/footprint.png-be8b3f3af614c09720ee37e51d28d123.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/dodrio/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-1925e5e540273f266a43cff253d9e06b.ctex"]
+dest_files=["res://.godot/imported/footprint.png-be8b3f3af614c09720ee37e51d28d123.ctex"]
 
 [params]
 

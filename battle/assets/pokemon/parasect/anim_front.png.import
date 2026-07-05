@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp6cs5u1rk2r2"
-path="res://.godot/imported/anim_front.png-e27e769aa963f5b535a06b5ba4911101.ctex"
+path="res://.godot/imported/anim_front.png-9231d8b56574065e1c49772682ade05c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/parasect/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-e27e769aa963f5b535a06b5ba4911101.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-9231d8b56574065e1c49772682ade05c.ctex"]
 
 [params]
 

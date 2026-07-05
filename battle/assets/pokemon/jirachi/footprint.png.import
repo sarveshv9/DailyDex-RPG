@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b64xilide6aq7"
-path="res://.godot/imported/footprint.png-22f2f1a15f85c69ca57ddecd9f9c2ac9.ctex"
+path="res://.godot/imported/footprint.png-4be993b5cddd9ad8af50a036cb16c3be.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/jirachi/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-22f2f1a15f85c69ca57ddecd9f9c2ac9.ctex"]
+dest_files=["res://.godot/imported/footprint.png-4be993b5cddd9ad8af50a036cb16c3be.ctex"]
 
 [params]
 

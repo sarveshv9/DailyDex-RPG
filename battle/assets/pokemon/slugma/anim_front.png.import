@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca4d2jvkijqt5"
-path="res://.godot/imported/anim_front.png-75f4e19929f2ff1fd22cdc9f485802c6.ctex"
+path="res://.godot/imported/anim_front.png-747ff8f0c912152188e499e2629e0b2f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/slugma/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-75f4e19929f2ff1fd22cdc9f485802c6.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-747ff8f0c912152188e499e2629e0b2f.ctex"]
 
 [params]
 

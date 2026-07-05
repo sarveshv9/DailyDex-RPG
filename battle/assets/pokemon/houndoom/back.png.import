@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpy4h774p2cp6"
-path="res://.godot/imported/back.png-c998567af9b6eec0447d622320e85438.ctex"
+path="res://.godot/imported/back.png-52c719caffc0098a1194e363242cf3c7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/houndoom/back.png"
-dest_files=["res://.godot/imported/back.png-c998567af9b6eec0447d622320e85438.ctex"]
+dest_files=["res://.godot/imported/back.png-52c719caffc0098a1194e363242cf3c7.ctex"]
 
 [params]
 

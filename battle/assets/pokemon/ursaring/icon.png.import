@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cj387cfkpt75n"
-path="res://.godot/imported/icon.png-607fb49995a3623d186c98cee7f07427.ctex"
+path="res://.godot/imported/icon.png-1e3cda4a17d0779051427d7df9f8b353.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ursaring/icon.png"
-dest_files=["res://.godot/imported/icon.png-607fb49995a3623d186c98cee7f07427.ctex"]
+dest_files=["res://.godot/imported/icon.png-1e3cda4a17d0779051427d7df9f8b353.ctex"]
 
 [params]
 

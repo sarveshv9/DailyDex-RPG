@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mgbal38bea8b"
-path="res://.godot/imported/back.png-d39de12149ad8f109daeb278fb094892.ctex"
+path="res://.godot/imported/back.png-787b1f9cceb52269e4a07e6446535356.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/scyther/back.png"
-dest_files=["res://.godot/imported/back.png-d39de12149ad8f109daeb278fb094892.ctex"]
+dest_files=["res://.godot/imported/back.png-787b1f9cceb52269e4a07e6446535356.ctex"]
 
 [params]
 

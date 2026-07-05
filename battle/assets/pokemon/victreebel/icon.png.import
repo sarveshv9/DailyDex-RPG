@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwowbf033teo7"
-path="res://.godot/imported/icon.png-959f074e7be8cac7e085f07abbbdad78.ctex"
+path="res://.godot/imported/icon.png-72be940cc002d49b11194278ea4b81b5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/victreebel/icon.png"
-dest_files=["res://.godot/imported/icon.png-959f074e7be8cac7e085f07abbbdad78.ctex"]
+dest_files=["res://.godot/imported/icon.png-72be940cc002d49b11194278ea4b81b5.ctex"]
 
 [params]
 

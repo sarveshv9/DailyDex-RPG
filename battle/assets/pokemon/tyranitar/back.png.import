@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs4xawnlcin4n"
-path="res://.godot/imported/back.png-0158fd218af83fe8c98f75ce4d0178e2.ctex"
+path="res://.godot/imported/back.png-433200f244dff97f3512d5657b5d4e49.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/tyranitar/back.png"
-dest_files=["res://.godot/imported/back.png-0158fd218af83fe8c98f75ce4d0178e2.ctex"]
+dest_files=["res://.godot/imported/back.png-433200f244dff97f3512d5657b5d4e49.ctex"]
 
 [params]
 

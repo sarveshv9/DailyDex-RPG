@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blmem7m0c2hp1"
-path="res://.godot/imported/footprint.png-81f933d23ae1f65012a76147f377494a.ctex"
+path="res://.godot/imported/footprint.png-7e9041998865249f56a108456161d46c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/whismur/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-81f933d23ae1f65012a76147f377494a.ctex"]
+dest_files=["res://.godot/imported/footprint.png-7e9041998865249f56a108456161d46c.ctex"]
 
 [params]
 

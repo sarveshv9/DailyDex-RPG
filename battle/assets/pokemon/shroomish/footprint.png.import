@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clsmb85mfvlf8"
-path="res://.godot/imported/footprint.png-6e9c678c0f4ffb3f67c24dd800867ac0.ctex"
+path="res://.godot/imported/footprint.png-33782f5f3fb75b6cbc16dd28188c7d91.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/shroomish/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-6e9c678c0f4ffb3f67c24dd800867ac0.ctex"]
+dest_files=["res://.godot/imported/footprint.png-33782f5f3fb75b6cbc16dd28188c7d91.ctex"]
 
 [params]
 

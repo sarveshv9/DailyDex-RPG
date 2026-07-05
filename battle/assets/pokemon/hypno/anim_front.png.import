@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g8k2fdipdsl2"
-path="res://.godot/imported/anim_front.png-1afed199e997f73920763c506e0ae18d.ctex"
+path="res://.godot/imported/anim_front.png-2ca4368f8300f32ca1a497023cf7213b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/hypno/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-1afed199e997f73920763c506e0ae18d.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-2ca4368f8300f32ca1a497023cf7213b.ctex"]
 
 [params]
 

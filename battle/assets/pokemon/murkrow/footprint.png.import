@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cufu8lrsvy1aa"
-path="res://.godot/imported/footprint.png-a2a72302893cc28a20bff668eab28a73.ctex"
+path="res://.godot/imported/footprint.png-c5f26ac2a6b6c33f451d77c45fc8a0b1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/murkrow/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-a2a72302893cc28a20bff668eab28a73.ctex"]
+dest_files=["res://.godot/imported/footprint.png-c5f26ac2a6b6c33f451d77c45fc8a0b1.ctex"]
 
 [params]
 

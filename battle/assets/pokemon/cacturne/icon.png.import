@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm3158iiv5mky"
-path="res://.godot/imported/icon.png-1e0b9514861083472cfb3ec808f8bec5.ctex"
+path="res://.godot/imported/icon.png-5d0a88165b2c0da3fbbf38ae8218023a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cacturne/icon.png"
-dest_files=["res://.godot/imported/icon.png-1e0b9514861083472cfb3ec808f8bec5.ctex"]
+dest_files=["res://.godot/imported/icon.png-5d0a88165b2c0da3fbbf38ae8218023a.ctex"]
 
 [params]
 

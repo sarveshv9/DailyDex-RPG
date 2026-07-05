@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pv2xx1k64rtw"
-path="res://.godot/imported/footprint.png-1e63ec7e26a234256945234461471530.ctex"
+path="res://.godot/imported/footprint.png-decd4671cf39ce6b54b3cf52aef501cd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/delibird/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-1e63ec7e26a234256945234461471530.ctex"]
+dest_files=["res://.godot/imported/footprint.png-decd4671cf39ce6b54b3cf52aef501cd.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do6t6v82o32vb"
-path="res://.godot/imported/anim_front.png-bc8d1931bebac4a2c7366d313a262053.ctex"
+path="res://.godot/imported/anim_front.png-7903345d2d64edc249f7d7885c3c969d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/poliwhirl/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-bc8d1931bebac4a2c7366d313a262053.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-7903345d2d64edc249f7d7885c3c969d.ctex"]
 
 [params]
 

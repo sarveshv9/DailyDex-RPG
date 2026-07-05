@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gx0herc5sb8a"
-path="res://.godot/imported/anim_front.png-99c6b05486df83575fc08b100e4f7193.ctex"
+path="res://.godot/imported/anim_front.png-c93d3f253f5415da76fb6edc968920ef.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/pidgey/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-99c6b05486df83575fc08b100e4f7193.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-c93d3f253f5415da76fb6edc968920ef.ctex"]
 
 [params]
 

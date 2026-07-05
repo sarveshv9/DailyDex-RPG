@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvbvdoe6r3xtn"
-path="res://.godot/imported/footprint.png-869c62feedc8c5266ed07902246142cf.ctex"
+path="res://.godot/imported/footprint.png-db5b52ad451bfbdcc651c124d00dbd70.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/shuckle/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-869c62feedc8c5266ed07902246142cf.ctex"]
+dest_files=["res://.godot/imported/footprint.png-db5b52ad451bfbdcc651c124d00dbd70.ctex"]
 
 [params]
 

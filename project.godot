@@ -11,13 +11,14 @@ config_version=5
 [application]
 
 config/name="DailyDex_RPG"
-run/main_scene="res://maps/my_custom_map.tscn"
+run/main_scene="res://maps/starter_village.tscn"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
 
 TransitionLayer="*res://autoloads/transition_layer.tscn"
+DialogueUI="*res://ui/dialogue/dialogue_ui.tscn"
 
 [display]
 

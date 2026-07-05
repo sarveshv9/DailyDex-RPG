@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://oxwgni1txurr"
-path="res://.godot/imported/front.png-9c53cf01e088739ff4def57ca3d6585f.ctex"
+path="res://.godot/imported/front.png-fcab684920f0bed8b2d1fcda3ff3753f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/huntail/front.png"
-dest_files=["res://.godot/imported/front.png-9c53cf01e088739ff4def57ca3d6585f.ctex"]
+dest_files=["res://.godot/imported/front.png-fcab684920f0bed8b2d1fcda3ff3753f.ctex"]
 
 [params]
 

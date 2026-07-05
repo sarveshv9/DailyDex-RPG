@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctoqwjo77jcx"
-path="res://.godot/imported/footprint.png-01520c8900e06e05d1cfefcf44d4552c.ctex"
+path="res://.godot/imported/footprint.png-17913d5744935f3fcd3232e101e19cd7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/koffing/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-01520c8900e06e05d1cfefcf44d4552c.ctex"]
+dest_files=["res://.godot/imported/footprint.png-17913d5744935f3fcd3232e101e19cd7.ctex"]
 
 [params]
 

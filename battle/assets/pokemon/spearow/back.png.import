@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d38mxso6fawf4"
-path="res://.godot/imported/back.png-1da9311d63967ba9fc1ff80756fc92c9.ctex"
+path="res://.godot/imported/back.png-c3da2e8ee7b84f3107beefd07d23ddc9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/spearow/back.png"
-dest_files=["res://.godot/imported/back.png-1da9311d63967ba9fc1ff80756fc92c9.ctex"]
+dest_files=["res://.godot/imported/back.png-c3da2e8ee7b84f3107beefd07d23ddc9.ctex"]
 
 [params]
 

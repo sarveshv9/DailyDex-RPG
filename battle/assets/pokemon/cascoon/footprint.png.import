@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ehqvxaf3ucyn"
-path="res://.godot/imported/footprint.png-a693a5ddec916a3d54505922b64eedf7.ctex"
+path="res://.godot/imported/footprint.png-a902edd8518671a0fa66b37c55d8e653.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cascoon/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-a693a5ddec916a3d54505922b64eedf7.ctex"]
+dest_files=["res://.godot/imported/footprint.png-a902edd8518671a0fa66b37c55d8e653.ctex"]
 
 [params]
 

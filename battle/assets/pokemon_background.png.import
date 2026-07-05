@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bshxl6mq0qb3"
-path="res://.godot/imported/pokemon_background.png-6984807d5d3cd999f35de60faaec2bc4.ctex"
+path="res://.godot/imported/pokemon_background.png-1167c155ba3dc525fc31eb435b590ad9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon_background.png"
-dest_files=["res://.godot/imported/pokemon_background.png-6984807d5d3cd999f35de60faaec2bc4.ctex"]
+dest_files=["res://.godot/imported/pokemon_background.png-1167c155ba3dc525fc31eb435b590ad9.ctex"]
 
 [params]
 

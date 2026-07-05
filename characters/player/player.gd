@@ -23,13 +23,26 @@ func _ready():
 		transition.player_spawn_pos = Vector2.ZERO
 		
 	_play_idle(facing)
-
+	
+	# Automatically adjust camera limits based on the map's tilemap
+	var camera = $Camera2D
+	if camera:
+		var map_parent = get_parent()
+		var first_tilemap: TileMapLayer = null
+		for child in map_parent.get_children():
+			if child is TileMapLayer:
+				first_tilemap = child
+				break
+				
+		if first_tilemap and first_tilemap.tile_set:
+			var used_rect = first_tilemap.get_used_rect()
+			var tile_size = first_tilemap.tile_set.tile_size
+			camera.limit_left = used_rect.position.x * tile_size.x
+			camera.limit_top = used_rect.position.y * tile_size.y
+			camera.limit_right = (used_rect.position.x + used_rect.size.x) * tile_size.x
+			camera.limit_bottom = (used_rect.position.y + used_rect.size.y) * tile_size.y
 func _physics_process(_delta):
 	if is_moving:
-		return
-		
-	if Input.is_action_just_pressed("interact") and not is_moving:
-		_attempt_interact()
 		return
 		
 	var input_dir = Vector2.ZERO
@@ -54,7 +67,11 @@ func _attempt_interact():
 	if ray.is_colliding():
 		var collider = ray.get_collider()
 		if collider and collider.has_method("interact"):
-			collider.interact()
+			collider.interact(self)
+
+func _unhandled_input(event):
+	if event.is_action_pressed("interact") and not is_moving:
+		_attempt_interact()
 
 func _attempt_move(dir: Vector2):
 	facing = dir
@@ -99,7 +116,10 @@ func _play_walk(dir: Vector2):
 		anim.play("walk_right")
 
 func _check_encounter():
-	var tilemap = get_parent().get_node_or_null("GroundLayer") as TileMapLayer
+	# Check both "Ground" (new maps) and "GroundLayer" (old maps)
+	var tilemap = get_parent().get_node_or_null("Ground") as TileMapLayer
+	if not tilemap:
+		tilemap = get_parent().get_node_or_null("GroundLayer") as TileMapLayer
 	if not tilemap:
 		return
 		

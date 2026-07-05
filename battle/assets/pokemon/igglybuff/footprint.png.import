@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf5t2nhojhgud"
-path="res://.godot/imported/footprint.png-ce50e0fddf396b6c4c73133afa58ce9d.ctex"
+path="res://.godot/imported/footprint.png-252ed952a96466da0089024b4398efc8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/igglybuff/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-ce50e0fddf396b6c4c73133afa58ce9d.ctex"]
+dest_files=["res://.godot/imported/footprint.png-252ed952a96466da0089024b4398efc8.ctex"]
 
 [params]
 

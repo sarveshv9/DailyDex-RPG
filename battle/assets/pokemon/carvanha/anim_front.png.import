@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://t1dh745omw11"
-path="res://.godot/imported/anim_front.png-9d8302a25a214b6344596617a4522cb3.ctex"
+path="res://.godot/imported/anim_front.png-c8a60e41c32105cccf8ee4a24b72fe87.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/carvanha/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-9d8302a25a214b6344596617a4522cb3.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-c8a60e41c32105cccf8ee4a24b72fe87.ctex"]
 
 [params]
 

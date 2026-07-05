@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://osh4n5r3koq1"
-path="res://.godot/imported/footprint.png-9779b80eb65ee119c16b0d18287b067c.ctex"
+path="res://.godot/imported/footprint.png-a9f57620707f093f1efd17836272607d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/makuhita/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-9779b80eb65ee119c16b0d18287b067c.ctex"]
+dest_files=["res://.godot/imported/footprint.png-a9f57620707f093f1efd17836272607d.ctex"]
 
 [params]
 

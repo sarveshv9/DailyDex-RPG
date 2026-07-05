@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://70c2vl68a1lw"
-path="res://.godot/imported/front.png-747b0a19c81ced9e49f6a0a19a20224e.ctex"
+path="res://.godot/imported/front.png-08e7ef57d08fd3580de8f7bbd3211edc.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/vileplume/front.png"
-dest_files=["res://.godot/imported/front.png-747b0a19c81ced9e49f6a0a19a20224e.ctex"]
+dest_files=["res://.godot/imported/front.png-08e7ef57d08fd3580de8f7bbd3211edc.ctex"]
 
 [params]
 

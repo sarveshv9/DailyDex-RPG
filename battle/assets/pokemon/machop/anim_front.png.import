@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6n51thku8lx8"
-path="res://.godot/imported/anim_front.png-fc5ffbc14f0467f709781299b7b05f83.ctex"
+path="res://.godot/imported/anim_front.png-77d08e4a4ab33f3ebc15a5df8fbf22ff.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/machop/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-fc5ffbc14f0467f709781299b7b05f83.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-77d08e4a4ab33f3ebc15a5df8fbf22ff.ctex"]
 
 [params]
 

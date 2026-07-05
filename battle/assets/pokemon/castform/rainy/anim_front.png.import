@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7k6vtu71mng"
-path="res://.godot/imported/anim_front.png-4395c53c9355fa485cf64f64a251727d.ctex"
+path="res://.godot/imported/anim_front.png-fd90cb5f35be04bc7029ad1ae7ae2937.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/castform/rainy/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-4395c53c9355fa485cf64f64a251727d.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-fd90cb5f35be04bc7029ad1ae7ae2937.ctex"]
 
 [params]
 

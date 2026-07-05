@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7i7t2kh5nrwi"
-path="res://.godot/imported/anim_front.png-ef6daa9614a86e8fb77f5739fcb0e4dd.ctex"
+path="res://.godot/imported/anim_front.png-efcf3ca0c46fa1c90ef9649a0b2be649.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/seel/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-ef6daa9614a86e8fb77f5739fcb0e4dd.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-efcf3ca0c46fa1c90ef9649a0b2be649.ctex"]
 
 [params]
 

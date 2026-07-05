@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsl6pcjhqhr4a"
-path="res://.godot/imported/footprint.png-04bb1b1f2415b7e38b515f098a0897ae.ctex"
+path="res://.godot/imported/footprint.png-5d78c8fba2173c3eb96625c44661dfe7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/shelgon/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-04bb1b1f2415b7e38b515f098a0897ae.ctex"]
+dest_files=["res://.godot/imported/footprint.png-5d78c8fba2173c3eb96625c44661dfe7.ctex"]
 
 [params]
 

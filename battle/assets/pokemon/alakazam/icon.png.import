@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r5mn77lfxb7"
-path="res://.godot/imported/icon.png-3e5bc65716e5f765904d77442b0f4ad2.ctex"
+path="res://.godot/imported/icon.png-4ff8361393490fa9765773f053a568b8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/alakazam/icon.png"
-dest_files=["res://.godot/imported/icon.png-3e5bc65716e5f765904d77442b0f4ad2.ctex"]
+dest_files=["res://.godot/imported/icon.png-4ff8361393490fa9765773f053a568b8.ctex"]
 
 [params]
 

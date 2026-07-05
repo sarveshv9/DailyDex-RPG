@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca4rbot3qogtg"
-path="res://.godot/imported/footprint.png-dfc7d384ba02ca92f5918ee572c3cd41.ctex"
+path="res://.godot/imported/footprint.png-5637ce13ba80dfba91463a0217a6cf3e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/primeape/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-dfc7d384ba02ca92f5918ee572c3cd41.ctex"]
+dest_files=["res://.godot/imported/footprint.png-5637ce13ba80dfba91463a0217a6cf3e.ctex"]
 
 [params]
 

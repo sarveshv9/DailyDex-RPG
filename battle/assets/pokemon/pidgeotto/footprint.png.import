@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dos48cqrgw81q"
-path="res://.godot/imported/footprint.png-ebb8b35f2c25277a646a869a2f986374.ctex"
+path="res://.godot/imported/footprint.png-e72abf3d4980a5ffe3c0f168bf41c65c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/pidgeotto/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-ebb8b35f2c25277a646a869a2f986374.ctex"]
+dest_files=["res://.godot/imported/footprint.png-e72abf3d4980a5ffe3c0f168bf41c65c.ctex"]
 
 [params]
 

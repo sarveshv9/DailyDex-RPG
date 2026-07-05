@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyu2byucwvo13"
-path="res://.godot/imported/icon.png-282949a4b4fe10b14226ada191528af0.ctex"
+path="res://.godot/imported/icon.png-46c27b9e67a3ef745509500911f010c9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/diglett/icon.png"
-dest_files=["res://.godot/imported/icon.png-282949a4b4fe10b14226ada191528af0.ctex"]
+dest_files=["res://.godot/imported/icon.png-46c27b9e67a3ef745509500911f010c9.ctex"]
 
 [params]
 

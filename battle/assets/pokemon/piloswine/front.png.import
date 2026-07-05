@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jpfkrbbj18"
-path="res://.godot/imported/front.png-87848b75baa2db8d250144cbdfa8bdda.ctex"
+path="res://.godot/imported/front.png-a41450f671ebd0da9e314f3d8f7f58d3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/piloswine/front.png"
-dest_files=["res://.godot/imported/front.png-87848b75baa2db8d250144cbdfa8bdda.ctex"]
+dest_files=["res://.godot/imported/front.png-a41450f671ebd0da9e314f3d8f7f58d3.ctex"]
 
 [params]
 

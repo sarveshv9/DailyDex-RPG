@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h6t64sevph6w"
-path="res://.godot/imported/footprint.png-ea575128a9f39cab51b39ea0b8286702.ctex"
+path="res://.godot/imported/footprint.png-8c465c4d0f8cc16e670e9359a71b3540.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/octillery/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-ea575128a9f39cab51b39ea0b8286702.ctex"]
+dest_files=["res://.godot/imported/footprint.png-8c465c4d0f8cc16e670e9359a71b3540.ctex"]
 
 [params]
 

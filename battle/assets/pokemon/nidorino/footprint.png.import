@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtwaduwvcccvy"
-path="res://.godot/imported/footprint.png-cd76a22087feaf8e6d945f503c1d3034.ctex"
+path="res://.godot/imported/footprint.png-53501bde57b2c1a91ae5deae0ab6c0ef.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/nidorino/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-cd76a22087feaf8e6d945f503c1d3034.ctex"]
+dest_files=["res://.godot/imported/footprint.png-53501bde57b2c1a91ae5deae0ab6c0ef.ctex"]
 
 [params]
 

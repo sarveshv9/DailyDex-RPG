@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddxxgdcae71tc"
-path="res://.godot/imported/footprint.png-89d22e5480e8abd8abf59a30a0fd23d9.ctex"
+path="res://.godot/imported/footprint.png-8d75935238bf93f553307f2fe7ff267c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/rapidash/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-89d22e5480e8abd8abf59a30a0fd23d9.ctex"]
+dest_files=["res://.godot/imported/footprint.png-8d75935238bf93f553307f2fe7ff267c.ctex"]
 
 [params]
 

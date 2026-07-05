@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1cikobpqarpv"
-path="res://.godot/imported/back.png-ceccea991555b49c7271f4fcb07cc284.ctex"
+path="res://.godot/imported/back.png-a7353346cc6452d3bc60ec951788f3ce.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/umbreon/back.png"
-dest_files=["res://.godot/imported/back.png-ceccea991555b49c7271f4fcb07cc284.ctex"]
+dest_files=["res://.godot/imported/back.png-a7353346cc6452d3bc60ec951788f3ce.ctex"]
 
 [params]
 

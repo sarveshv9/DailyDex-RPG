@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqpogyq3blsbe"
-path="res://.godot/imported/back.png-dd229f2570271dcd080703b43abed05c.ctex"
+path="res://.godot/imported/back.png-94e96f24d5ed1fd07483124ba145328d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/lotad/back.png"
-dest_files=["res://.godot/imported/back.png-dd229f2570271dcd080703b43abed05c.ctex"]
+dest_files=["res://.godot/imported/back.png-94e96f24d5ed1fd07483124ba145328d.ctex"]
 
 [params]
 

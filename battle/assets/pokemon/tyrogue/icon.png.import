@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vyj3shpf7fxm"
-path="res://.godot/imported/icon.png-29d287be1a71d2a85e731ed31fb9768c.ctex"
+path="res://.godot/imported/icon.png-11410a49f60619c06279290a1177007c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/tyrogue/icon.png"
-dest_files=["res://.godot/imported/icon.png-29d287be1a71d2a85e731ed31fb9768c.ctex"]
+dest_files=["res://.godot/imported/icon.png-11410a49f60619c06279290a1177007c.ctex"]
 
 [params]
 

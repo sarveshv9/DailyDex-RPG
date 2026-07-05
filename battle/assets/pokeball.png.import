@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://icgge7fc2xq8"
-path="res://.godot/imported/pokeball.png-a8f2862ec54a5a349f1b4afac4c60240.ctex"
+path="res://.godot/imported/pokeball.png-2cc7dff0a48e4fb9b997f3c7787c2329.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokeball.png"
-dest_files=["res://.godot/imported/pokeball.png-a8f2862ec54a5a349f1b4afac4c60240.ctex"]
+dest_files=["res://.godot/imported/pokeball.png-2cc7dff0a48e4fb9b997f3c7787c2329.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vqmbp1oeh3hi"
-path="res://.godot/imported/footprint.png-adf0e4d0fae25bce712f23de561cff86.ctex"
+path="res://.godot/imported/footprint.png-0e8cb616957d2c59d5e1d398328c7796.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/vulpix/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-adf0e4d0fae25bce712f23de561cff86.ctex"]
+dest_files=["res://.godot/imported/footprint.png-0e8cb616957d2c59d5e1d398328c7796.ctex"]
 
 [params]
 

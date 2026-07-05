@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhtr2tylvyga6"
-path="res://.godot/imported/footprint.png-951ab815641c93b17e3facb352c06766.ctex"
+path="res://.godot/imported/footprint.png-d6022199bc31b2fa3e5d4893ff035a89.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/chansey/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-951ab815641c93b17e3facb352c06766.ctex"]
+dest_files=["res://.godot/imported/footprint.png-d6022199bc31b2fa3e5d4893ff035a89.ctex"]
 
 [params]
 

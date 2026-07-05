@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccyuyjd0hwqdp"
-path="res://.godot/imported/back.png-00191a1038aaea21a0e55b32b7a9c09e.ctex"
+path="res://.godot/imported/back.png-c62b09f05ef42fd4bc1316648d19a22f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/noctowl/back.png"
-dest_files=["res://.godot/imported/back.png-00191a1038aaea21a0e55b32b7a9c09e.ctex"]
+dest_files=["res://.godot/imported/back.png-c62b09f05ef42fd4bc1316648d19a22f.ctex"]
 
 [params]
 

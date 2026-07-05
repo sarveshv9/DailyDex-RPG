@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5ng88o1hkr1d"
-path="res://.godot/imported/back.png-9b550ddc23d9df31dafb1613a40f369a.ctex"
+path="res://.godot/imported/back.png-4053b8950d7e292d2813cc5dcae8ff23.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ditto/back.png"
-dest_files=["res://.godot/imported/back.png-9b550ddc23d9df31dafb1613a40f369a.ctex"]
+dest_files=["res://.godot/imported/back.png-4053b8950d7e292d2813cc5dcae8ff23.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbeji84a31fd4"
-path="res://.godot/imported/anim_front.png-1aebbc88ba938ad21d1f4220533f9671.ctex"
+path="res://.godot/imported/anim_front.png-db21b27e1d6e6034783866ffef50a97f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/golbat/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-1aebbc88ba938ad21d1f4220533f9671.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-db21b27e1d6e6034783866ffef50a97f.ctex"]
 
 [params]
 

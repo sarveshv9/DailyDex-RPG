@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2rs1dvpv456s"
-path="res://.godot/imported/back.png-71104f0a58cabe418d5e3a3003bf1581.ctex"
+path="res://.godot/imported/back.png-65928de7f5e89b2193aaa9aa29657865.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/gulpin/back.png"
-dest_files=["res://.godot/imported/back.png-71104f0a58cabe418d5e3a3003bf1581.ctex"]
+dest_files=["res://.godot/imported/back.png-65928de7f5e89b2193aaa9aa29657865.ctex"]
 
 [params]
 

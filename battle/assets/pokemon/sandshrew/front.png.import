@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds78x70aoq6l0"
-path="res://.godot/imported/front.png-2a79d4787ee259ec0b20af9032aa7566.ctex"
+path="res://.godot/imported/front.png-d6e24a4a6409e4de7f1bc1fa28204153.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sandshrew/front.png"
-dest_files=["res://.godot/imported/front.png-2a79d4787ee259ec0b20af9032aa7566.ctex"]
+dest_files=["res://.godot/imported/front.png-d6e24a4a6409e4de7f1bc1fa28204153.ctex"]
 
 [params]
 

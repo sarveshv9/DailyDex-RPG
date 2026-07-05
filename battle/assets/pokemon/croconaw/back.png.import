@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtr5dt7jnmw0f"
-path="res://.godot/imported/back.png-0146379ed88fc7ac05ee2cddc19ea452.ctex"
+path="res://.godot/imported/back.png-97dd1066616f245b73f5727a8160af5d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/croconaw/back.png"
-dest_files=["res://.godot/imported/back.png-0146379ed88fc7ac05ee2cddc19ea452.ctex"]
+dest_files=["res://.godot/imported/back.png-97dd1066616f245b73f5727a8160af5d.ctex"]
 
 [params]
 

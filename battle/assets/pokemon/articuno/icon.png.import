@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y57nei1oo3vp"
-path="res://.godot/imported/icon.png-956b811e61564356903f8d0caf90ef54.ctex"
+path="res://.godot/imported/icon.png-af9da3390445edc8ed35f8b5dce40cfb.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/articuno/icon.png"
-dest_files=["res://.godot/imported/icon.png-956b811e61564356903f8d0caf90ef54.ctex"]
+dest_files=["res://.godot/imported/icon.png-af9da3390445edc8ed35f8b5dce40cfb.ctex"]
 
 [params]
 

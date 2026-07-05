@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0x220p316nj6"
-path="res://.godot/imported/footprint.png-deef6e9242d68f4d4d5929210af2bcfb.ctex"
+path="res://.godot/imported/footprint.png-67c532930c7d09d8964e6efcc4ffdee3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/shellder/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-deef6e9242d68f4d4d5929210af2bcfb.ctex"]
+dest_files=["res://.godot/imported/footprint.png-67c532930c7d09d8964e6efcc4ffdee3.ctex"]
 
 [params]
 

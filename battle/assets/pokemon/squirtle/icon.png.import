@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxho1y7a4j4oa"
-path="res://.godot/imported/icon.png-f2ad2559500ceb954594e25e6de11401.ctex"
+path="res://.godot/imported/icon.png-e84c6e7e9a71d7f482c27917b7528ae5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/squirtle/icon.png"
-dest_files=["res://.godot/imported/icon.png-f2ad2559500ceb954594e25e6de11401.ctex"]
+dest_files=["res://.godot/imported/icon.png-e84c6e7e9a71d7f482c27917b7528ae5.ctex"]
 
 [params]
 

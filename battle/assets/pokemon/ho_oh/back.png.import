@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctth4fkq3stot"
-path="res://.godot/imported/back.png-7b838ad916248cb362b8f50d446455dc.ctex"
+path="res://.godot/imported/back.png-d990e77030efbe1e82bdf4ed2baf4c74.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ho_oh/back.png"
-dest_files=["res://.godot/imported/back.png-7b838ad916248cb362b8f50d446455dc.ctex"]
+dest_files=["res://.godot/imported/back.png-d990e77030efbe1e82bdf4ed2baf4c74.ctex"]
 
 [params]
 

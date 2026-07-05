@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqtkku6gk5odj"
-path="res://.godot/imported/anim_front.png-33ca279b9425c33c0747087012c31026.ctex"
+path="res://.godot/imported/anim_front.png-453c205e997671d8c01f0c25ed0cffed.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/nidoking/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-33ca279b9425c33c0747087012c31026.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-453c205e997671d8c01f0c25ed0cffed.ctex"]
 
 [params]
 

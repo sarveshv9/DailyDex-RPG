@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpuuqjqix3wq8"
-path="res://.godot/imported/icon.png-c21a87f250efc138c96cb686fa38214f.ctex"
+path="res://.godot/imported/icon.png-c51d6144b6694418c6e512b767d040c3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/shedinja/icon.png"
-dest_files=["res://.godot/imported/icon.png-c21a87f250efc138c96cb686fa38214f.ctex"]
+dest_files=["res://.godot/imported/icon.png-c51d6144b6694418c6e512b767d040c3.ctex"]
 
 [params]
 

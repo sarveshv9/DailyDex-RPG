@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmei3nmtt8lii"
-path="res://.godot/imported/icon.png-94df0a67b6ba43067a81c61d12258d87.ctex"
+path="res://.godot/imported/icon.png-a1a1128c8482009d51c00a54082db053.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/vulpix/icon.png"
-dest_files=["res://.godot/imported/icon.png-94df0a67b6ba43067a81c61d12258d87.ctex"]
+dest_files=["res://.godot/imported/icon.png-a1a1128c8482009d51c00a54082db053.ctex"]
 
 [params]
 

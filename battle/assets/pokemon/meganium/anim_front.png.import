@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvdocj6obagk"
-path="res://.godot/imported/anim_front.png-74edbb32fd1e12464dde3da69ad8ca36.ctex"
+path="res://.godot/imported/anim_front.png-7f6abe622dc05d80280be2bda4a4c0f9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/meganium/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-74edbb32fd1e12464dde3da69ad8ca36.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-7f6abe622dc05d80280be2bda4a4c0f9.ctex"]
 
 [params]
 

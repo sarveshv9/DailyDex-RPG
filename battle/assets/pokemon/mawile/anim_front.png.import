@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1vwnwgepyia2"
-path="res://.godot/imported/anim_front.png-6748497c75a9140a4d456efcc04bce98.ctex"
+path="res://.godot/imported/anim_front.png-b385da1a507d1141e944171cb869864e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mawile/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-6748497c75a9140a4d456efcc04bce98.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-b385da1a507d1141e944171cb869864e.ctex"]
 
 [params]
 

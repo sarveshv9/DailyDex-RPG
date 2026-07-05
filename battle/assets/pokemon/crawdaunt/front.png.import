@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://eh8rlsnpo1d2"
-path="res://.godot/imported/front.png-c5d21470bddb3a1459dc47b980a736f8.ctex"
+path="res://.godot/imported/front.png-bc58e2f1fdb23ef9e29912df9d56a2be.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/crawdaunt/front.png"
-dest_files=["res://.godot/imported/front.png-c5d21470bddb3a1459dc47b980a736f8.ctex"]
+dest_files=["res://.godot/imported/front.png-bc58e2f1fdb23ef9e29912df9d56a2be.ctex"]
 
 [params]
 

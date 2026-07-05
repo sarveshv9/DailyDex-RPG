@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dreqvb3a4pf76"
-path="res://.godot/imported/footprint.png-2f7c68c1e5a5b584895b3cc95abaadd0.ctex"
+path="res://.godot/imported/footprint.png-db12356ba717674403d436137d7e7019.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/bagon/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-2f7c68c1e5a5b584895b3cc95abaadd0.ctex"]
+dest_files=["res://.godot/imported/footprint.png-db12356ba717674403d436137d7e7019.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uey1uklsdhxi"
-path="res://.godot/imported/front.png-dd59ee0fef8b78887d05eb6e2a151960.ctex"
+path="res://.godot/imported/front.png-e968fcfc200b14968230bbcc25efac7f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/spinda/front.png"
-dest_files=["res://.godot/imported/front.png-dd59ee0fef8b78887d05eb6e2a151960.ctex"]
+dest_files=["res://.godot/imported/front.png-e968fcfc200b14968230bbcc25efac7f.ctex"]
 
 [params]
 

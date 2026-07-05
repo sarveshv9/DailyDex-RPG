@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwc8jyx8pj6nv"
-path="res://.godot/imported/icon.png-cbf6be8a31e578873fb5786e653b5d60.ctex"
+path="res://.godot/imported/icon.png-8572bc5e73e171043ca5e773d0203bd1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/electabuzz/icon.png"
-dest_files=["res://.godot/imported/icon.png-cbf6be8a31e578873fb5786e653b5d60.ctex"]
+dest_files=["res://.godot/imported/icon.png-8572bc5e73e171043ca5e773d0203bd1.ctex"]
 
 [params]
 

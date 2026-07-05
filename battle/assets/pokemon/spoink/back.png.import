@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnhta3ix5oldn"
-path="res://.godot/imported/back.png-27f1106760203293c5576d99af3a1f0d.ctex"
+path="res://.godot/imported/back.png-f2be8900660b242fb7b8a8f73e23a090.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/spoink/back.png"
-dest_files=["res://.godot/imported/back.png-27f1106760203293c5576d99af3a1f0d.ctex"]
+dest_files=["res://.godot/imported/back.png-f2be8900660b242fb7b8a8f73e23a090.ctex"]
 
 [params]
 

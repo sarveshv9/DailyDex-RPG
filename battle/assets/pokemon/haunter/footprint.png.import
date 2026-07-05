@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw6qr7f81nipk"
-path="res://.godot/imported/footprint.png-8a70143491b1aec0eca441e0cc794b7d.ctex"
+path="res://.godot/imported/footprint.png-fe6597e24c5b77b444373edd239ebff9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/haunter/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-8a70143491b1aec0eca441e0cc794b7d.ctex"]
+dest_files=["res://.godot/imported/footprint.png-fe6597e24c5b77b444373edd239ebff9.ctex"]
 
 [params]
 

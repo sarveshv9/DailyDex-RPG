@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr3xkolnahkjt"
-path="res://.godot/imported/front.png-769ded1d413e837ed613063fe1b76542.ctex"
+path="res://.godot/imported/front.png-1d7bb707fdc2753104709c89e3cda5f7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/taillow/front.png"
-dest_files=["res://.godot/imported/front.png-769ded1d413e837ed613063fe1b76542.ctex"]
+dest_files=["res://.godot/imported/front.png-1d7bb707fdc2753104709c89e3cda5f7.ctex"]
 
 [params]
 

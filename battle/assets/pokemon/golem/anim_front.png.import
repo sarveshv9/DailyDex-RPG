@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds8xv76tbtl8v"
-path="res://.godot/imported/anim_front.png-a560af666476ef1bace3bcbd42b3c3b4.ctex"
+path="res://.godot/imported/anim_front.png-73f26d7f67a978b783fc4d2994cfd846.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/golem/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-a560af666476ef1bace3bcbd42b3c3b4.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-73f26d7f67a978b783fc4d2994cfd846.ctex"]
 
 [params]
 

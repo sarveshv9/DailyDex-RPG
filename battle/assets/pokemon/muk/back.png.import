@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iggrc5od8x2u"
-path="res://.godot/imported/back.png-9d1e29c17571896189c8d4e15de851f8.ctex"
+path="res://.godot/imported/back.png-b95041ad3b53a3d76a392924964a627a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/muk/back.png"
-dest_files=["res://.godot/imported/back.png-9d1e29c17571896189c8d4e15de851f8.ctex"]
+dest_files=["res://.godot/imported/back.png-b95041ad3b53a3d76a392924964a627a.ctex"]
 
 [params]
 

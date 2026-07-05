@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccvsxmmemeet5"
-path="res://.godot/imported/icon.png-9a80cba4d8582ff9899dfe3ab3d26829.ctex"
+path="res://.godot/imported/icon.png-7538ff01fce430475e7563091e5b9ac2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/drowzee/icon.png"
-dest_files=["res://.godot/imported/icon.png-9a80cba4d8582ff9899dfe3ab3d26829.ctex"]
+dest_files=["res://.godot/imported/icon.png-7538ff01fce430475e7563091e5b9ac2.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7vxwdra5twc"
-path="res://.godot/imported/back.png-150a5138833a2a426c61fe4fda91bf35.ctex"
+path="res://.godot/imported/back.png-9da97964ddefdcd68e852db289dbe737.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/chinchou/back.png"
-dest_files=["res://.godot/imported/back.png-150a5138833a2a426c61fe4fda91bf35.ctex"]
+dest_files=["res://.godot/imported/back.png-9da97964ddefdcd68e852db289dbe737.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd382qf18ocb8"
-path="res://.godot/imported/anim_front.png-1c2335c02b292ada68dc94916fdbcd8b.ctex"
+path="res://.godot/imported/anim_front.png-0bee24fc87a056d9d1ceeb170257fa67.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/nidoran_m/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-1c2335c02b292ada68dc94916fdbcd8b.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-0bee24fc87a056d9d1ceeb170257fa67.ctex"]
 
 [params]
 

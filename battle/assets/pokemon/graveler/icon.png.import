@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2x43rnbtccr0"
-path="res://.godot/imported/icon.png-96e1546fb1b4378331c13ace3cf8e159.ctex"
+path="res://.godot/imported/icon.png-054f9c98616a07645cba3a4cca6983ae.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/graveler/icon.png"
-dest_files=["res://.godot/imported/icon.png-96e1546fb1b4378331c13ace3cf8e159.ctex"]
+dest_files=["res://.godot/imported/icon.png-054f9c98616a07645cba3a4cca6983ae.ctex"]
 
 [params]
 

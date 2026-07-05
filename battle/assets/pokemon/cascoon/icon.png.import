@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pfpqeatosj6j"
-path="res://.godot/imported/icon.png-13dd7ed7d90abf8bc7296fc7863a79e0.ctex"
+path="res://.godot/imported/icon.png-af000282a0edc6f138d1f56d90caa565.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cascoon/icon.png"
-dest_files=["res://.godot/imported/icon.png-13dd7ed7d90abf8bc7296fc7863a79e0.ctex"]
+dest_files=["res://.godot/imported/icon.png-af000282a0edc6f138d1f56d90caa565.ctex"]
 
 [params]
 

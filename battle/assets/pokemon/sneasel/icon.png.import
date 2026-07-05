@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf4cdty2b4xcw"
-path="res://.godot/imported/icon.png-c8b2283af439bb9a740b4cb3f99a2797.ctex"
+path="res://.godot/imported/icon.png-c6cb38b87f483b45a3b3cfdf9a5682f7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sneasel/icon.png"
-dest_files=["res://.godot/imported/icon.png-c8b2283af439bb9a740b4cb3f99a2797.ctex"]
+dest_files=["res://.godot/imported/icon.png-c6cb38b87f483b45a3b3cfdf9a5682f7.ctex"]
 
 [params]
 

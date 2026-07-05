@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rfydnx2bt3ce"
-path="res://.godot/imported/anim_front.png-5125f741bb4899a7124f06753414b2ed.ctex"
+path="res://.godot/imported/anim_front.png-f710647b5fd1a1457fc43687cce23ea1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/anorith/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-5125f741bb4899a7124f06753414b2ed.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-f710647b5fd1a1457fc43687cce23ea1.ctex"]
 
 [params]
 

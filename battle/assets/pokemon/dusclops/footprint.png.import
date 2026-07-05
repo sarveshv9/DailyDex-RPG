@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bne26oh3uy7a6"
-path="res://.godot/imported/footprint.png-c1989101c12f94348f75e0312e33204f.ctex"
+path="res://.godot/imported/footprint.png-68ee98a5da7831955dea602b0e48e394.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/dusclops/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-c1989101c12f94348f75e0312e33204f.ctex"]
+dest_files=["res://.godot/imported/footprint.png-68ee98a5da7831955dea602b0e48e394.ctex"]
 
 [params]
 

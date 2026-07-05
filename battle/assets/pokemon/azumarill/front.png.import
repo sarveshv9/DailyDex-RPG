@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1qoivlsluwm7"
-path="res://.godot/imported/front.png-563fd6a84acec4e0dca349e480b7c4b7.ctex"
+path="res://.godot/imported/front.png-d5e4d0295191f4cda73f75a4e2801554.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/azumarill/front.png"
-dest_files=["res://.godot/imported/front.png-563fd6a84acec4e0dca349e480b7c4b7.ctex"]
+dest_files=["res://.godot/imported/front.png-d5e4d0295191f4cda73f75a4e2801554.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxrmeka0588xp"
-path="res://.godot/imported/back.png-6986ca0c15ceba592951f5ee652ea255.ctex"
+path="res://.godot/imported/back.png-c0bf65247497753d76a6683f60e2c31d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/corsola/back.png"
-dest_files=["res://.godot/imported/back.png-6986ca0c15ceba592951f5ee652ea255.ctex"]
+dest_files=["res://.godot/imported/back.png-c0bf65247497753d76a6683f60e2c31d.ctex"]
 
 [params]
 

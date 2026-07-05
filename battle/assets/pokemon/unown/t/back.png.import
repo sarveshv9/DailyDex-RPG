@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://u112o16xynhf"
-path="res://.godot/imported/back.png-909880518020d61f841433e30a1ee998.ctex"
+path="res://.godot/imported/back.png-62f02c90883d463038454790d75a2d67.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/unown/t/back.png"
-dest_files=["res://.godot/imported/back.png-909880518020d61f841433e30a1ee998.ctex"]
+dest_files=["res://.godot/imported/back.png-62f02c90883d463038454790d75a2d67.ctex"]
 
 [params]
 

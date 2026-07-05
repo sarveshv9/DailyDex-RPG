@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgfj00hmqu7q0"
-path="res://.godot/imported/anim_front.png-dbf824e59552e1c9ff0b84e99f3a71c7.ctex"
+path="res://.godot/imported/anim_front.png-1de47d810253ce814a231bbf47d86694.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/horsea/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-dbf824e59552e1c9ff0b84e99f3a71c7.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-1de47d810253ce814a231bbf47d86694.ctex"]
 
 [params]
 

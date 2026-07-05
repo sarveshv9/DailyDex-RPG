@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cso164gwp1yq7"
-path="res://.godot/imported/back.png-271da9fbaa3a51ae6a78cbf7ea88d352.ctex"
+path="res://.godot/imported/back.png-a1ef714ca4d094b0fa5ccd234b5f4099.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/magneton/back.png"
-dest_files=["res://.godot/imported/back.png-271da9fbaa3a51ae6a78cbf7ea88d352.ctex"]
+dest_files=["res://.godot/imported/back.png-a1ef714ca4d094b0fa5ccd234b5f4099.ctex"]
 
 [params]
 

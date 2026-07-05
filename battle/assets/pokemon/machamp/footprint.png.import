@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb5qktysx4pfc"
-path="res://.godot/imported/footprint.png-de6e347f5a2715eb31c878d17a35de2a.ctex"
+path="res://.godot/imported/footprint.png-e5b1fbda445254d5c97577844624ee4f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/machamp/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-de6e347f5a2715eb31c878d17a35de2a.ctex"]
+dest_files=["res://.godot/imported/footprint.png-e5b1fbda445254d5c97577844624ee4f.ctex"]
 
 [params]
 

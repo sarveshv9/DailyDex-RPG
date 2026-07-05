@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpwy1o30tc8sd"
-path="res://.godot/imported/back.png-4c55dbf617141d8ba88c5c4be14f2fd5.ctex"
+path="res://.godot/imported/back.png-3e331959ea2148bba3318a71a8b9b22d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/shuckle/back.png"
-dest_files=["res://.godot/imported/back.png-4c55dbf617141d8ba88c5c4be14f2fd5.ctex"]
+dest_files=["res://.godot/imported/back.png-3e331959ea2148bba3318a71a8b9b22d.ctex"]
 
 [params]
 

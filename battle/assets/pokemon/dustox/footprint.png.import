@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxsmm3qumxbpq"
-path="res://.godot/imported/footprint.png-ce5f8c589ba4c5607a628808c8e19dc4.ctex"
+path="res://.godot/imported/footprint.png-983ea6ed3432d4d3c60e21407c7ae6c7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/dustox/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-ce5f8c589ba4c5607a628808c8e19dc4.ctex"]
+dest_files=["res://.godot/imported/footprint.png-983ea6ed3432d4d3c60e21407c7ae6c7.ctex"]
 
 [params]
 

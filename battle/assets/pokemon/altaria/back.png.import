@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6fum8pxd4qei"
-path="res://.godot/imported/back.png-7835e37e354fa9731903a3971b03d805.ctex"
+path="res://.godot/imported/back.png-45ea34a1040b4f309d07a973fdf37d89.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/altaria/back.png"
-dest_files=["res://.godot/imported/back.png-7835e37e354fa9731903a3971b03d805.ctex"]
+dest_files=["res://.godot/imported/back.png-45ea34a1040b4f309d07a973fdf37d89.ctex"]
 
 [params]
 

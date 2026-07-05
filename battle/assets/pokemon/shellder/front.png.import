@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3kaa43sagatn"
-path="res://.godot/imported/front.png-d2455a49c8e41cd39320389c97f75e09.ctex"
+path="res://.godot/imported/front.png-57de084c734e17a6a5936587a1fddfe4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/shellder/front.png"
-dest_files=["res://.godot/imported/front.png-d2455a49c8e41cd39320389c97f75e09.ctex"]
+dest_files=["res://.godot/imported/front.png-57de084c734e17a6a5936587a1fddfe4.ctex"]
 
 [params]
 

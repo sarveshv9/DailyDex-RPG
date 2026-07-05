@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp5e2uuhnldet"
-path="res://.godot/imported/grass_start.png-f8b3f6690a28b993f501209984b464ad.ctex"
+path="res://.godot/imported/grass_start.png-7470197a7433a42b7c5fc7a652b0abad.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/backgrounds/grass_start.png"
-dest_files=["res://.godot/imported/grass_start.png-f8b3f6690a28b993f501209984b464ad.ctex"]
+dest_files=["res://.godot/imported/grass_start.png-7470197a7433a42b7c5fc7a652b0abad.ctex"]
 
 [params]
 

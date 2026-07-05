@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cydski0j2ebq7"
-path="res://.godot/imported/icon.png-699f6a7b47186105384f93fc1e54c4a1.ctex"
+path="res://.godot/imported/icon.png-a418e66707e5c0c524a1a2b198d969d5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/hoothoot/icon.png"
-dest_files=["res://.godot/imported/icon.png-699f6a7b47186105384f93fc1e54c4a1.ctex"]
+dest_files=["res://.godot/imported/icon.png-a418e66707e5c0c524a1a2b198d969d5.ctex"]
 
 [params]
 

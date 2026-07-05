@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1qdl3pv43s6k"
-path="res://.godot/imported/icon.png-d4bdbd3285cc7a8c9d7ba500856b4a89.ctex"
+path="res://.godot/imported/icon.png-5408d4c15d70819ff1da32f8df252b90.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/rayquaza/icon.png"
-dest_files=["res://.godot/imported/icon.png-d4bdbd3285cc7a8c9d7ba500856b4a89.ctex"]
+dest_files=["res://.godot/imported/icon.png-5408d4c15d70819ff1da32f8df252b90.ctex"]
 
 [params]
 

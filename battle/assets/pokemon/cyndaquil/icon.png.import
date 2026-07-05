@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btoek8yjsbtop"
-path="res://.godot/imported/icon.png-9af982d0777bbbc4d513650495c7800d.ctex"
+path="res://.godot/imported/icon.png-79eced4d2e105ce47ad7f687836eb9c7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cyndaquil/icon.png"
-dest_files=["res://.godot/imported/icon.png-9af982d0777bbbc4d513650495c7800d.ctex"]
+dest_files=["res://.godot/imported/icon.png-79eced4d2e105ce47ad7f687836eb9c7.ctex"]
 
 [params]
 

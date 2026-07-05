@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccew2ym2strkv"
-path="res://.godot/imported/footprint.png-259f62d076be76e26a7abb781951ec4c.ctex"
+path="res://.godot/imported/footprint.png-49738fd27baa1080218b771fd5f19a07.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/kirlia/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-259f62d076be76e26a7abb781951ec4c.ctex"]
+dest_files=["res://.godot/imported/footprint.png-49738fd27baa1080218b771fd5f19a07.ctex"]
 
 [params]
 

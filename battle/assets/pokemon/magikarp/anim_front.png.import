@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0vuig5tk3sox"
-path="res://.godot/imported/anim_front.png-8d461f9a51b99da12d75618fd313312a.ctex"
+path="res://.godot/imported/anim_front.png-f75f2c17de5b454cbf55f9bca7c03022.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/magikarp/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-8d461f9a51b99da12d75618fd313312a.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-f75f2c17de5b454cbf55f9bca7c03022.ctex"]
 
 [params]
 

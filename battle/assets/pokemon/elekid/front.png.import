@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4hngrfu120y2"
-path="res://.godot/imported/front.png-b36981e9ca6bc44f1a860f495e93b31b.ctex"
+path="res://.godot/imported/front.png-151f3bb0405db9df10dd79b60afcd19c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/elekid/front.png"
-dest_files=["res://.godot/imported/front.png-b36981e9ca6bc44f1a860f495e93b31b.ctex"]
+dest_files=["res://.godot/imported/front.png-151f3bb0405db9df10dd79b60afcd19c.ctex"]
 
 [params]
 

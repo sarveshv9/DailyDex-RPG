@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k2b6g8gy5pp3"
-path="res://.godot/imported/choose_pokemon.png-4f982d090df61bae3508e336ffc08236.ctex"
+path="res://.godot/imported/choose_pokemon.png-6611d73a26720263dec6bffeb9985ea2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/choose_pokemon.png"
-dest_files=["res://.godot/imported/choose_pokemon.png-4f982d090df61bae3508e336ffc08236.ctex"]
+dest_files=["res://.godot/imported/choose_pokemon.png-6611d73a26720263dec6bffeb9985ea2.ctex"]
 
 [params]
 

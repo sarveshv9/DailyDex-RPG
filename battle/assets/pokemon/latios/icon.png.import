@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr6chksr276qv"
-path="res://.godot/imported/icon.png-65180cbba0390b37ed9d4c86af22fc5c.ctex"
+path="res://.godot/imported/icon.png-2244db629030f6ff7ac790a3e15134ee.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/latios/icon.png"
-dest_files=["res://.godot/imported/icon.png-65180cbba0390b37ed9d4c86af22fc5c.ctex"]
+dest_files=["res://.godot/imported/icon.png-2244db629030f6ff7ac790a3e15134ee.ctex"]
 
 [params]
 

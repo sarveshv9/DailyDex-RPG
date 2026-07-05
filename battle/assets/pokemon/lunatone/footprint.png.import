@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bibwevma7tatm"
-path="res://.godot/imported/footprint.png-f0e8dbea0bc4e2d80f304dffbef7f923.ctex"
+path="res://.godot/imported/footprint.png-01b56134562161530c0376fe3036a2e2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/lunatone/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-f0e8dbea0bc4e2d80f304dffbef7f923.ctex"]
+dest_files=["res://.godot/imported/footprint.png-01b56134562161530c0376fe3036a2e2.ctex"]
 
 [params]
 

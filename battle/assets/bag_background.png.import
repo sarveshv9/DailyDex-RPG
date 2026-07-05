@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmly66s5bfei7"
-path="res://.godot/imported/bag_background.png-abbb8d8c0c3c6667c7df24015f90de07.ctex"
+path="res://.godot/imported/bag_background.png-a330eda47b612ecdcaf82f6333ce626f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/bag_background.png"
-dest_files=["res://.godot/imported/bag_background.png-abbb8d8c0c3c6667c7df24015f90de07.ctex"]
+dest_files=["res://.godot/imported/bag_background.png-a330eda47b612ecdcaf82f6333ce626f.ctex"]
 
 [params]
 

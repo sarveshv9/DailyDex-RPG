@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pc6thnjfvo6e"
-path="res://.godot/imported/footprint.png-da72882752d2037bc82116bd9b135d04.ctex"
+path="res://.godot/imported/footprint.png-313b59c620696501c0a98621351be103.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sunkern/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-da72882752d2037bc82116bd9b135d04.ctex"]
+dest_files=["res://.godot/imported/footprint.png-313b59c620696501c0a98621351be103.ctex"]
 
 [params]
 

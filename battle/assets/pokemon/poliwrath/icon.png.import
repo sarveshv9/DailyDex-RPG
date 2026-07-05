@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btadn04oeft08"
-path="res://.godot/imported/icon.png-43c17c1c056a796283e2b3a1c3a5de61.ctex"
+path="res://.godot/imported/icon.png-e64c0ababc0eee137ebf3bf923d77260.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/poliwrath/icon.png"
-dest_files=["res://.godot/imported/icon.png-43c17c1c056a796283e2b3a1c3a5de61.ctex"]
+dest_files=["res://.godot/imported/icon.png-e64c0ababc0eee137ebf3bf923d77260.ctex"]
 
 [params]
 

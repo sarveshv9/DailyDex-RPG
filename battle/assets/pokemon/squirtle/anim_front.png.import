@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceabsets1whse"
-path="res://.godot/imported/anim_front.png-fdd87d2e62854f8b65071820bc7eca77.ctex"
+path="res://.godot/imported/anim_front.png-6caef3e070ecc5348d3059a2424bc10f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/squirtle/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-fdd87d2e62854f8b65071820bc7eca77.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-6caef3e070ecc5348d3059a2424bc10f.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dggukwrla4w5"
-path="res://.godot/imported/anim_front.png-90f168c8ee0fecd88d1521394c9a27bc.ctex"
+path="res://.godot/imported/anim_front.png-de76f3bd3f6ee27d47386a2038c37c06.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/girafarig/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-90f168c8ee0fecd88d1521394c9a27bc.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-de76f3bd3f6ee27d47386a2038c37c06.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c82lxjd3jv8x7"
-path="res://.godot/imported/icon.png-e66865a449717d348f8c7d7b14489823.ctex"
+path="res://.godot/imported/icon.png-e427f3374b8b21c42326d467c4a966fe.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/dunsparce/icon.png"
-dest_files=["res://.godot/imported/icon.png-e66865a449717d348f8c7d7b14489823.ctex"]
+dest_files=["res://.godot/imported/icon.png-e427f3374b8b21c42326d467c4a966fe.ctex"]
 
 [params]
 

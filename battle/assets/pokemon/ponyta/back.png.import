@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d38iw5pp5c3u2"
-path="res://.godot/imported/back.png-5a0a277bcf9be685861ad8abf6fce6cd.ctex"
+path="res://.godot/imported/back.png-158fcccc1ca65e3fc7eb043568c02a3f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ponyta/back.png"
-dest_files=["res://.godot/imported/back.png-5a0a277bcf9be685861ad8abf6fce6cd.ctex"]
+dest_files=["res://.godot/imported/back.png-158fcccc1ca65e3fc7eb043568c02a3f.ctex"]
 
 [params]
 

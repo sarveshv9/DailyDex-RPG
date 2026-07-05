@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cseau2yr7s21v"
-path="res://.godot/imported/footprint.png-89105e85ec78e7867b12cb601d988815.ctex"
+path="res://.godot/imported/footprint.png-c028385ce6fa78e7c7dc5928fd737493.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/smeargle/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-89105e85ec78e7867b12cb601d988815.ctex"]
+dest_files=["res://.godot/imported/footprint.png-c028385ce6fa78e7c7dc5928fd737493.ctex"]
 
 [params]
 

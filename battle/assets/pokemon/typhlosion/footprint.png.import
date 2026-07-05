@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc5tyy3exv4mx"
-path="res://.godot/imported/footprint.png-968b1d397e28952fae60fbc127c5d779.ctex"
+path="res://.godot/imported/footprint.png-179ba9987c28c4df15ce034b2b3403e4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/typhlosion/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-968b1d397e28952fae60fbc127c5d779.ctex"]
+dest_files=["res://.godot/imported/footprint.png-179ba9987c28c4df15ce034b2b3403e4.ctex"]
 
 [params]
 

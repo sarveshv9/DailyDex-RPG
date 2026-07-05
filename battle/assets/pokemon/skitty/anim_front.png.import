@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bypi5iyrgnds6"
-path="res://.godot/imported/anim_front.png-fa5571022f054c242125be8096f897db.ctex"
+path="res://.godot/imported/anim_front.png-8cc7ca57c4ce468363c9686b0fee33aa.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/skitty/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-fa5571022f054c242125be8096f897db.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-8cc7ca57c4ce468363c9686b0fee33aa.ctex"]
 
 [params]
 

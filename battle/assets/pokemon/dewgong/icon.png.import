@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i8fx3d6tgnkx"
-path="res://.godot/imported/icon.png-f8af3e1f3fec02c147d628ec5e011315.ctex"
+path="res://.godot/imported/icon.png-ec6d6a8e24b7b00f802fe1d786d4ad55.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/dewgong/icon.png"
-dest_files=["res://.godot/imported/icon.png-f8af3e1f3fec02c147d628ec5e011315.ctex"]
+dest_files=["res://.godot/imported/icon.png-ec6d6a8e24b7b00f802fe1d786d4ad55.ctex"]
 
 [params]
 

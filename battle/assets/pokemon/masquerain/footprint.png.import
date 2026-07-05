@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chpypmh3dhfao"
-path="res://.godot/imported/footprint.png-590474510801cd34a1a12d401c523002.ctex"
+path="res://.godot/imported/footprint.png-abbfa20691daf434c0d157adc5c8564b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/masquerain/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-590474510801cd34a1a12d401c523002.ctex"]
+dest_files=["res://.godot/imported/footprint.png-abbfa20691daf434c0d157adc5c8564b.ctex"]
 
 [params]
 

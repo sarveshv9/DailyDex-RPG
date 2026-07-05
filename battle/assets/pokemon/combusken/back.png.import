@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ced3cceb7c3ah"
-path="res://.godot/imported/back.png-d323cf9e13638ab175b29ba16174de90.ctex"
+path="res://.godot/imported/back.png-fcbb1233d32666652ad4934677f33241.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/combusken/back.png"
-dest_files=["res://.godot/imported/back.png-d323cf9e13638ab175b29ba16174de90.ctex"]
+dest_files=["res://.godot/imported/back.png-fcbb1233d32666652ad4934677f33241.ctex"]
 
 [params]
 

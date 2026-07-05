@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctqxitmwrbxr7"
-path="res://.godot/imported/anim_front.png-710ea690fa5f66bc658e76a188d605db.ctex"
+path="res://.godot/imported/anim_front.png-bebccceb1a48ece8dfa5082e42329aa0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/aipom/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-710ea690fa5f66bc658e76a188d605db.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-bebccceb1a48ece8dfa5082e42329aa0.ctex"]
 
 [params]
 

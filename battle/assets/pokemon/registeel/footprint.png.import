@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwtpkf3wgqepc"
-path="res://.godot/imported/footprint.png-156cd78521f1800debd6827745e6a313.ctex"
+path="res://.godot/imported/footprint.png-089a10fbfda6e97bec9b5628bb6f5eef.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/registeel/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-156cd78521f1800debd6827745e6a313.ctex"]
+dest_files=["res://.godot/imported/footprint.png-089a10fbfda6e97bec9b5628bb6f5eef.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://reocg6as7bpc"
-path="res://.godot/imported/footprint.png-8f15293a9f1ee8911226db7fa670f141.ctex"
+path="res://.godot/imported/footprint.png-56f39669889a528fd63c3ea5e32d8d45.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/politoed/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-8f15293a9f1ee8911226db7fa670f141.ctex"]
+dest_files=["res://.godot/imported/footprint.png-56f39669889a528fd63c3ea5e32d8d45.ctex"]
 
 [params]
 

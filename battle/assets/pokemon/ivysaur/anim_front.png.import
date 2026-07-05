@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3odsatqfinnc"
-path="res://.godot/imported/anim_front.png-c71141c293f012b24519a832974337d6.ctex"
+path="res://.godot/imported/anim_front.png-122ef182767b21a542357eae515b9b15.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ivysaur/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-c71141c293f012b24519a832974337d6.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-122ef182767b21a542357eae515b9b15.ctex"]
 
 [params]
 

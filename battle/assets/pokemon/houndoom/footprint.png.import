@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck7xleiryi3bj"
-path="res://.godot/imported/footprint.png-02183dd8c92d70de46542ba9ef256a32.ctex"
+path="res://.godot/imported/footprint.png-232f59925f01419dd4369ef472bc675b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/houndoom/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-02183dd8c92d70de46542ba9ef256a32.ctex"]
+dest_files=["res://.godot/imported/footprint.png-232f59925f01419dd4369ef472bc675b.ctex"]
 
 [params]
 

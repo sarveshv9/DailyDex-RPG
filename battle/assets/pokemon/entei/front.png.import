@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sb68mmsjrbwp"
-path="res://.godot/imported/front.png-6bcdcf4a29af97aec1a1cf41bebcbeab.ctex"
+path="res://.godot/imported/front.png-85af70da0565fb596047a27c4cda8aeb.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/entei/front.png"
-dest_files=["res://.godot/imported/front.png-6bcdcf4a29af97aec1a1cf41bebcbeab.ctex"]
+dest_files=["res://.godot/imported/front.png-85af70da0565fb596047a27c4cda8aeb.ctex"]
 
 [params]
 

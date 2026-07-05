@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pximmxaeth65"
-path="res://.godot/imported/back.png-50feb46a7f01fe0e35fdddc55a17ea29.ctex"
+path="res://.godot/imported/back.png-17f54838f1c34738bb7c4986bd40ac48.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/togetic/back.png"
-dest_files=["res://.godot/imported/back.png-50feb46a7f01fe0e35fdddc55a17ea29.ctex"]
+dest_files=["res://.godot/imported/back.png-17f54838f1c34738bb7c4986bd40ac48.ctex"]
 
 [params]
 

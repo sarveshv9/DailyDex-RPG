@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy2kbiflapkry"
-path="res://.godot/imported/front.png-3d73e34bb29a780951929315ae43de49.ctex"
+path="res://.godot/imported/front.png-172c0794107bb95f3191f3b2219d6638.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/linoone/front.png"
-dest_files=["res://.godot/imported/front.png-3d73e34bb29a780951929315ae43de49.ctex"]
+dest_files=["res://.godot/imported/front.png-172c0794107bb95f3191f3b2219d6638.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g4bacj5huof1"
-path="res://.godot/imported/icon.png-c5a4b23b260c3915c77aaec46683299f.ctex"
+path="res://.godot/imported/icon.png-08610b502c4d41300956415d1215f093.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/spinarak/icon.png"
-dest_files=["res://.godot/imported/icon.png-c5a4b23b260c3915c77aaec46683299f.ctex"]
+dest_files=["res://.godot/imported/icon.png-08610b502c4d41300956415d1215f093.ctex"]
 
 [params]
 

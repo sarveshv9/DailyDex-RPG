@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdvvapy318h7t"
-path="res://.godot/imported/footprint.png-4c43f5f21ef025ea3791b1af95439bcf.ctex"
+path="res://.godot/imported/footprint.png-614b4d61238243e2fdf017129c3e31a2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ursaring/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-4c43f5f21ef025ea3791b1af95439bcf.ctex"]
+dest_files=["res://.godot/imported/footprint.png-614b4d61238243e2fdf017129c3e31a2.ctex"]
 
 [params]
 

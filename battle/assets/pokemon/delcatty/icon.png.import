@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxepfs04aosw5"
-path="res://.godot/imported/icon.png-0279ec60004d2609014689d700f0c523.ctex"
+path="res://.godot/imported/icon.png-f6957910147a57d6470778fe4f5d918a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/delcatty/icon.png"
-dest_files=["res://.godot/imported/icon.png-0279ec60004d2609014689d700f0c523.ctex"]
+dest_files=["res://.godot/imported/icon.png-f6957910147a57d6470778fe4f5d918a.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0vwyaoleorws"
-path="res://.godot/imported/front.png-966f1d5231ddb4cf70a91cd67a4b77e5.ctex"
+path="res://.godot/imported/front.png-d4166aa9c16310da159c453a3b55c146.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/golduck/front.png"
-dest_files=["res://.godot/imported/front.png-966f1d5231ddb4cf70a91cd67a4b77e5.ctex"]
+dest_files=["res://.godot/imported/front.png-d4166aa9c16310da159c453a3b55c146.ctex"]
 
 [params]
 

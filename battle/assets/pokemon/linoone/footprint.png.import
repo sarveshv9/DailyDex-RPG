@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4for1ua1lth0"
-path="res://.godot/imported/footprint.png-4ffc65704ae78ff3ffb713eccc83b9a9.ctex"
+path="res://.godot/imported/footprint.png-1616dd20ea09916ca6f2ab6fe4a2a614.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/linoone/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-4ffc65704ae78ff3ffb713eccc83b9a9.ctex"]
+dest_files=["res://.godot/imported/footprint.png-1616dd20ea09916ca6f2ab6fe4a2a614.ctex"]
 
 [params]
 

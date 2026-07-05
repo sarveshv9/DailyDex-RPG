@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3wfjaq4onwgc"
-path="res://.godot/imported/emerald_exterior_tileset.png-56dd8740a6c66717c28f816e9a5f5fda.ctex"
+path="res://.godot/imported/emerald_exterior_tileset.png-e4f0e33aa1af9a7507c911be32aa6e94.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://maps/tilesets/emerald_exterior_tileset.png"
-dest_files=["res://.godot/imported/emerald_exterior_tileset.png-56dd8740a6c66717c28f816e9a5f5fda.ctex"]
+dest_files=["res://.godot/imported/emerald_exterior_tileset.png-e4f0e33aa1af9a7507c911be32aa6e94.ctex"]
 
 [params]
 

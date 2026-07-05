@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdrwc80nucofc"
-path="res://.godot/imported/anim_front.png-05f5179f3b991105a49fdd63101ee4b4.ctex"
+path="res://.godot/imported/anim_front.png-f6c1ae277dfa639bf3604de637c5ce32.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/doduo/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-05f5179f3b991105a49fdd63101ee4b4.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-f6c1ae277dfa639bf3604de637c5ce32.ctex"]
 
 [params]
 

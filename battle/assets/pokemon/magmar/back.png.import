@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://deqiwja8sljax"
-path="res://.godot/imported/back.png-9d4f10ab300296d394f487b808c3cf5e.ctex"
+path="res://.godot/imported/back.png-8bd7ad3dc5e2abf6b779423aefb268f9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/magmar/back.png"
-dest_files=["res://.godot/imported/back.png-9d4f10ab300296d394f487b808c3cf5e.ctex"]
+dest_files=["res://.godot/imported/back.png-8bd7ad3dc5e2abf6b779423aefb268f9.ctex"]
 
 [params]
 

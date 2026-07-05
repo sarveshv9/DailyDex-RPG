@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvt5x0nhh44hm"
-path="res://.godot/imported/back.png-dff79a13d57a2492d8280af4a83c5fb3.ctex"
+path="res://.godot/imported/back.png-f5cf2567d5f53c8cda2b1e7717eb766b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/farfetchd/back.png"
-dest_files=["res://.godot/imported/back.png-dff79a13d57a2492d8280af4a83c5fb3.ctex"]
+dest_files=["res://.godot/imported/back.png-f5cf2567d5f53c8cda2b1e7717eb766b.ctex"]
 
 [params]
 

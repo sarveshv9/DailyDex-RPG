@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://37hb5krok0li"]
+
+[ext_resource type="Script" uid="uid://bbxw1ciasggg3" path="res://characters/npc/npc.gd" id="1_script"]
+[ext_resource type="Texture2D" uid="uid://b6mim3gt4xv8b" path="res://characters/npc/sprites/npc_02.png" id="2_texture"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_mmpq7"]
+size = Vector2(15, 18)
+
+[node name="NPCMom" type="CharacterBody2D" unique_id=1432253867]
+collision_layer = 4
+collision_mask = 0
+script = ExtResource("1_script")
+dialogue_text = "Hello dear! Be careful out there!"
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=183654873]
+texture = ExtResource("2_texture")
+hframes = 12
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1571144726]
+position = Vector2(0, 1)
+shape = SubResource("RectangleShape2D_mmpq7")

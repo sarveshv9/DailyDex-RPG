@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr8aqw532fa3g"
-path="res://.godot/imported/footprint.png-2a90e1340068186fcb7f79d3e831bc28.ctex"
+path="res://.godot/imported/footprint.png-75c5552f3de8525337251e8337746464.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/venonat/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-2a90e1340068186fcb7f79d3e831bc28.ctex"]
+dest_files=["res://.godot/imported/footprint.png-75c5552f3de8525337251e8337746464.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dajbextwvcl6j"
-path="res://.godot/imported/anim_front.png-1fc3a5fa4db6f24584469ed0cb928f20.ctex"
+path="res://.godot/imported/anim_front.png-a8759bb6fd6c26d038fa274408aec296.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/lanturn/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-1fc3a5fa4db6f24584469ed0cb928f20.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-a8759bb6fd6c26d038fa274408aec296.ctex"]
 
 [params]
 

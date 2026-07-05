@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://co2hawarn66w0"
-path="res://.godot/imported/footprint.png-7b853a158a3105f38bb58f31d3dc7721.ctex"
+path="res://.godot/imported/footprint.png-893d74fbad32af767e91729d9a1003b7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mudkip/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-7b853a158a3105f38bb58f31d3dc7721.ctex"]
+dest_files=["res://.godot/imported/footprint.png-893d74fbad32af767e91729d9a1003b7.ctex"]
 
 [params]
 

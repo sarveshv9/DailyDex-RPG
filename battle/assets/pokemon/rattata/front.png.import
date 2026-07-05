@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4thsnu8p13ux"
-path="res://.godot/imported/front.png-4e8ea5de52658e20ebb9c877f949238d.ctex"
+path="res://.godot/imported/front.png-f2702b3df93635c30dd43d67ef575824.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/rattata/front.png"
-dest_files=["res://.godot/imported/front.png-4e8ea5de52658e20ebb9c877f949238d.ctex"]
+dest_files=["res://.godot/imported/front.png-f2702b3df93635c30dd43d67ef575824.ctex"]
 
 [params]
 

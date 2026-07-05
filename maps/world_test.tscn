@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://bbvi38y1t4830"]
+
+[ext_resource type="PackedScene" uid="uid://cdhfr8qxd1qd6" path="res://maps/starter_village.tscn" id="1_vil"]
+[ext_resource type="PackedScene" uid="uid://iv2qkygdevb6" path="res://maps/starter_town.tscn" id="2_twn"]
+[ext_resource type="PackedScene" path="res://characters/player/player.tscn" id="3_player"]
+
+[node name="WorldTest" type="Node2D" unique_id=1692306574]
+
+[node name="StarterVillage" parent="." unique_id=1389846608 instance=ExtResource("1_vil")]
+position = Vector2(-7, 34)
+
+[node name="StarterTown" parent="." unique_id=2139237698 instance=ExtResource("2_twn")]
+position = Vector2(-851, -96)
+
+[node name="Player" parent="." unique_id=1289932307 instance=ExtResource("3_player")]
+position = Vector2(162, 280)

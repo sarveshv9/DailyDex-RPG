@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6hbumgur85yb"
-path="res://.godot/imported/front.png-67b70c43121122251b061fabcd197563.ctex"
+path="res://.godot/imported/front.png-55cbe90888780662ff6653a43e8044ab.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/smeargle/front.png"
-dest_files=["res://.godot/imported/front.png-67b70c43121122251b061fabcd197563.ctex"]
+dest_files=["res://.godot/imported/front.png-55cbe90888780662ff6653a43e8044ab.ctex"]
 
 [params]
 

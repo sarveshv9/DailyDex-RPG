@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdv07j7r7hkfr"
-path="res://.godot/imported/selected_ball.png-83b8d9b9b99c3e07774010173b43153b.ctex"
+path="res://.godot/imported/selected_ball.png-c3a364480aecadbd211b5a33d6bb2923.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/selected_ball.png"
-dest_files=["res://.godot/imported/selected_ball.png-83b8d9b9b99c3e07774010173b43153b.ctex"]
+dest_files=["res://.godot/imported/selected_ball.png-c3a364480aecadbd211b5a33d6bb2923.ctex"]
 
 [params]
 

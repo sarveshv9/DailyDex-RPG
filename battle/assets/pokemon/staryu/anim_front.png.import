@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l3tmxgjwmacm"
-path="res://.godot/imported/anim_front.png-8af1d903480203f3468f719bd935b8d6.ctex"
+path="res://.godot/imported/anim_front.png-29774ea26f769cecbcd9d77d58bff5a8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/staryu/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-8af1d903480203f3468f719bd935b8d6.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-29774ea26f769cecbcd9d77d58bff5a8.ctex"]
 
 [params]
 

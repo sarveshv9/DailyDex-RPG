@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lajvh0rfclfj"
-path="res://.godot/imported/icon.png-8993eb5ce7af80578513e4b31fb6908b.ctex"
+path="res://.godot/imported/icon.png-de378c35f470115d785b4717f5255dba.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/pidgeotto/icon.png"
-dest_files=["res://.godot/imported/icon.png-8993eb5ce7af80578513e4b31fb6908b.ctex"]
+dest_files=["res://.godot/imported/icon.png-de378c35f470115d785b4717f5255dba.ctex"]
 
 [params]
 

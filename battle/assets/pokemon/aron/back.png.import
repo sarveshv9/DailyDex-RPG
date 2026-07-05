@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2vhj2asuiidq"
-path="res://.godot/imported/back.png-250cb7a15cbcc2aa14e04a90c42232e6.ctex"
+path="res://.godot/imported/back.png-132e02339c8b38c4a7b268cb1a9ed7d1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/aron/back.png"
-dest_files=["res://.godot/imported/back.png-250cb7a15cbcc2aa14e04a90c42232e6.ctex"]
+dest_files=["res://.godot/imported/back.png-132e02339c8b38c4a7b268cb1a9ed7d1.ctex"]
 
 [params]
 

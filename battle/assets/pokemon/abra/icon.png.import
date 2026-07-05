@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqk661e3ts04b"
-path="res://.godot/imported/icon.png-1d1257cbcf864811d1703a169d33f2b8.ctex"
+path="res://.godot/imported/icon.png-3bdde51a895d9853f77aa8d7b40d33ca.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/abra/icon.png"
-dest_files=["res://.godot/imported/icon.png-1d1257cbcf864811d1703a169d33f2b8.ctex"]
+dest_files=["res://.godot/imported/icon.png-3bdde51a895d9853f77aa8d7b40d33ca.ctex"]
 
 [params]
 

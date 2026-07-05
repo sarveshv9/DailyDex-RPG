@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3qi43fmkdimb"
-path="res://.godot/imported/player_pokemon_grass.png-59c9061f45c2da43f7cee2c5dacb0809.ctex"
+path="res://.godot/imported/player_pokemon_grass.png-c87316a5469ed48bd46021aa62a82f2a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/backgrounds/player_pokemon_grass.png"
-dest_files=["res://.godot/imported/player_pokemon_grass.png-59c9061f45c2da43f7cee2c5dacb0809.ctex"]
+dest_files=["res://.godot/imported/player_pokemon_grass.png-c87316a5469ed48bd46021aa62a82f2a.ctex"]
 
 [params]
 

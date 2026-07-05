@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drhcf0o66q4qg"
-path="res://.godot/imported/footprint.png-79b40c8144dc5f2540f8158e9a31a933.ctex"
+path="res://.godot/imported/footprint.png-cac08f77fb2c46e47c16bfb5e4fe512e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/meganium/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-79b40c8144dc5f2540f8158e9a31a933.ctex"]
+dest_files=["res://.godot/imported/footprint.png-cac08f77fb2c46e47c16bfb5e4fe512e.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8uxs7d261ysk"
-path="res://.godot/imported/back.png-6efb8cdf9e3e569475950f8e08eb8e80.ctex"
+path="res://.godot/imported/back.png-97800bd823f95008a8cadfa53d90abb0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/venonat/back.png"
-dest_files=["res://.godot/imported/back.png-6efb8cdf9e3e569475950f8e08eb8e80.ctex"]
+dest_files=["res://.godot/imported/back.png-97800bd823f95008a8cadfa53d90abb0.ctex"]
 
 [params]
 

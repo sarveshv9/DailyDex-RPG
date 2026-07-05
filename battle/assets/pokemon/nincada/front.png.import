@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w680as31r1d1"
-path="res://.godot/imported/front.png-82a29af54fc83b414f12ca8c1b9adfa8.ctex"
+path="res://.godot/imported/front.png-95f3968dba7cf5b253b48f40690f9f26.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/nincada/front.png"
-dest_files=["res://.godot/imported/front.png-82a29af54fc83b414f12ca8c1b9adfa8.ctex"]
+dest_files=["res://.godot/imported/front.png-95f3968dba7cf5b253b48f40690f9f26.ctex"]
 
 [params]
 

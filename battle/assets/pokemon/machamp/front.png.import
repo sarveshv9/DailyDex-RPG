@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbhe5u4ric02t"
-path="res://.godot/imported/front.png-62df0a4cc626b86a04d18f82b272186c.ctex"
+path="res://.godot/imported/front.png-cffcfe5c7604c2149f041dba79c2636d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/machamp/front.png"
-dest_files=["res://.godot/imported/front.png-62df0a4cc626b86a04d18f82b272186c.ctex"]
+dest_files=["res://.godot/imported/front.png-cffcfe5c7604c2149f041dba79c2636d.ctex"]
 
 [params]
 

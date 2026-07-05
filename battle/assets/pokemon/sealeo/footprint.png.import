@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br7dhoe52rtug"
-path="res://.godot/imported/footprint.png-f2af1bb84092e3e16d4232bfabef7055.ctex"
+path="res://.godot/imported/footprint.png-5f674ab400825cfdc85dd74de434b3eb.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sealeo/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-f2af1bb84092e3e16d4232bfabef7055.ctex"]
+dest_files=["res://.godot/imported/footprint.png-5f674ab400825cfdc85dd74de434b3eb.ctex"]
 
 [params]
 

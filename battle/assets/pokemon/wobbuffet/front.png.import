@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://etmkx86vdp2a"
-path="res://.godot/imported/front.png-a9128b36742c449c9f007046bfa7d6cc.ctex"
+path="res://.godot/imported/front.png-2d77a6280260436761163a209a8f00c2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/wobbuffet/front.png"
-dest_files=["res://.godot/imported/front.png-a9128b36742c449c9f007046bfa7d6cc.ctex"]
+dest_files=["res://.godot/imported/front.png-2d77a6280260436761163a209a8f00c2.ctex"]
 
 [params]
 

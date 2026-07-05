@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgt2viuu4beeh"
-path="res://.godot/imported/back.png-6eb50cd4f0652462a57bb89ea1f7a8e1.ctex"
+path="res://.godot/imported/back.png-105631675e461f7b32472679e82d5041.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/jumpluff/back.png"
-dest_files=["res://.godot/imported/back.png-6eb50cd4f0652462a57bb89ea1f7a8e1.ctex"]
+dest_files=["res://.godot/imported/back.png-105631675e461f7b32472679e82d5041.ctex"]
 
 [params]
 

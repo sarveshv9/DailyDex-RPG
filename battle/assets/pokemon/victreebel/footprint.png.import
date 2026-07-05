@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f3ibgc8d8vkm"
-path="res://.godot/imported/footprint.png-a82e2bf9570ef2d15b33be8be42413d8.ctex"
+path="res://.godot/imported/footprint.png-f8121f30b29df709f12c20456ca29d3d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/victreebel/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-a82e2bf9570ef2d15b33be8be42413d8.ctex"]
+dest_files=["res://.godot/imported/footprint.png-f8121f30b29df709f12c20456ca29d3d.ctex"]
 
 [params]
 

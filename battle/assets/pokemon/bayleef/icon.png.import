@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg6q48e772wu5"
-path="res://.godot/imported/icon.png-15d0e5fe27fe8fe0b132dca2fefc2f2f.ctex"
+path="res://.godot/imported/icon.png-c209c4e92c7bf7d5b3d42b1585729201.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/bayleef/icon.png"
-dest_files=["res://.godot/imported/icon.png-15d0e5fe27fe8fe0b132dca2fefc2f2f.ctex"]
+dest_files=["res://.godot/imported/icon.png-c209c4e92c7bf7d5b3d42b1585729201.ctex"]
 
 [params]
 

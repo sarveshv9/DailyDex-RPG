@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lgvf0ggielby"
-path="res://.godot/imported/anim_front.png-a1bedb837e1cb78154e593f655c7e52c.ctex"
+path="res://.godot/imported/anim_front.png-2e4f825f6150aad3be4aab197b294e53.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/larvitar/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-a1bedb837e1cb78154e593f655c7e52c.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-2e4f825f6150aad3be4aab197b294e53.ctex"]
 
 [params]
 

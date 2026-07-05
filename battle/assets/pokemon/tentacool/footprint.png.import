@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcn75g6l704f6"
-path="res://.godot/imported/footprint.png-5e45a420a997eb063eee345e7983095b.ctex"
+path="res://.godot/imported/footprint.png-ccf7dcdedebead3335eaef10396a9932.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/tentacool/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-5e45a420a997eb063eee345e7983095b.ctex"]
+dest_files=["res://.godot/imported/footprint.png-ccf7dcdedebead3335eaef10396a9932.ctex"]
 
 [params]
 

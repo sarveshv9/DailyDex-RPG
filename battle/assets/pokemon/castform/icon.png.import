@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwdhx58v1i6vy"
-path="res://.godot/imported/icon.png-f1465c11f7412f839a1b4515feae84c3.ctex"
+path="res://.godot/imported/icon.png-51f749a52765b31a54e661f77367e8ad.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/castform/icon.png"
-dest_files=["res://.godot/imported/icon.png-f1465c11f7412f839a1b4515feae84c3.ctex"]
+dest_files=["res://.godot/imported/icon.png-51f749a52765b31a54e661f77367e8ad.ctex"]
 
 [params]
 

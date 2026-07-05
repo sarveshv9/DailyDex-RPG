@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0jpqp2irre0s"
-path="res://.godot/imported/anim_front.png-b4e89aff15bf0924d31f72a7036ed691.ctex"
+path="res://.godot/imported/anim_front.png-79b159654a57a46ba3ec6209fcdb4785.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/absol/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-b4e89aff15bf0924d31f72a7036ed691.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-79b159654a57a46ba3ec6209fcdb4785.ctex"]
 
 [params]
 

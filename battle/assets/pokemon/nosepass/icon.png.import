@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj8snywaidwuk"
-path="res://.godot/imported/icon.png-4b46c1f0b5634e06a7cb36f032dd4699.ctex"
+path="res://.godot/imported/icon.png-6cc50e52969b07cb3ec6ca5b4856f9c1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/nosepass/icon.png"
-dest_files=["res://.godot/imported/icon.png-4b46c1f0b5634e06a7cb36f032dd4699.ctex"]
+dest_files=["res://.godot/imported/icon.png-6cc50e52969b07cb3ec6ca5b4856f9c1.ctex"]
 
 [params]
 

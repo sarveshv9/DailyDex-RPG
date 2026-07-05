@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bey2kvbhnilv"
-path="res://.godot/imported/icon.png-ff9878edd65fe1e3363722b8f12ef89c.ctex"
+path="res://.godot/imported/icon.png-63c53c95e2bb5387e4d4885c806e7108.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sunkern/icon.png"
-dest_files=["res://.godot/imported/icon.png-ff9878edd65fe1e3363722b8f12ef89c.ctex"]
+dest_files=["res://.godot/imported/icon.png-63c53c95e2bb5387e4d4885c806e7108.ctex"]
 
 [params]
 

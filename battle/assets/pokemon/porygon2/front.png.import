@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1e1lsn504dog"
-path="res://.godot/imported/front.png-2a480dfea3d7d77f55f91be034090b58.ctex"
+path="res://.godot/imported/front.png-980b2bc42f88b8ac4dc4f54645e8f8bc.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/porygon2/front.png"
-dest_files=["res://.godot/imported/front.png-2a480dfea3d7d77f55f91be034090b58.ctex"]
+dest_files=["res://.godot/imported/front.png-980b2bc42f88b8ac4dc4f54645e8f8bc.ctex"]
 
 [params]
 

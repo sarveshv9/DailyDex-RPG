@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iy686vsdqyfk"
-path="res://.godot/imported/anim_front.png-84c7ac0d21d4509c8c8f3371aada7c42.ctex"
+path="res://.godot/imported/anim_front.png-1f376fb0c5a344f70403852a0c5f0b5e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/swablu/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-84c7ac0d21d4509c8c8f3371aada7c42.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-1f376fb0c5a344f70403852a0c5f0b5e.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://behwvq6rowo4x"
-path="res://.godot/imported/front.png-79b31dfa5216004c41e9aa53469c85fb.ctex"
+path="res://.godot/imported/front.png-8d928da58990c500bb8c9c98f96bb1ce.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/dragonair/front.png"
-dest_files=["res://.godot/imported/front.png-79b31dfa5216004c41e9aa53469c85fb.ctex"]
+dest_files=["res://.godot/imported/front.png-8d928da58990c500bb8c9c98f96bb1ce.ctex"]
 
 [params]
 

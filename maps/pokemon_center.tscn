@@ -77,5 +77,5 @@ dialogue_text = "Welcome to our Pokemon Center! We heal your Pokemon back to per
 position = Vector2(128, 184)
 collision_mask = 2
 script = ExtResource("7_vahb2")
-target_scene_path = "res://maps/test_map.tscn"
+target_scene_path = "res://maps/starter_village.tscn"
 target_spawn_position = Vector2(200, 164)

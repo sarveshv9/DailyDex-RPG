@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1na8k43i7irh"
-path="res://.godot/imported/anim_front.png-19cdeed75b2b1cbe4d20659446c72eec.ctex"
+path="res://.godot/imported/anim_front.png-32f9d46d33e86fccaf5324fbc1a09d71.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/illumise/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-19cdeed75b2b1cbe4d20659446c72eec.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-32f9d46d33e86fccaf5324fbc1a09d71.ctex"]
 
 [params]
 

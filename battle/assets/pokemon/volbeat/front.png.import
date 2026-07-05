@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3lmmsr8avm6b"
-path="res://.godot/imported/front.png-57bb05b8fceb3fabe349785179b2b57a.ctex"
+path="res://.godot/imported/front.png-bde1f440ce5d4a575f546e9a1aadb0e3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/volbeat/front.png"
-dest_files=["res://.godot/imported/front.png-57bb05b8fceb3fabe349785179b2b57a.ctex"]
+dest_files=["res://.godot/imported/front.png-bde1f440ce5d4a575f546e9a1aadb0e3.ctex"]
 
 [params]
 

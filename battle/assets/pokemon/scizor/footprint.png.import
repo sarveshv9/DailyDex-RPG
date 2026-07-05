@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx1h0a57hokv6"
-path="res://.godot/imported/footprint.png-cabae23107772a0cc1347239cb39ebc9.ctex"
+path="res://.godot/imported/footprint.png-f3b68b4897c41d4faaf181def8f6f943.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/scizor/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-cabae23107772a0cc1347239cb39ebc9.ctex"]
+dest_files=["res://.godot/imported/footprint.png-f3b68b4897c41d4faaf181def8f6f943.ctex"]
 
 [params]
 

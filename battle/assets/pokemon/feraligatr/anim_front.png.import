@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g4tyyi0d4kq4"
-path="res://.godot/imported/anim_front.png-d9ece2a5276661394365638e769774dc.ctex"
+path="res://.godot/imported/anim_front.png-a085e12b1ac4631af3b5124e46a41261.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/feraligatr/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-d9ece2a5276661394365638e769774dc.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-a085e12b1ac4631af3b5124e46a41261.ctex"]
 
 [params]
 

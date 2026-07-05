@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct8fbuhvlow6v"
-path="res://.godot/imported/tmandhm_sign.png-67c7900dc8c4ba4b9553ee356628df29.ctex"
+path="res://.godot/imported/tmandhm_sign.png-0f3ea7f08b2dc868765423ed22d55920.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/bag_assets/tmandhm_sign.png"
-dest_files=["res://.godot/imported/tmandhm_sign.png-67c7900dc8c4ba4b9553ee356628df29.ctex"]
+dest_files=["res://.godot/imported/tmandhm_sign.png-0f3ea7f08b2dc868765423ed22d55920.ctex"]
 
 [params]
 

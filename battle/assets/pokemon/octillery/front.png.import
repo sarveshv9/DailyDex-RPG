@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clmr375f0cgdo"
-path="res://.godot/imported/front.png-e119f7b221354826165eb6f590d4f1b5.ctex"
+path="res://.godot/imported/front.png-c18804d43f5f788d690d562babb1d2ba.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/octillery/front.png"
-dest_files=["res://.godot/imported/front.png-e119f7b221354826165eb6f590d4f1b5.ctex"]
+dest_files=["res://.godot/imported/front.png-c18804d43f5f788d690d562babb1d2ba.ctex"]
 
 [params]
 

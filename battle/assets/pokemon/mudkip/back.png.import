@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmt8o2dtqgcb8"
-path="res://.godot/imported/back.png-f3c20f451110a0fe6aa7dd02a41ca13d.ctex"
+path="res://.godot/imported/back.png-6d629ac4dfbab581523234e03072c60d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mudkip/back.png"
-dest_files=["res://.godot/imported/back.png-f3c20f451110a0fe6aa7dd02a41ca13d.ctex"]
+dest_files=["res://.godot/imported/back.png-6d629ac4dfbab581523234e03072c60d.ctex"]
 
 [params]
 

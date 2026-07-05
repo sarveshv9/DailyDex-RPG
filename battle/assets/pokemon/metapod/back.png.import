@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfvhx474i75v3"
-path="res://.godot/imported/back.png-96bc20e39a7201f0026bc7aa77c5ab15.ctex"
+path="res://.godot/imported/back.png-cabd7c4ee6909589ee2a5961fa94f181.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/metapod/back.png"
-dest_files=["res://.godot/imported/back.png-96bc20e39a7201f0026bc7aa77c5ab15.ctex"]
+dest_files=["res://.godot/imported/back.png-cabd7c4ee6909589ee2a5961fa94f181.ctex"]
 
 [params]
 

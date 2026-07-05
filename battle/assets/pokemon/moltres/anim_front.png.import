@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcequ4nqfnutk"
-path="res://.godot/imported/anim_front.png-f7e568e0192b4d74255c31911e201082.ctex"
+path="res://.godot/imported/anim_front.png-f6dd9ff9e59170cc2dbff9ae16734beb.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/moltres/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-f7e568e0192b4d74255c31911e201082.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-f6dd9ff9e59170cc2dbff9ae16734beb.ctex"]
 
 [params]
 

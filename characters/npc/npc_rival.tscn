@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://npc_rival_uid"]
+
+[ext_resource type="Script" path="res://characters/npc/npc.gd" id="1_script"]
+[ext_resource type="Texture2D" path="res://characters/npc/sprites/npc_03.png" id="2_texture"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_npc"]
+size = Vector2(16, 16)
+
+[node name="NPCRival" type="CharacterBody2D"]
+collision_layer = 4
+collision_mask = 0
+script = ExtResource("1_script")
+dialogue_text = "Smell ya later! I'm gonna be the best!"
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_texture")
+hframes = 12
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_npc")

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8k4g4xpjg44x"
-path="res://.godot/imported/back.png-fbae8626cf5ec438943fd67e91f494d1.ctex"
+path="res://.godot/imported/back.png-05b39668be835c4779dbb42ff8cb2767.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/wartortle/back.png"
-dest_files=["res://.godot/imported/back.png-fbae8626cf5ec438943fd67e91f494d1.ctex"]
+dest_files=["res://.godot/imported/back.png-05b39668be835c4779dbb42ff8cb2767.ctex"]
 
 [params]
 

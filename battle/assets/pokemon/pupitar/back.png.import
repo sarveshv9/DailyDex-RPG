@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yepculqqmlck"
-path="res://.godot/imported/back.png-a2f8e19aa217b46a681a0e3b162f34b7.ctex"
+path="res://.godot/imported/back.png-ebd5712b16a273928b119b3b7c198cf9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/pupitar/back.png"
-dest_files=["res://.godot/imported/back.png-a2f8e19aa217b46a681a0e3b162f34b7.ctex"]
+dest_files=["res://.godot/imported/back.png-ebd5712b16a273928b119b3b7c198cf9.ctex"]
 
 [params]
 

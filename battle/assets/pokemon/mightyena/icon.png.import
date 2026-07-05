@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3rq85tyfckg1"
-path="res://.godot/imported/icon.png-f26123c6a2cd9b4feae7df9e2972780a.ctex"
+path="res://.godot/imported/icon.png-722b40bd7a0f80779c19b3d7d6577d6f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mightyena/icon.png"
-dest_files=["res://.godot/imported/icon.png-f26123c6a2cd9b4feae7df9e2972780a.ctex"]
+dest_files=["res://.godot/imported/icon.png-722b40bd7a0f80779c19b3d7d6577d6f.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx6qm36tcrs0n"
-path="res://.godot/imported/icon.png-b39d7777a45161740a48268d4f3a4e75.ctex"
+path="res://.godot/imported/icon.png-18bedc264be9cda3cb30c3d98693d37e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/armaldo/icon.png"
-dest_files=["res://.godot/imported/icon.png-b39d7777a45161740a48268d4f3a4e75.ctex"]
+dest_files=["res://.godot/imported/icon.png-18bedc264be9cda3cb30c3d98693d37e.ctex"]
 
 [params]
 

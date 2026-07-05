@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b27u5ahp5chkp"
-path="res://.godot/imported/icon.png-7c03d265912cd9a25e51954a4ad9ea99.ctex"
+path="res://.godot/imported/icon.png-0e159c7e6974f69c49b118941bb0df61.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/seaking/icon.png"
-dest_files=["res://.godot/imported/icon.png-7c03d265912cd9a25e51954a4ad9ea99.ctex"]
+dest_files=["res://.godot/imported/icon.png-0e159c7e6974f69c49b118941bb0df61.ctex"]
 
 [params]
 

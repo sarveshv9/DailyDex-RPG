@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwnuvqsjitgnv"
-path="res://.godot/imported/footprint.png-df11e70a844e8ff8d04c399d1f9e1704.ctex"
+path="res://.godot/imported/footprint.png-fd494579cafd94a2b23ea34f389d7311.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/anorith/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-df11e70a844e8ff8d04c399d1f9e1704.ctex"]
+dest_files=["res://.godot/imported/footprint.png-fd494579cafd94a2b23ea34f389d7311.ctex"]
 
 [params]
 

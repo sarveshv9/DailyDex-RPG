@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq2xpp4khfkpc"
-path="res://.godot/imported/anim_front.png-0598edc5799fd8e30bfbe92c85f229d6.ctex"
+path="res://.godot/imported/anim_front.png-902949bb8ced904c274abfee657c430e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cacnea/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-0598edc5799fd8e30bfbe92c85f229d6.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-902949bb8ced904c274abfee657c430e.ctex"]
 
 [params]
 

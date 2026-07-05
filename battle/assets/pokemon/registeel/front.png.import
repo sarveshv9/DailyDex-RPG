@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmyiixhbkkgfm"
-path="res://.godot/imported/front.png-bed89ef9d48faf23fc8acc6df5cea559.ctex"
+path="res://.godot/imported/front.png-c7f1040f1e307068d1c0797332d0c2fa.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/registeel/front.png"
-dest_files=["res://.godot/imported/front.png-bed89ef9d48faf23fc8acc6df5cea559.ctex"]
+dest_files=["res://.godot/imported/front.png-c7f1040f1e307068d1c0797332d0c2fa.ctex"]
 
 [params]
 

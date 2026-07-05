@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ss7qg0e17q3a"
-path="res://.godot/imported/icon.png-5c08736433ac3df27bb1c167c5ba6260.ctex"
+path="res://.godot/imported/icon.png-99187ce4861e614aab7605070c1a1b4d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/wailmer/icon.png"
-dest_files=["res://.godot/imported/icon.png-5c08736433ac3df27bb1c167c5ba6260.ctex"]
+dest_files=["res://.godot/imported/icon.png-99187ce4861e614aab7605070c1a1b4d.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://day7n647pwdhj"
-path="res://.godot/imported/front.png-c25cecf33e268a195d262eb2a2a135e8.ctex"
+path="res://.godot/imported/front.png-be343108e4ab299597314e723b540b4f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cleffa/front.png"
-dest_files=["res://.godot/imported/front.png-c25cecf33e268a195d262eb2a2a135e8.ctex"]
+dest_files=["res://.godot/imported/front.png-be343108e4ab299597314e723b540b4f.ctex"]
 
 [params]
 

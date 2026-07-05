@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://defs5c5lsrys4"
-path="res://.godot/imported/front.png-a13ac6ecf3a48451a01a7d7280b1e59c.ctex"
+path="res://.godot/imported/front.png-0e6d4d0490172965c125973afa14f971.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cloyster/front.png"
-dest_files=["res://.godot/imported/front.png-a13ac6ecf3a48451a01a7d7280b1e59c.ctex"]
+dest_files=["res://.godot/imported/front.png-0e6d4d0490172965c125973afa14f971.ctex"]
 
 [params]
 

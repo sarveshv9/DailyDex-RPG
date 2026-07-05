@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt0vu5du2pwi1"
-path="res://.godot/imported/footprint.png-7d9328a6b40c4791c488436e1c3ab8d1.ctex"
+path="res://.godot/imported/footprint.png-5d0534598465c311440ddf0a01e94a2d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/clamperl/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-7d9328a6b40c4791c488436e1c3ab8d1.ctex"]
+dest_files=["res://.godot/imported/footprint.png-5d0534598465c311440ddf0a01e94a2d.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ofymi60k3aih"
-path="res://.godot/imported/anim_front.png-dd81d67ba1e36d7fb9ce1a69619f9d1d.ctex"
+path="res://.godot/imported/anim_front.png-c516c51107acecd74dc378c64eb852e4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/omanyte/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-dd81d67ba1e36d7fb9ce1a69619f9d1d.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-c516c51107acecd74dc378c64eb852e4.ctex"]
 
 [params]
 

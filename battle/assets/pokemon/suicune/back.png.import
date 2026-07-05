@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tjnjs1quk8qq"
-path="res://.godot/imported/back.png-8a12615b9c9b6c67126f306533b73558.ctex"
+path="res://.godot/imported/back.png-aaf359779879f14e807c5c7df1169e68.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/suicune/back.png"
-dest_files=["res://.godot/imported/back.png-8a12615b9c9b6c67126f306533b73558.ctex"]
+dest_files=["res://.godot/imported/back.png-aaf359779879f14e807c5c7df1169e68.ctex"]
 
 [params]
 

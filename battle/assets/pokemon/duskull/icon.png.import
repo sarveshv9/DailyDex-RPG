@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b76i8ovib0iox"
-path="res://.godot/imported/icon.png-141d01156f93e6db808b6ca3aa878a5b.ctex"
+path="res://.godot/imported/icon.png-daa4c0a8722d86e3777e28f76db98baf.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/duskull/icon.png"
-dest_files=["res://.godot/imported/icon.png-141d01156f93e6db808b6ca3aa878a5b.ctex"]
+dest_files=["res://.godot/imported/icon.png-daa4c0a8722d86e3777e28f76db98baf.ctex"]
 
 [params]
 

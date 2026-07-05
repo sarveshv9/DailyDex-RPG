@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jq1i0jsu0sq6"
-path="res://.godot/imported/back.png-d8206780f9fceff2361a19bf4148214d.ctex"
+path="res://.godot/imported/back.png-60fca5a37828a2c682ae6780ba0899e3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sharpedo/back.png"
-dest_files=["res://.godot/imported/back.png-d8206780f9fceff2361a19bf4148214d.ctex"]
+dest_files=["res://.godot/imported/back.png-60fca5a37828a2c682ae6780ba0899e3.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8ypbsk0ij64a"
-path="res://.godot/imported/back.png-95af1a79b0d451ad8dfd500294edc993.ctex"
+path="res://.godot/imported/back.png-c696b01c9486edd480bc0366fca058a5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mewtwo/back.png"
-dest_files=["res://.godot/imported/back.png-95af1a79b0d451ad8dfd500294edc993.ctex"]
+dest_files=["res://.godot/imported/back.png-c696b01c9486edd480bc0366fca058a5.ctex"]
 
 [params]
 

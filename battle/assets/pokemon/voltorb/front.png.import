@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddjm7i5j47c5y"
-path="res://.godot/imported/front.png-509dea0ce4867f9c976dec3f961a5e77.ctex"
+path="res://.godot/imported/front.png-ad79b17d5672502542c3d3a8adeb2d74.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/voltorb/front.png"
-dest_files=["res://.godot/imported/front.png-509dea0ce4867f9c976dec3f961a5e77.ctex"]
+dest_files=["res://.godot/imported/front.png-ad79b17d5672502542c3d3a8adeb2d74.ctex"]
 
 [params]
 

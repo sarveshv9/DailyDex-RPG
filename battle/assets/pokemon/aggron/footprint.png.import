@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bskx1y0r2s2ep"
-path="res://.godot/imported/footprint.png-7b89a1d6d1b79f15a6555362b74ab4a9.ctex"
+path="res://.godot/imported/footprint.png-86dcb36c561b89a8afd6f68a1c18369f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/aggron/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-7b89a1d6d1b79f15a6555362b74ab4a9.ctex"]
+dest_files=["res://.godot/imported/footprint.png-86dcb36c561b89a8afd6f68a1c18369f.ctex"]
 
 [params]
 

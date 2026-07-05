@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h3pq0lvbofey"
-path="res://.godot/imported/footprint.png-5e6788b7a8ce2cc96242baaea03c0f6e.ctex"
+path="res://.godot/imported/footprint.png-0ea3f15543607d45f526074847b8c43b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/silcoon/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-5e6788b7a8ce2cc96242baaea03c0f6e.ctex"]
+dest_files=["res://.godot/imported/footprint.png-0ea3f15543607d45f526074847b8c43b.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c336v0n5mg3rm"
-path="res://.godot/imported/front.png-057faad017451d9c8bb52c1b94575d41.ctex"
+path="res://.godot/imported/front.png-f469bdbedfc2705757766813c3512ca2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/marill/front.png"
-dest_files=["res://.godot/imported/front.png-057faad017451d9c8bb52c1b94575d41.ctex"]
+dest_files=["res://.godot/imported/front.png-f469bdbedfc2705757766813c3512ca2.ctex"]
 
 [params]
 

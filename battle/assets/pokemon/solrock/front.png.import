@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lhrb51sbsupo"
-path="res://.godot/imported/front.png-1ad093326c7e401256bc47709c3b786a.ctex"
+path="res://.godot/imported/front.png-bc34d8bcdb70c8c57ea4a8b96ce2023c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/solrock/front.png"
-dest_files=["res://.godot/imported/front.png-1ad093326c7e401256bc47709c3b786a.ctex"]
+dest_files=["res://.godot/imported/front.png-bc34d8bcdb70c8c57ea4a8b96ce2023c.ctex"]
 
 [params]
 

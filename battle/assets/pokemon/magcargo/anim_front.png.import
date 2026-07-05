@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1jg4rhensa8b"
-path="res://.godot/imported/anim_front.png-013e6bd38e5ac322ccd6811e45c93f7d.ctex"
+path="res://.godot/imported/anim_front.png-d882a5f6432f132dc8be457324788933.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/magcargo/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-013e6bd38e5ac322ccd6811e45c93f7d.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-d882a5f6432f132dc8be457324788933.ctex"]
 
 [params]
 

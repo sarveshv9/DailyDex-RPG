@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0ud4xwtoc0du"
-path="res://.godot/imported/back.png-6a256b454c262a0db2eaad9f5c5bcb1a.ctex"
+path="res://.godot/imported/back.png-a79706679f7fa57fabf1b34979583d6e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/miltank/back.png"
-dest_files=["res://.godot/imported/back.png-6a256b454c262a0db2eaad9f5c5bcb1a.ctex"]
+dest_files=["res://.godot/imported/back.png-a79706679f7fa57fabf1b34979583d6e.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq3xpkkaq54wb"
-path="res://.godot/imported/footprint.png-f1e657e4a4cf280be2e564bf3fd2b33c.ctex"
+path="res://.godot/imported/footprint.png-93231de03c05efa4821eb02de3a7f158.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/vaporeon/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-f1e657e4a4cf280be2e564bf3fd2b33c.ctex"]
+dest_files=["res://.godot/imported/footprint.png-93231de03c05efa4821eb02de3a7f158.ctex"]
 
 [params]
 

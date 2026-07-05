@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mf2jsie1d58f"
-path="res://.godot/imported/footprint.png-4196445388659aad45e444b05353ab7f.ctex"
+path="res://.godot/imported/footprint.png-458d065f658964d10818edb186a4c66e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/glalie/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-4196445388659aad45e444b05353ab7f.ctex"]
+dest_files=["res://.godot/imported/footprint.png-458d065f658964d10818edb186a4c66e.ctex"]
 
 [params]
 

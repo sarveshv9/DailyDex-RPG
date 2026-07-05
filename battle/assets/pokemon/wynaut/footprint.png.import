@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brf6g8efd4rx6"
-path="res://.godot/imported/footprint.png-3662666af921f6afbd8cd3690e88499d.ctex"
+path="res://.godot/imported/footprint.png-e659600a5fd427517d8b4f0ed0d996a4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/wynaut/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-3662666af921f6afbd8cd3690e88499d.ctex"]
+dest_files=["res://.godot/imported/footprint.png-e659600a5fd427517d8b4f0ed0d996a4.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://caubfsngw0t0a"
-path="res://.godot/imported/icon.png-1f5f9d2ede6b9fc774934e038319e6a6.ctex"
+path="res://.godot/imported/icon.png-25b9cc8b89e8755defa51180aa2052bf.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/exeggutor/icon.png"
-dest_files=["res://.godot/imported/icon.png-1f5f9d2ede6b9fc774934e038319e6a6.ctex"]
+dest_files=["res://.godot/imported/icon.png-25b9cc8b89e8755defa51180aa2052bf.ctex"]
 
 [params]
 

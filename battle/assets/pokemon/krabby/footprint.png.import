@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cechflyaprl0d"
-path="res://.godot/imported/footprint.png-535c46f54ba2a1b151ed904e3d31f5d6.ctex"
+path="res://.godot/imported/footprint.png-60170b8f026dd898543348404351c61d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/krabby/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-535c46f54ba2a1b151ed904e3d31f5d6.ctex"]
+dest_files=["res://.godot/imported/footprint.png-60170b8f026dd898543348404351c61d.ctex"]
 
 [params]
 

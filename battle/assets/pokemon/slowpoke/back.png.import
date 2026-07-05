@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c14mwkdysop2c"
-path="res://.godot/imported/back.png-42bd51e6640f4aa4dcc938d00bf39aec.ctex"
+path="res://.godot/imported/back.png-a670c8a117365cf3745e43f9dd09b6f0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/slowpoke/back.png"
-dest_files=["res://.godot/imported/back.png-42bd51e6640f4aa4dcc938d00bf39aec.ctex"]
+dest_files=["res://.godot/imported/back.png-a670c8a117365cf3745e43f9dd09b6f0.ctex"]
 
 [params]
 

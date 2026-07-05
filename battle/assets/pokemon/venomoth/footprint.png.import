@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://co6dsy6cn31e"
-path="res://.godot/imported/footprint.png-926324926bd23a66415ee15d291f3dee.ctex"
+path="res://.godot/imported/footprint.png-0baf29c2232e41823da13170c0ae0c1f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/venomoth/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-926324926bd23a66415ee15d291f3dee.ctex"]
+dest_files=["res://.godot/imported/footprint.png-0baf29c2232e41823da13170c0ae0c1f.ctex"]
 
 [params]
 

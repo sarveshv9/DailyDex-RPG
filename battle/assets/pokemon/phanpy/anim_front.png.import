@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn4cus1mhurb7"
-path="res://.godot/imported/anim_front.png-feefd1b631080e360daafe96dfacdd12.ctex"
+path="res://.godot/imported/anim_front.png-83849f9146518c0191312bbfc23d6de5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/phanpy/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-feefd1b631080e360daafe96dfacdd12.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-83849f9146518c0191312bbfc23d6de5.ctex"]
 
 [params]
 

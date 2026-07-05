@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn8kmka6uho2i"
-path="res://.godot/imported/back.png-97f385809006c9fbb3b8d8a2e9e43c88.ctex"
+path="res://.godot/imported/back.png-a1cd59ef13c454b9308a25c32ed0e5a7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/roselia/back.png"
-dest_files=["res://.godot/imported/back.png-97f385809006c9fbb3b8d8a2e9e43c88.ctex"]
+dest_files=["res://.godot/imported/back.png-a1cd59ef13c454b9308a25c32ed0e5a7.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://oql0fkrpja2n"
-path="res://.godot/imported/back.png-0ce04850b142aceea6e9fd22f271841a.ctex"
+path="res://.godot/imported/back.png-449769540dad8488b34c7b854e5f4556.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/grimer/back.png"
-dest_files=["res://.godot/imported/back.png-0ce04850b142aceea6e9fd22f271841a.ctex"]
+dest_files=["res://.godot/imported/back.png-449769540dad8488b34c7b854e5f4556.ctex"]
 
 [params]
 

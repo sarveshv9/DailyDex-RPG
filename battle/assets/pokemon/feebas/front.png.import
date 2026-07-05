@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dakoy2viwj2mg"
-path="res://.godot/imported/front.png-8b3f4b1ffdfe6bbcdcd1af1e4744e5fc.ctex"
+path="res://.godot/imported/front.png-1d5509a723e82cbec2eb8f263d0f2d0e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/feebas/front.png"
-dest_files=["res://.godot/imported/front.png-8b3f4b1ffdfe6bbcdcd1af1e4744e5fc.ctex"]
+dest_files=["res://.godot/imported/front.png-1d5509a723e82cbec2eb8f263d0f2d0e.ctex"]
 
 [params]
 

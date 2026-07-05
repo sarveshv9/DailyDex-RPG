@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk7cowwyh2wou"
-path="res://.godot/imported/front.png-92ea00bfd598d11c9414930fb9160ac4.ctex"
+path="res://.godot/imported/front.png-60dcc87fbbdf5d822d92ec044a666507.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sealeo/front.png"
-dest_files=["res://.godot/imported/front.png-92ea00bfd598d11c9414930fb9160ac4.ctex"]
+dest_files=["res://.godot/imported/front.png-60dcc87fbbdf5d822d92ec044a666507.ctex"]
 
 [params]
 

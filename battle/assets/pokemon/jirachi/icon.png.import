@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg7fqwixcj2r1"
-path="res://.godot/imported/icon.png-d0ddbc66022c64c0e16c8040530bb347.ctex"
+path="res://.godot/imported/icon.png-80aa97ba8a288e131a6b1d9e32e82b92.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/jirachi/icon.png"
-dest_files=["res://.godot/imported/icon.png-d0ddbc66022c64c0e16c8040530bb347.ctex"]
+dest_files=["res://.godot/imported/icon.png-80aa97ba8a288e131a6b1d9e32e82b92.ctex"]
 
 [params]
 

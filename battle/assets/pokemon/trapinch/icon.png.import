@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brr8uq30ddv7m"
-path="res://.godot/imported/icon.png-74022a9249a8f8e9bbdde4caf5679b20.ctex"
+path="res://.godot/imported/icon.png-c34b67305b14e954ed35a2352149a4ca.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/trapinch/icon.png"
-dest_files=["res://.godot/imported/icon.png-74022a9249a8f8e9bbdde4caf5679b20.ctex"]
+dest_files=["res://.godot/imported/icon.png-c34b67305b14e954ed35a2352149a4ca.ctex"]
 
 [params]
 

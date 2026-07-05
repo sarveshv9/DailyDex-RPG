@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnr27s74u1cpv"
-path="res://.godot/imported/front.png-9de4c2f0fb5795a75b09c58821dac2fa.ctex"
+path="res://.godot/imported/front.png-759e4be3a58590c02606a54990eecf6c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/breloom/front.png"
-dest_files=["res://.godot/imported/front.png-9de4c2f0fb5795a75b09c58821dac2fa.ctex"]
+dest_files=["res://.godot/imported/front.png-759e4be3a58590c02606a54990eecf6c.ctex"]
 
 [params]
 

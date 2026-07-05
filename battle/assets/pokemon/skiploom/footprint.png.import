@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvsgxxhxvk2y3"
-path="res://.godot/imported/footprint.png-2438dfc81e3e94de15f61b6416106623.ctex"
+path="res://.godot/imported/footprint.png-b29317eae934e6a61b17ad95a21ea6c8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/skiploom/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-2438dfc81e3e94de15f61b6416106623.ctex"]
+dest_files=["res://.godot/imported/footprint.png-b29317eae934e6a61b17ad95a21ea6c8.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b464s3ejyu2qh"
-path="res://.godot/imported/footprint.png-87c4b326ff24c17f21874d4774040a08.ctex"
+path="res://.godot/imported/footprint.png-c587734f85ce36cd156913541cdf7605.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/magmar/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-87c4b326ff24c17f21874d4774040a08.ctex"]
+dest_files=["res://.godot/imported/footprint.png-c587734f85ce36cd156913541cdf7605.ctex"]
 
 [params]
 

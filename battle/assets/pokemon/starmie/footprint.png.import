@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bansmtxfqctbw"
-path="res://.godot/imported/footprint.png-6edc21faf87927773014d8b7bd5759b2.ctex"
+path="res://.godot/imported/footprint.png-3d369f59f09f452887be5b29dc33da38.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/starmie/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-6edc21faf87927773014d8b7bd5759b2.ctex"]
+dest_files=["res://.godot/imported/footprint.png-3d369f59f09f452887be5b29dc33da38.ctex"]
 
 [params]
 

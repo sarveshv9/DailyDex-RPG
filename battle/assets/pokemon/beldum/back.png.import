@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0p510c6y6nf7"
-path="res://.godot/imported/back.png-0846294ae0f27d16545eba89d4ea27da.ctex"
+path="res://.godot/imported/back.png-11270c67fae7ad5c27adeec3624cb0e5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/beldum/back.png"
-dest_files=["res://.godot/imported/back.png-0846294ae0f27d16545eba89d4ea27da.ctex"]
+dest_files=["res://.godot/imported/back.png-11270c67fae7ad5c27adeec3624cb0e5.ctex"]
 
 [params]
 

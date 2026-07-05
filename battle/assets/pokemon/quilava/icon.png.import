@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3w6rrsl2cltb"
-path="res://.godot/imported/icon.png-38281946642b0430ccf990e4369d56a5.ctex"
+path="res://.godot/imported/icon.png-d3e282febf686bcaab3b005eafbb366c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/quilava/icon.png"
-dest_files=["res://.godot/imported/icon.png-38281946642b0430ccf990e4369d56a5.ctex"]
+dest_files=["res://.godot/imported/icon.png-d3e282febf686bcaab3b005eafbb366c.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddgg5i8l5ipoo"
-path="res://.godot/imported/anim_front.png-12edf437009aabbb64c6edd8a271a7dd.ctex"
+path="res://.godot/imported/anim_front.png-09aa83f3e137366253653a578e4e5a7d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/electrode/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-12edf437009aabbb64c6edd8a271a7dd.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-09aa83f3e137366253653a578e4e5a7d.ctex"]
 
 [params]
 

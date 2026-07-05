@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvco8kyajrwut"
-path="res://.godot/imported/anim_front.png-73ef372ee6f78a978341b837871c7e84.ctex"
+path="res://.godot/imported/anim_front.png-7349e7e212255a21897486c41efb800d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/flygon/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-73ef372ee6f78a978341b837871c7e84.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-7349e7e212255a21897486c41efb800d.ctex"]
 
 [params]
 

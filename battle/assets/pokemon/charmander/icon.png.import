@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0p10ayivywtg"
-path="res://.godot/imported/icon.png-1b3b781d3e8314a340ac5961a450593f.ctex"
+path="res://.godot/imported/icon.png-e0e736f0f2b8a229b8284551151f782d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/charmander/icon.png"
-dest_files=["res://.godot/imported/icon.png-1b3b781d3e8314a340ac5961a450593f.ctex"]
+dest_files=["res://.godot/imported/icon.png-e0e736f0f2b8a229b8284551151f782d.ctex"]
 
 [params]
 

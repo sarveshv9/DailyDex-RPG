@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fye0fg22m5td"
-path="res://.godot/imported/icon.png-d92d4f46239a88dbfd468312425430a7.ctex"
+path="res://.godot/imported/icon.png-5c197ba2fb82bd2d41f397885ac260ed.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/swellow/icon.png"
-dest_files=["res://.godot/imported/icon.png-d92d4f46239a88dbfd468312425430a7.ctex"]
+dest_files=["res://.godot/imported/icon.png-5c197ba2fb82bd2d41f397885ac260ed.ctex"]
 
 [params]
 

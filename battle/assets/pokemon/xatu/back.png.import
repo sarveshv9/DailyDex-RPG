@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1u345o586ip2"
-path="res://.godot/imported/back.png-d4b93334db08e9d48dab187930c31a2c.ctex"
+path="res://.godot/imported/back.png-8564f96e5136f47622da263294f6893b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/xatu/back.png"
-dest_files=["res://.godot/imported/back.png-d4b93334db08e9d48dab187930c31a2c.ctex"]
+dest_files=["res://.godot/imported/back.png-8564f96e5136f47622da263294f6893b.ctex"]
 
 [params]
 

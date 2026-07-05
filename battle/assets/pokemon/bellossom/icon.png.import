@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbdjaj7112bgx"
-path="res://.godot/imported/icon.png-7e75078b9403362ce7ca1e73151dfc16.ctex"
+path="res://.godot/imported/icon.png-4df0b1dcaffc59051fffcbc25c437af5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/bellossom/icon.png"
-dest_files=["res://.godot/imported/icon.png-7e75078b9403362ce7ca1e73151dfc16.ctex"]
+dest_files=["res://.godot/imported/icon.png-4df0b1dcaffc59051fffcbc25c437af5.ctex"]
 
 [params]
 

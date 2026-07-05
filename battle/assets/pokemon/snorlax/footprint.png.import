@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv63irhtnogrr"
-path="res://.godot/imported/footprint.png-cbbe288d8d649131c01c24335b812fcf.ctex"
+path="res://.godot/imported/footprint.png-a2d21e090794ad02f1932b563e9e84ef.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/snorlax/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-cbbe288d8d649131c01c24335b812fcf.ctex"]
+dest_files=["res://.godot/imported/footprint.png-a2d21e090794ad02f1932b563e9e84ef.ctex"]
 
 [params]
 

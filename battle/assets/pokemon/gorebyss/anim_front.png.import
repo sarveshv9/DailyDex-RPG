@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctj03wsbu1ecr"
-path="res://.godot/imported/anim_front.png-22e37a4d2f6719ce17a98edf8578ba38.ctex"
+path="res://.godot/imported/anim_front.png-71691de6dc26261564eab3fbb0d3917b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/gorebyss/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-22e37a4d2f6719ce17a98edf8578ba38.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-71691de6dc26261564eab3fbb0d3917b.ctex"]
 
 [params]
 

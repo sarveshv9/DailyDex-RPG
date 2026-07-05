@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1ncbsr2ah03o"
-path="res://.godot/imported/footprint.png-e7f8ab41768bd5550be1474029b520df.ctex"
+path="res://.godot/imported/footprint.png-cafb1d7c56e40a1856e359affd1f2dac.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/swinub/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-e7f8ab41768bd5550be1474029b520df.ctex"]
+dest_files=["res://.godot/imported/footprint.png-cafb1d7c56e40a1856e359affd1f2dac.ctex"]
 
 [params]
 

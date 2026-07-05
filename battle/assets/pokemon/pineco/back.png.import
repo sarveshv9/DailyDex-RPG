@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4do6csv31ref"
-path="res://.godot/imported/back.png-609cd753b6b49367dbec86e86e33a012.ctex"
+path="res://.godot/imported/back.png-edb09a0284ffceba5136618b38202a37.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/pineco/back.png"
-dest_files=["res://.godot/imported/back.png-609cd753b6b49367dbec86e86e33a012.ctex"]
+dest_files=["res://.godot/imported/back.png-edb09a0284ffceba5136618b38202a37.ctex"]
 
 [params]
 

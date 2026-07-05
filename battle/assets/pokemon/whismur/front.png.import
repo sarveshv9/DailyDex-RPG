@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cl213b13rjf02"
-path="res://.godot/imported/front.png-92b3f389fa4068f6f8ce4c9b20a90347.ctex"
+path="res://.godot/imported/front.png-8cf11c41a72d3a332f948e89f9ee4dd9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/whismur/front.png"
-dest_files=["res://.godot/imported/front.png-92b3f389fa4068f6f8ce4c9b20a90347.ctex"]
+dest_files=["res://.godot/imported/front.png-8cf11c41a72d3a332f948e89f9ee4dd9.ctex"]
 
 [params]
 

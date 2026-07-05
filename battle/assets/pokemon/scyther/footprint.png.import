@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3lhto0d2cidg"
-path="res://.godot/imported/footprint.png-59f33116dc8927a5dcc191431a5efbf1.ctex"
+path="res://.godot/imported/footprint.png-e749d5ad2d8a0393dccb64d4f5d79d8b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/scyther/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-59f33116dc8927a5dcc191431a5efbf1.ctex"]
+dest_files=["res://.godot/imported/footprint.png-e749d5ad2d8a0393dccb64d4f5d79d8b.ctex"]
 
 [params]
 

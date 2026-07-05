@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://diu0bpu31dv5o"
-path="res://.godot/imported/footprint.png-79af6e95fe4b7fc61ca58b2fbedc61e3.ctex"
+path="res://.godot/imported/footprint.png-d1fb29cbad4f62ec3e369328b38120d5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/latias/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-79af6e95fe4b7fc61ca58b2fbedc61e3.ctex"]
+dest_files=["res://.godot/imported/footprint.png-d1fb29cbad4f62ec3e369328b38120d5.ctex"]
 
 [params]
 

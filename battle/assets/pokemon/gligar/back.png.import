@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct8dod4i3c462"
-path="res://.godot/imported/back.png-8222bc8bc09facd80600847cdd7a8b88.ctex"
+path="res://.godot/imported/back.png-2c912211fa3d91d9bbf6815e293272b3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/gligar/back.png"
-dest_files=["res://.godot/imported/back.png-8222bc8bc09facd80600847cdd7a8b88.ctex"]
+dest_files=["res://.godot/imported/back.png-2c912211fa3d91d9bbf6815e293272b3.ctex"]
 
 [params]
 

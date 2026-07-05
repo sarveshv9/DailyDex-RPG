@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cadv6yn4573we"
-path="res://.godot/imported/back.png-5179ad45a406499891491928396a0060.ctex"
+path="res://.godot/imported/back.png-4ce64d54c938b97a4c1814c50bc1166f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/electrike/back.png"
-dest_files=["res://.godot/imported/back.png-5179ad45a406499891491928396a0060.ctex"]
+dest_files=["res://.godot/imported/back.png-4ce64d54c938b97a4c1814c50bc1166f.ctex"]
 
 [params]
 

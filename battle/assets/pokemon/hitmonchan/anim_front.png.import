@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k546m6a71li5"
-path="res://.godot/imported/anim_front.png-70075724fba815e13eea402747660e98.ctex"
+path="res://.godot/imported/anim_front.png-2aadb26f9f28f5267903b2d4bdb7e400.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/hitmonchan/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-70075724fba815e13eea402747660e98.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-2aadb26f9f28f5267903b2d4bdb7e400.ctex"]
 
 [params]
 

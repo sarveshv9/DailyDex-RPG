@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dra43o0wt6t8x"
-path="res://.godot/imported/back.png-f42ad77ce57f550b4834233ac4a20e5d.ctex"
+path="res://.godot/imported/back.png-7a7d9ef74b474403646f7108e15e5b12.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/gloom/back.png"
-dest_files=["res://.godot/imported/back.png-f42ad77ce57f550b4834233ac4a20e5d.ctex"]
+dest_files=["res://.godot/imported/back.png-7a7d9ef74b474403646f7108e15e5b12.ctex"]
 
 [params]
 

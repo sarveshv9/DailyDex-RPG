@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bubupfl7mxcpa"
-path="res://.godot/imported/front.png-165d7c0fcf7ae116a50509ca76e521e9.ctex"
+path="res://.godot/imported/front.png-b8c6844d60687f0029dfdeefae2f9566.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/butterfree/front.png"
-dest_files=["res://.godot/imported/front.png-165d7c0fcf7ae116a50509ca76e521e9.ctex"]
+dest_files=["res://.godot/imported/front.png-b8c6844d60687f0029dfdeefae2f9566.ctex"]
 
 [params]
 

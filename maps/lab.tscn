@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://lab_uid"]
+
+[ext_resource type="PackedScene" path="res://maps/door.tscn" id="1_door"]
+
+[node name="Lab" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 320.0
+offset_bottom = 240.0
+color = Color(0.1, 0.2, 0.1, 1)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 130.0
+offset_top = 100.0
+text = "LAB"
+
+[node name="ExitDoor" parent="." instance=ExtResource("1_door")]
+position = Vector2(160, 220)
+target_scene = "res://maps/starter_town.tscn"

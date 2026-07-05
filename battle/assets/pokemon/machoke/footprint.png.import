@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://curpjquogg0f5"
-path="res://.godot/imported/footprint.png-5e35e8e42a5e51bbc93b7195f79430a5.ctex"
+path="res://.godot/imported/footprint.png-2047f99c741f6dd6d2c54c91bf29b46d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/machoke/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-5e35e8e42a5e51bbc93b7195f79430a5.ctex"]
+dest_files=["res://.godot/imported/footprint.png-2047f99c741f6dd6d2c54c91bf29b46d.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvx4rflv7ac2h"
-path="res://.godot/imported/front.png-f49e9833678a83a80723fb1d9cdd011d.ctex"
+path="res://.godot/imported/front.png-b2bef0b75a36977cfdae4652a1ade31a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/metagross/front.png"
-dest_files=["res://.godot/imported/front.png-f49e9833678a83a80723fb1d9cdd011d.ctex"]
+dest_files=["res://.godot/imported/front.png-b2bef0b75a36977cfdae4652a1ade31a.ctex"]
 
 [params]
 

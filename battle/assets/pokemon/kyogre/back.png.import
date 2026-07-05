@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd34lbsuko5uc"
-path="res://.godot/imported/back.png-7841cd6c5827e10689d6c57f1336bced.ctex"
+path="res://.godot/imported/back.png-7605cfa4298a5934542c6fd44cf1716b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/kyogre/back.png"
-dest_files=["res://.godot/imported/back.png-7841cd6c5827e10689d6c57f1336bced.ctex"]
+dest_files=["res://.godot/imported/back.png-7605cfa4298a5934542c6fd44cf1716b.ctex"]
 
 [params]
 

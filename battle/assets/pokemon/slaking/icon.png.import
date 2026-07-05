@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqpp84my458dt"
-path="res://.godot/imported/icon.png-2c2a3d64799ef8949105f203a21f6989.ctex"
+path="res://.godot/imported/icon.png-f77fcc0d19c1cee01d3d78de249ff452.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/slaking/icon.png"
-dest_files=["res://.godot/imported/icon.png-2c2a3d64799ef8949105f203a21f6989.ctex"]
+dest_files=["res://.godot/imported/icon.png-f77fcc0d19c1cee01d3d78de249ff452.ctex"]
 
 [params]
 

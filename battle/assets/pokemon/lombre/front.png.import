@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0wdpususpjwe"
-path="res://.godot/imported/front.png-e659efcfcf780a52b8388b064168fa82.ctex"
+path="res://.godot/imported/front.png-8e4da060636fe38a703b559480533e32.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/lombre/front.png"
-dest_files=["res://.godot/imported/front.png-e659efcfcf780a52b8388b064168fa82.ctex"]
+dest_files=["res://.godot/imported/front.png-8e4da060636fe38a703b559480533e32.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://um0n33auvjjr"
-path="res://.godot/imported/berries_sign.png-fe1198c80116233d105cb2845ade00f5.ctex"
+path="res://.godot/imported/berries_sign.png-8a572ba5b8da5d35cd5dcf79b19aee12.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/bag_assets/berries_sign.png"
-dest_files=["res://.godot/imported/berries_sign.png-fe1198c80116233d105cb2845ade00f5.ctex"]
+dest_files=["res://.godot/imported/berries_sign.png-8a572ba5b8da5d35cd5dcf79b19aee12.ctex"]
 
 [params]
 

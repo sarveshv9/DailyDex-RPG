@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmc0x2ljdodfc"
-path="res://.godot/imported/back.png-6aa16f92168f91e9f97df9fe4a15fce5.ctex"
+path="res://.godot/imported/back.png-b76c8a76df6bb0b3758122c427e4ac5f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/kingdra/back.png"
-dest_files=["res://.godot/imported/back.png-6aa16f92168f91e9f97df9fe4a15fce5.ctex"]
+dest_files=["res://.godot/imported/back.png-b76c8a76df6bb0b3758122c427e4ac5f.ctex"]
 
 [params]
 

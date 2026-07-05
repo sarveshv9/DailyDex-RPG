@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v8iruyx45e5d"
-path="res://.godot/imported/footprint.png-c12c77b18c970d8759dc910671f54bc1.ctex"
+path="res://.godot/imported/footprint.png-06520b40e24b821e7e64605030766079.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/hitmonlee/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-c12c77b18c970d8759dc910671f54bc1.ctex"]
+dest_files=["res://.godot/imported/footprint.png-06520b40e24b821e7e64605030766079.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o7erkt774u50"
-path="res://.godot/imported/anim_front.png-5181a291d8ec5ede4e323bdc00f80aa1.ctex"
+path="res://.godot/imported/anim_front.png-4741f843d75d97c87bbcddd0bac0e55d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/fearow/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-5181a291d8ec5ede4e323bdc00f80aa1.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-4741f843d75d97c87bbcddd0bac0e55d.ctex"]
 
 [params]
 

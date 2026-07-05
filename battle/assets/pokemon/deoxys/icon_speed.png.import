@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxrnegusi6ac7"
-path="res://.godot/imported/icon_speed.png-579c9403b795c2f5087800eeebdc45a0.ctex"
+path="res://.godot/imported/icon_speed.png-f55d0060e1ff50c9b196eba2e9e2884e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/deoxys/icon_speed.png"
-dest_files=["res://.godot/imported/icon_speed.png-579c9403b795c2f5087800eeebdc45a0.ctex"]
+dest_files=["res://.godot/imported/icon_speed.png-f55d0060e1ff50c9b196eba2e9e2884e.ctex"]
 
 [params]
 

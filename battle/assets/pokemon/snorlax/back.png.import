@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tbfurir085sn"
-path="res://.godot/imported/back.png-7c77398616965a8032d89af2ad7cdf6e.ctex"
+path="res://.godot/imported/back.png-07f241bf404851dc0fbd00bf3f796334.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/snorlax/back.png"
-dest_files=["res://.godot/imported/back.png-7c77398616965a8032d89af2ad7cdf6e.ctex"]
+dest_files=["res://.godot/imported/back.png-07f241bf404851dc0fbd00bf3f796334.ctex"]
 
 [params]
 

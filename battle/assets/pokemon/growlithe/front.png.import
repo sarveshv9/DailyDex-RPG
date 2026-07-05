@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmktaoopyoqf6"
-path="res://.godot/imported/front.png-0964cf6ef3296411e0b96e4c97874d36.ctex"
+path="res://.godot/imported/front.png-726b21523287a73e8844a76f5c2818fe.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/growlithe/front.png"
-dest_files=["res://.godot/imported/front.png-0964cf6ef3296411e0b96e4c97874d36.ctex"]
+dest_files=["res://.godot/imported/front.png-726b21523287a73e8844a76f5c2818fe.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgg6bdax021r1"
-path="res://.godot/imported/icon.png-66cce9f470862f54310fb87a5c1f0811.ctex"
+path="res://.godot/imported/icon.png-ce3846f9838ad00c1834d907671a1fde.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/remoraid/icon.png"
-dest_files=["res://.godot/imported/icon.png-66cce9f470862f54310fb87a5c1f0811.ctex"]
+dest_files=["res://.godot/imported/icon.png-ce3846f9838ad00c1834d907671a1fde.ctex"]
 
 [params]
 

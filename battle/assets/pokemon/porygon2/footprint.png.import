@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkf4byxuawk1s"
-path="res://.godot/imported/footprint.png-e85503971e0c128d8e5bda33ff288606.ctex"
+path="res://.godot/imported/footprint.png-f1ac5a9d90e70147c194f8feb258a6d2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/porygon2/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-e85503971e0c128d8e5bda33ff288606.ctex"]
+dest_files=["res://.godot/imported/footprint.png-f1ac5a9d90e70147c194f8feb258a6d2.ctex"]
 
 [params]
 

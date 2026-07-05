@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm5ygq1jvvv76"
-path="res://.godot/imported/pokemon_empty.png-e127372bd385a903e7ec19745b191918.ctex"
+path="res://.godot/imported/pokemon_empty.png-b1972d6fff5c623edde3ef859ffb0def.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon_switch/pokemon_empty.png"
-dest_files=["res://.godot/imported/pokemon_empty.png-e127372bd385a903e7ec19745b191918.ctex"]
+dest_files=["res://.godot/imported/pokemon_empty.png-b1972d6fff5c623edde3ef859ffb0def.ctex"]
 
 [params]
 

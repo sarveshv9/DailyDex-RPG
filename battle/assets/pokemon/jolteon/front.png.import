@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jci6kangafal"
-path="res://.godot/imported/front.png-adb3d78243f1c7cb261b4077ae6b3ca6.ctex"
+path="res://.godot/imported/front.png-cbb8d06288ea97c58d99d2beda165ad8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/jolteon/front.png"
-dest_files=["res://.godot/imported/front.png-adb3d78243f1c7cb261b4077ae6b3ca6.ctex"]
+dest_files=["res://.godot/imported/front.png-cbb8d06288ea97c58d99d2beda165ad8.ctex"]
 
 [params]
 

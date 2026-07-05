@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fniedu4lj8qp"
-path="res://.godot/imported/footprint.png-65fb1b467dab63fc63b5b72eb50b619e.ctex"
+path="res://.godot/imported/footprint.png-fda45433bba0fc35a775a5766e9ed7ac.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/natu/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-65fb1b467dab63fc63b5b72eb50b619e.ctex"]
+dest_files=["res://.godot/imported/footprint.png-fda45433bba0fc35a775a5766e9ed7ac.ctex"]
 
 [params]
 

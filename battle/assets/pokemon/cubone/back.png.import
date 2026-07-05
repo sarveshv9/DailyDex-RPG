@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c233dlti50rkg"
-path="res://.godot/imported/back.png-3bfa6930c8958b594a28226813116105.ctex"
+path="res://.godot/imported/back.png-ad2b42e72c53430455b8bdf65452869e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cubone/back.png"
-dest_files=["res://.godot/imported/back.png-3bfa6930c8958b594a28226813116105.ctex"]
+dest_files=["res://.godot/imported/back.png-ad2b42e72c53430455b8bdf65452869e.ctex"]
 
 [params]
 

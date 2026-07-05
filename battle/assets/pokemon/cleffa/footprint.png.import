@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pftm8awsynb0"
-path="res://.godot/imported/footprint.png-9e9bc5e7a1c4150651813b525ad4c4d1.ctex"
+path="res://.godot/imported/footprint.png-e3efab1e25e411f70ff0a69cd5f20508.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cleffa/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-9e9bc5e7a1c4150651813b525ad4c4d1.ctex"]
+dest_files=["res://.godot/imported/footprint.png-e3efab1e25e411f70ff0a69cd5f20508.ctex"]
 
 [params]
 

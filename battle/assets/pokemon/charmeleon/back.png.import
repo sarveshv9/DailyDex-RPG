@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://22id7swpyjp2"
-path="res://.godot/imported/back.png-f1ddad99f95d5a16c554c0e52f0a1870.ctex"
+path="res://.godot/imported/back.png-f6eebfa498f49114c244cf87b60a7845.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/charmeleon/back.png"
-dest_files=["res://.godot/imported/back.png-f1ddad99f95d5a16c554c0e52f0a1870.ctex"]
+dest_files=["res://.godot/imported/back.png-f6eebfa498f49114c244cf87b60a7845.ctex"]
 
 [params]
 

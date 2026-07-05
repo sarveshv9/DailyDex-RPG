@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckgyjwdxhdgyo"
-path="res://.godot/imported/back.png-0b7ae868d6862038f02a7c8311ab1c02.ctex"
+path="res://.godot/imported/back.png-278fa8a6d25215b90353fcbc60160d5b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mareep/back.png"
-dest_files=["res://.godot/imported/back.png-0b7ae868d6862038f02a7c8311ab1c02.ctex"]
+dest_files=["res://.godot/imported/back.png-278fa8a6d25215b90353fcbc60160d5b.ctex"]
 
 [params]
 

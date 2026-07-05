@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brvamy4oxe7ih"
-path="res://.godot/imported/icon.png-06bcf5d6bdf4f179ffb8837c0c07087d.ctex"
+path="res://.godot/imported/icon.png-b04f17cc89997cbe9558ea30181c0c62.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/espeon/icon.png"
-dest_files=["res://.godot/imported/icon.png-06bcf5d6bdf4f179ffb8837c0c07087d.ctex"]
+dest_files=["res://.godot/imported/icon.png-b04f17cc89997cbe9558ea30181c0c62.ctex"]
 
 [params]
 

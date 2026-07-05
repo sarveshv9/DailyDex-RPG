@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bodi1srhl1k4m"
-path="res://.godot/imported/footprint.png-89b68fcd9a14d65aa7a72ce316e53614.ctex"
+path="res://.godot/imported/footprint.png-facb2a5c59994a854b30e8f50c3ad68c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/manectric/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-89b68fcd9a14d65aa7a72ce316e53614.ctex"]
+dest_files=["res://.godot/imported/footprint.png-facb2a5c59994a854b30e8f50c3ad68c.ctex"]
 
 [params]
 

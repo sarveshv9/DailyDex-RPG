@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxe4252l2c784"
-path="res://.godot/imported/back.png-01189fa57c362804cb7cbc9febe937f9.ctex"
+path="res://.godot/imported/back.png-9ffb6cfdce1e4489d3e4bbb996e40e08.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/natu/back.png"
-dest_files=["res://.godot/imported/back.png-01189fa57c362804cb7cbc9febe937f9.ctex"]
+dest_files=["res://.godot/imported/back.png-9ffb6cfdce1e4489d3e4bbb996e40e08.ctex"]
 
 [params]
 

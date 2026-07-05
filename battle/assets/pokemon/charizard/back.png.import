@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2f3pcgdti4n0"
-path="res://.godot/imported/back.png-2d7bb01d646921f73dabbb0936864c5b.ctex"
+path="res://.godot/imported/back.png-bd1c220b803f5b07b98d3f2d60ac1892.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/charizard/back.png"
-dest_files=["res://.godot/imported/back.png-2d7bb01d646921f73dabbb0936864c5b.ctex"]
+dest_files=["res://.godot/imported/back.png-bd1c220b803f5b07b98d3f2d60ac1892.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl4wgfrwm2jpe"
-path="res://.godot/imported/anim_front.png-a02fa2d857bbe10ca5227a7e8661b62a.ctex"
+path="res://.godot/imported/anim_front.png-33a65618d8b741a638fa5e8087e60cfa.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/dewgong/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-a02fa2d857bbe10ca5227a7e8661b62a.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-33a65618d8b741a638fa5e8087e60cfa.ctex"]
 
 [params]
 

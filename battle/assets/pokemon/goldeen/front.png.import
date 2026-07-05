@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqp34ogau16ce"
-path="res://.godot/imported/front.png-d45604cd3225a342d40ae742001af535.ctex"
+path="res://.godot/imported/front.png-b3e84b39d0f742b263b6a3115b130f84.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/goldeen/front.png"
-dest_files=["res://.godot/imported/front.png-d45604cd3225a342d40ae742001af535.ctex"]
+dest_files=["res://.godot/imported/front.png-b3e84b39d0f742b263b6a3115b130f84.ctex"]
 
 [params]
 

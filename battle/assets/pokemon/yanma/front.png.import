@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drscooh0a7h7h"
-path="res://.godot/imported/front.png-9c4453420eee99a17810fd7050305ab2.ctex"
+path="res://.godot/imported/front.png-56221c7a86c06def0a0a32b3c87c8dd8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/yanma/front.png"
-dest_files=["res://.godot/imported/front.png-9c4453420eee99a17810fd7050305ab2.ctex"]
+dest_files=["res://.godot/imported/front.png-56221c7a86c06def0a0a32b3c87c8dd8.ctex"]
 
 [params]
 

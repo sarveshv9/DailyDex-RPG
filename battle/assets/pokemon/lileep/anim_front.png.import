@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kjdwcg1txyir"
-path="res://.godot/imported/anim_front.png-ecf340e6ad6e9b82063f8a098e791c47.ctex"
+path="res://.godot/imported/anim_front.png-c14e7b31ec47f6eab3f302a94e0b6061.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/lileep/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-ecf340e6ad6e9b82063f8a098e791c47.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-c14e7b31ec47f6eab3f302a94e0b6061.ctex"]
 
 [params]
 

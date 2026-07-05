@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctxwcjif823kh"
-path="res://.godot/imported/front.png-431cfcb932726d3df636838f33ace1e6.ctex"
+path="res://.godot/imported/front.png-9cc90cb6c6a5abc254879990da2ea4b2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/question_mark/double/front.png"
-dest_files=["res://.godot/imported/front.png-431cfcb932726d3df636838f33ace1e6.ctex"]
+dest_files=["res://.godot/imported/front.png-9cc90cb6c6a5abc254879990da2ea4b2.ctex"]
 
 [params]
 

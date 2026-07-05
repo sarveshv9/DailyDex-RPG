@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxcsy6bbwg257"
-path="res://.godot/imported/dialogue.png-45b4b87dacaf60e4ef66f1da035d8ba5.ctex"
+path="res://.godot/imported/dialogue.png-a3136f6e6d2ce9c8401ac1d2c83587e6.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://ui/assets/dialogue.png"
-dest_files=["res://.godot/imported/dialogue.png-45b4b87dacaf60e4ef66f1da035d8ba5.ctex"]
+dest_files=["res://.godot/imported/dialogue.png-a3136f6e6d2ce9c8401ac1d2c83587e6.ctex"]
 
 [params]
 

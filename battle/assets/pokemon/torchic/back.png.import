@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xhmcvlfa81ok"
-path="res://.godot/imported/back.png-948803c84a46e5703d355ca5af84cf21.ctex"
+path="res://.godot/imported/back.png-c2d52b4cb3aa1ce54c67ab7af480af1c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/torchic/back.png"
-dest_files=["res://.godot/imported/back.png-948803c84a46e5703d355ca5af84cf21.ctex"]
+dest_files=["res://.godot/imported/back.png-c2d52b4cb3aa1ce54c67ab7af480af1c.ctex"]
 
 [params]
 

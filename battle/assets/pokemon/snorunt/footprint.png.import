@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo48iawl0pht8"
-path="res://.godot/imported/footprint.png-3b1f0c9ddd3be82568ef6baead712936.ctex"
+path="res://.godot/imported/footprint.png-1ca5fe739081f8cc7097ef1e7604fcbb.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/snorunt/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-3b1f0c9ddd3be82568ef6baead712936.ctex"]
+dest_files=["res://.godot/imported/footprint.png-1ca5fe739081f8cc7097ef1e7604fcbb.ctex"]
 
 [params]
 

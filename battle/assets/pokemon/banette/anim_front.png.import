@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beohtu7pa1qae"
-path="res://.godot/imported/anim_front.png-e49058b28a232351070ef1cf150eebe4.ctex"
+path="res://.godot/imported/anim_front.png-9b13bcfd6a91dbe8a8a0b4af9d64a0a8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/banette/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-e49058b28a232351070ef1cf150eebe4.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-9b13bcfd6a91dbe8a8a0b4af9d64a0a8.ctex"]
 
 [params]
 

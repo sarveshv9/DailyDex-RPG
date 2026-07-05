@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc535i4s2jbpg"
-path="res://.godot/imported/anim_front.png-ad7149e093e012b981998c732c0b65f9.ctex"
+path="res://.godot/imported/anim_front.png-2cb340706a2cff84cfae772d4d5bb91a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/arbok/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-ad7149e093e012b981998c732c0b65f9.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-2cb340706a2cff84cfae772d4d5bb91a.ctex"]
 
 [params]
 

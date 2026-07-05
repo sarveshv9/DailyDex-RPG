@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bngv711p41fg"
-path="res://.godot/imported/icon.png-23555c34e0e93806070fe00c5aaa101b.ctex"
+path="res://.godot/imported/icon.png-ab2d1a7a5540e2643c7a9fd65ec6af70.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/swalot/icon.png"
-dest_files=["res://.godot/imported/icon.png-23555c34e0e93806070fe00c5aaa101b.ctex"]
+dest_files=["res://.godot/imported/icon.png-ab2d1a7a5540e2643c7a9fd65ec6af70.ctex"]
 
 [params]
 

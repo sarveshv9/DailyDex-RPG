@@ -1,6 +1,6 @@
 extends CanvasLayer
 
-@onready var label = $TextureRect/RichTextLabel
+@onready var label = $Background/RichTextLabel
 @onready var timer = $Timer
 
 var is_active = false

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdn1mmeboqbow"
-path="res://.godot/imported/front.png-45ce97342021e6293d5b756792b87239.ctex"
+path="res://.godot/imported/front.png-3e757571296d92850c6e0dadf4272380.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/weedle/front.png"
-dest_files=["res://.godot/imported/front.png-45ce97342021e6293d5b756792b87239.ctex"]
+dest_files=["res://.godot/imported/front.png-3e757571296d92850c6e0dadf4272380.ctex"]
 
 [params]
 

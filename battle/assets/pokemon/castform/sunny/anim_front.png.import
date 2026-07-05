@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8yptlaonqphx"
-path="res://.godot/imported/anim_front.png-acac68551889ae3842ea55cb27b3e6ca.ctex"
+path="res://.godot/imported/anim_front.png-648627567eb48c133fbe3dc0d8c25920.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/castform/sunny/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-acac68551889ae3842ea55cb27b3e6ca.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-648627567eb48c133fbe3dc0d8c25920.ctex"]
 
 [params]
 

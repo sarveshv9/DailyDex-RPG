@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq8hopwiql8a3"
-path="res://.godot/imported/icon.png-3f52419b8699c15c07a1eaa5a25ff089.ctex"
+path="res://.godot/imported/icon.png-f99e4ee0d536653cdc8bcf579f3702f5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/grovyle/icon.png"
-dest_files=["res://.godot/imported/icon.png-3f52419b8699c15c07a1eaa5a25ff089.ctex"]
+dest_files=["res://.godot/imported/icon.png-f99e4ee0d536653cdc8bcf579f3702f5.ctex"]
 
 [params]
 

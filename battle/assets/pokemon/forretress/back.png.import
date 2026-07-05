@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btj4m7fgsj3d6"
-path="res://.godot/imported/back.png-e767cf14d3598c2a478acbc275a69907.ctex"
+path="res://.godot/imported/back.png-65357d2999184133810727c1f2df7b50.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/forretress/back.png"
-dest_files=["res://.godot/imported/back.png-e767cf14d3598c2a478acbc275a69907.ctex"]
+dest_files=["res://.godot/imported/back.png-65357d2999184133810727c1f2df7b50.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cto0lrdw25hhp"
-path="res://.godot/imported/anim_front.png-aa9e05441983839754a2c93e43af3644.ctex"
+path="res://.godot/imported/anim_front.png-7da56ceb92533b4cf5fb2247a8ad86d7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mantine/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-aa9e05441983839754a2c93e43af3644.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-7da56ceb92533b4cf5fb2247a8ad86d7.ctex"]
 
 [params]
 

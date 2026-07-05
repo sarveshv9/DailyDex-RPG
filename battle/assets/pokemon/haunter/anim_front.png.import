@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fvm8h534l152"
-path="res://.godot/imported/anim_front.png-b96f9d934db142b7bf7fcbe407ca77ff.ctex"
+path="res://.godot/imported/anim_front.png-d1c9d9fa41d1285b8904763dff06613a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/haunter/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-b96f9d934db142b7bf7fcbe407ca77ff.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-d1c9d9fa41d1285b8904763dff06613a.ctex"]
 
 [params]
 

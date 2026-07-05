@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct52krklckb8f"
-path="res://.godot/imported/footprint.png-ef1a1cdccace9c12cd4f7a5e2d13ee02.ctex"
+path="res://.godot/imported/footprint.png-05c6f17edb77151b6d90bdb94b9cb5c2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/camerupt/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-ef1a1cdccace9c12cd4f7a5e2d13ee02.ctex"]
+dest_files=["res://.godot/imported/footprint.png-05c6f17edb77151b6d90bdb94b9cb5c2.ctex"]
 
 [params]
 

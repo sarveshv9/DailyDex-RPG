@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b31mdwly4w045"
-path="res://.godot/imported/footprint.png-c2e4ddd142e92390d0b22177d6c5c931.ctex"
+path="res://.godot/imported/footprint.png-a09a6e14b76437b90f1921d0194ca030.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sneasel/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-c2e4ddd142e92390d0b22177d6c5c931.ctex"]
+dest_files=["res://.godot/imported/footprint.png-a09a6e14b76437b90f1921d0194ca030.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccr4slklgfgww"
-path="res://.godot/imported/footprint.png-7db43e568f520543b9e952a0ab7d8082.ctex"
+path="res://.godot/imported/footprint.png-0f6b9ec02045f00866c61b09449f48c6.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/swablu/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-7db43e568f520543b9e952a0ab7d8082.ctex"]
+dest_files=["res://.godot/imported/footprint.png-0f6b9ec02045f00866c61b09449f48c6.ctex"]
 
 [params]
 

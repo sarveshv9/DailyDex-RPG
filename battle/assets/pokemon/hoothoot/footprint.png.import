@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc0gsaiuku7t2"
-path="res://.godot/imported/footprint.png-3c38561ff6add996a8b8a150ea6d89b5.ctex"
+path="res://.godot/imported/footprint.png-a2196a53e3185531b7db310e0f19d325.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/hoothoot/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-3c38561ff6add996a8b8a150ea6d89b5.ctex"]
+dest_files=["res://.godot/imported/footprint.png-a2196a53e3185531b7db310e0f19d325.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ci7lnoxgp4o0d"
-path="res://.godot/imported/back.png-2025ba4781554746051990827bf1551e.ctex"
+path="res://.godot/imported/back.png-021d6c9359aa4e7d618c82921f2559e3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/zapdos/back.png"
-dest_files=["res://.godot/imported/back.png-2025ba4781554746051990827bf1551e.ctex"]
+dest_files=["res://.godot/imported/back.png-021d6c9359aa4e7d618c82921f2559e3.ctex"]
 
 [params]
 

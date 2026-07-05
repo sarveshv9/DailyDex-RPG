@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqvr2wpikwgef"
-path="res://.godot/imported/front.png-e9317ad708119f84f72fccf463de141f.ctex"
+path="res://.godot/imported/front.png-5302f80a2e4a059de7f8c404f38c22ac.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/scizor/front.png"
-dest_files=["res://.godot/imported/front.png-e9317ad708119f84f72fccf463de141f.ctex"]
+dest_files=["res://.godot/imported/front.png-5302f80a2e4a059de7f8c404f38c22ac.ctex"]
 
 [params]
 

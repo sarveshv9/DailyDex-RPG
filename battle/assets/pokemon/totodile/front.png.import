@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq5tpi2exwq7h"
-path="res://.godot/imported/front.png-c7794118b72dbd432bc287c1d791ba02.ctex"
+path="res://.godot/imported/front.png-26fb5eabdc3f84c24131e6cf3fb4e135.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/totodile/front.png"
-dest_files=["res://.godot/imported/front.png-c7794118b72dbd432bc287c1d791ba02.ctex"]
+dest_files=["res://.godot/imported/front.png-26fb5eabdc3f84c24131e6cf3fb4e135.ctex"]
 
 [params]
 

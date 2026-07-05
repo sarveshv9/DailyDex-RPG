@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://inveaj8dgm45"
-path="res://.godot/imported/anim_front.png-7bdf4881bf2e6557530815282d0baab0.ctex"
+path="res://.godot/imported/anim_front.png-7cd1b9e4494110e77636c067c9adc483.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/steelix/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-7bdf4881bf2e6557530815282d0baab0.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-7cd1b9e4494110e77636c067c9adc483.ctex"]
 
 [params]
 

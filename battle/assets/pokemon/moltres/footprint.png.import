@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bur6aqm7qkqww"
-path="res://.godot/imported/footprint.png-17c1f5b95c73195b07be35962ef63945.ctex"
+path="res://.godot/imported/footprint.png-b7e10d744c3cb5177774088e499d1f03.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/moltres/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-17c1f5b95c73195b07be35962ef63945.ctex"]
+dest_files=["res://.godot/imported/footprint.png-b7e10d744c3cb5177774088e499d1f03.ctex"]
 
 [params]
 

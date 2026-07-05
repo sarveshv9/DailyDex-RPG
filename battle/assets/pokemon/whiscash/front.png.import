@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4fbvucfbtl1a"
-path="res://.godot/imported/front.png-f09ed6bc9d3107c87b5ecc55a42e18bb.ctex"
+path="res://.godot/imported/front.png-9721c1d886f6393e525ec0edffdf6ae8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/whiscash/front.png"
-dest_files=["res://.godot/imported/front.png-f09ed6bc9d3107c87b5ecc55a42e18bb.ctex"]
+dest_files=["res://.godot/imported/front.png-9721c1d886f6393e525ec0edffdf6ae8.ctex"]
 
 [params]
 

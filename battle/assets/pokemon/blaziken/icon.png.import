@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b18s45ry662sw"
-path="res://.godot/imported/icon.png-392cb1d8864fe7b6a54d622adf6ec474.ctex"
+path="res://.godot/imported/icon.png-7f7278f71c2eea27c0bf41439409c6fc.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/blaziken/icon.png"
-dest_files=["res://.godot/imported/icon.png-392cb1d8864fe7b6a54d622adf6ec474.ctex"]
+dest_files=["res://.godot/imported/icon.png-7f7278f71c2eea27c0bf41439409c6fc.ctex"]
 
 [params]
 

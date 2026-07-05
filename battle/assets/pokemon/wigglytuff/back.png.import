@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s65brmq0a6fa"
-path="res://.godot/imported/back.png-f027d0ca6adce06a6b6922e03b3c1a60.ctex"
+path="res://.godot/imported/back.png-9bfda6036b29a5edacd81ba62c416947.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/wigglytuff/back.png"
-dest_files=["res://.godot/imported/back.png-f027d0ca6adce06a6b6922e03b3c1a60.ctex"]
+dest_files=["res://.godot/imported/back.png-9bfda6036b29a5edacd81ba62c416947.ctex"]
 
 [params]
 

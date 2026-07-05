@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jxdtvdfmnxvw"
-path="res://.godot/imported/footprint.png-f4979e3258e7b32f2bb25d021051084b.ctex"
+path="res://.godot/imported/footprint.png-c0b2341052869c41c53b38269668a703.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/totodile/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-f4979e3258e7b32f2bb25d021051084b.ctex"]
+dest_files=["res://.godot/imported/footprint.png-c0b2341052869c41c53b38269668a703.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byylm14lgr7v4"
-path="res://.godot/imported/footprint.png-57c3669cd034a1e26265fe2c014abf46.ctex"
+path="res://.godot/imported/footprint.png-fc1b3341be89c4c39a117cab7a19d095.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sentret/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-57c3669cd034a1e26265fe2c014abf46.ctex"]
+dest_files=["res://.godot/imported/footprint.png-fc1b3341be89c4c39a117cab7a19d095.ctex"]
 
 [params]
 

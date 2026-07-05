@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwlk4v7mqienr"
-path="res://.godot/imported/back.png-84f7bca2786f05a0eab03ee16edb0349.ctex"
+path="res://.godot/imported/back.png-0423386a73487345e0e3758c77d1d963.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/pidgeotto/back.png"
-dest_files=["res://.godot/imported/back.png-84f7bca2786f05a0eab03ee16edb0349.ctex"]
+dest_files=["res://.godot/imported/back.png-0423386a73487345e0e3758c77d1d963.ctex"]
 
 [params]
 

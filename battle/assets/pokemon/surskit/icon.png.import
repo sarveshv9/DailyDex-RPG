@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btfrhvrqgrfvg"
-path="res://.godot/imported/icon.png-c70161c5c319b7f7b70cdeffe5339e09.ctex"
+path="res://.godot/imported/icon.png-73b4f55bbedd2f32f5a979288d10537a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/surskit/icon.png"
-dest_files=["res://.godot/imported/icon.png-c70161c5c319b7f7b70cdeffe5339e09.ctex"]
+dest_files=["res://.godot/imported/icon.png-73b4f55bbedd2f32f5a979288d10537a.ctex"]
 
 [params]
 

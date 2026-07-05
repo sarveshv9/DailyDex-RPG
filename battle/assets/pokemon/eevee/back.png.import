@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmhthiiaf88eb"
-path="res://.godot/imported/back.png-a1f538eb30abbf3506bd0dd472f847c4.ctex"
+path="res://.godot/imported/back.png-240a28ef104f9b18a8bb8f988ede0cf4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/eevee/back.png"
-dest_files=["res://.godot/imported/back.png-a1f538eb30abbf3506bd0dd472f847c4.ctex"]
+dest_files=["res://.godot/imported/back.png-240a28ef104f9b18a8bb8f988ede0cf4.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0pb2b8ryi032"
-path="res://.godot/imported/front.png-d6e1ba25bdcdf4841d8ee76ab5b342fc.ctex"
+path="res://.godot/imported/front.png-426cf7200777307f8384c63d141725a6.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/lunatone/front.png"
-dest_files=["res://.godot/imported/front.png-d6e1ba25bdcdf4841d8ee76ab5b342fc.ctex"]
+dest_files=["res://.godot/imported/front.png-426cf7200777307f8384c63d141725a6.ctex"]
 
 [params]
 

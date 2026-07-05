@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8rar1v7l7v42"
-path="res://.godot/imported/footprint.png-82692000c6c41a07235bb591a75e588c.ctex"
+path="res://.godot/imported/footprint.png-387114e6c14f5d6ff6c1bc5b6fbeee63.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ninetales/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-82692000c6c41a07235bb591a75e588c.ctex"]
+dest_files=["res://.godot/imported/footprint.png-387114e6c14f5d6ff6c1bc5b6fbeee63.ctex"]
 
 [params]
 

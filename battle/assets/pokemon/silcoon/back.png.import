@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cl2rjgic2fck"
-path="res://.godot/imported/back.png-88bba158059ec9a7e0bdf0583aaa869d.ctex"
+path="res://.godot/imported/back.png-3434a35604f233997be85fc557254fa0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/silcoon/back.png"
-dest_files=["res://.godot/imported/back.png-88bba158059ec9a7e0bdf0583aaa869d.ctex"]
+dest_files=["res://.godot/imported/back.png-3434a35604f233997be85fc557254fa0.ctex"]
 
 [params]
 

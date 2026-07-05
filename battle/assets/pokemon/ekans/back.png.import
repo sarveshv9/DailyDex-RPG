@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb7ca6esaa515"
-path="res://.godot/imported/back.png-413c1af0078ee01208ccbfc762e7139a.ctex"
+path="res://.godot/imported/back.png-e2ef08753f097f5b289cff45fa3ecd03.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ekans/back.png"
-dest_files=["res://.godot/imported/back.png-413c1af0078ee01208ccbfc762e7139a.ctex"]
+dest_files=["res://.godot/imported/back.png-e2ef08753f097f5b289cff45fa3ecd03.ctex"]
 
 [params]
 

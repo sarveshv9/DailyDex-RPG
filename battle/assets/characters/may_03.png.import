@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh57wt41itrif"
-path="res://.godot/imported/may_03.png-af701c7cdbce71615bcc51ccf829fd2b.ctex"
+path="res://.godot/imported/may_03.png-a9fd9ade218145ec0ea7d0d5b41bebf0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/characters/may_03.png"
-dest_files=["res://.godot/imported/may_03.png-af701c7cdbce71615bcc51ccf829fd2b.ctex"]
+dest_files=["res://.godot/imported/may_03.png-a9fd9ade218145ec0ea7d0d5b41bebf0.ctex"]
 
 [params]
 

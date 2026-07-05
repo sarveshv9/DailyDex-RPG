@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cncwskyjofny6"
-path="res://.godot/imported/anim_front.png-733799ff0de78a3e1623c7a49e27d2d8.ctex"
+path="res://.godot/imported/anim_front.png-7e2244e26dc296818aa5d9cc865ecad5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/seedot/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-733799ff0de78a3e1623c7a49e27d2d8.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-7e2244e26dc296818aa5d9cc865ecad5.ctex"]
 
 [params]
 

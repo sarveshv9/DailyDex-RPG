@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c65pmmk1yu3rg"
-path="res://.godot/imported/spawnpokemon.mp3.wav-cc29838eb726eff730be6017026a2c8a.sample"
+path="res://.godot/imported/spawnpokemon.mp3.wav-9d21f4d5be226c7c02aa9313b7d723f5.sample"
 
 [deps]
 
 source_file="res://battle/assets/spawnpokemon.mp3.wav"
-dest_files=["res://.godot/imported/spawnpokemon.mp3.wav-cc29838eb726eff730be6017026a2c8a.sample"]
+dest_files=["res://.godot/imported/spawnpokemon.mp3.wav-9d21f4d5be226c7c02aa9313b7d723f5.sample"]
 
 [params]
 

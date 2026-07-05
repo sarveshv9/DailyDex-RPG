@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg4lqg0icwcnc"
-path="res://.godot/imported/icon.png-71fd204f3a06fe8d734206689087cf1f.ctex"
+path="res://.godot/imported/icon.png-5c63cc038975ada346ad269682f993fd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/meowth/icon.png"
-dest_files=["res://.godot/imported/icon.png-71fd204f3a06fe8d734206689087cf1f.ctex"]
+dest_files=["res://.godot/imported/icon.png-5c63cc038975ada346ad269682f993fd.ctex"]
 
 [params]
 

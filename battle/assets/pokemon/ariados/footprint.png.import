@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iy8xjkeawfmk"
-path="res://.godot/imported/footprint.png-d0ebda6c7a0e9b213e18e92d168ac212.ctex"
+path="res://.godot/imported/footprint.png-e4570ac69a680c16355a17a604271042.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/ariados/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-d0ebda6c7a0e9b213e18e92d168ac212.ctex"]
+dest_files=["res://.godot/imported/footprint.png-e4570ac69a680c16355a17a604271042.ctex"]
 
 [params]
 

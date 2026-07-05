@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baphqqrnhxit6"
-path="res://.godot/imported/front.png-f5a82c4502410976aa61a421fb4d9a09.ctex"
+path="res://.godot/imported/front.png-13134b885a1ac19dd73370b6fcbd8299.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/aggron/front.png"
-dest_files=["res://.godot/imported/front.png-f5a82c4502410976aa61a421fb4d9a09.ctex"]
+dest_files=["res://.godot/imported/front.png-13134b885a1ac19dd73370b6fcbd8299.ctex"]
 
 [params]
 

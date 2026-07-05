@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yjtbxtc06bd6"
-path="res://.godot/imported/anim_front.png-7dc4bbcf62abb8de733dad4d6e370dd9.ctex"
+path="res://.godot/imported/anim_front.png-c94146e6d7adc90314a03aef1867b50d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/qwilfish/anim_front.png"
-dest_files=["res://.godot/imported/anim_front.png-7dc4bbcf62abb8de733dad4d6e370dd9.ctex"]
+dest_files=["res://.godot/imported/anim_front.png-c94146e6d7adc90314a03aef1867b50d.ctex"]
 
 [params]
 

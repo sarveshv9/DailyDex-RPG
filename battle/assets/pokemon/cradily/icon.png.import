@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwvejo8bd6o47"
-path="res://.godot/imported/icon.png-6c760168ed406f87b02cf4409a004300.ctex"
+path="res://.godot/imported/icon.png-cea2aa53e2be4956bdcb14c5376c7476.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/cradily/icon.png"
-dest_files=["res://.godot/imported/icon.png-6c760168ed406f87b02cf4409a004300.ctex"]
+dest_files=["res://.godot/imported/icon.png-cea2aa53e2be4956bdcb14c5376c7476.ctex"]
 
 [params]
 

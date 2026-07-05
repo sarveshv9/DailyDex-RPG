@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2de6myxeuh3l"
-path="res://.godot/imported/footprint.png-afb8c2f0d5bc3417b17d819cefebaba5.ctex"
+path="res://.godot/imported/footprint.png-00b3bd88c5c2b61f514043dbec307800.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/sceptile/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-afb8c2f0d5bc3417b17d819cefebaba5.ctex"]
+dest_files=["res://.godot/imported/footprint.png-00b3bd88c5c2b61f514043dbec307800.ctex"]
 
 [params]
 

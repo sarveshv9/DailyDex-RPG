@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ble7ikcxjrsb2"
-path="res://.godot/imported/icon.png-4f70300ddaf25431799a782e642b396d.ctex"
+path="res://.godot/imported/icon.png-db4fdac61822a4a8691b715e0f629ab4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/politoed/icon.png"
-dest_files=["res://.godot/imported/icon.png-4f70300ddaf25431799a782e642b396d.ctex"]
+dest_files=["res://.godot/imported/icon.png-db4fdac61822a4a8691b715e0f629ab4.ctex"]
 
 [params]
 

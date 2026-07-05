@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dst7euw2ccrl1"
-path="res://.godot/imported/footprint.png-5ff96ab365398fdfc6016291ded99a3d.ctex"
+path="res://.godot/imported/footprint.png-50a20a6e39fc5cf6d387cad75140eec0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/psyduck/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-5ff96ab365398fdfc6016291ded99a3d.ctex"]
+dest_files=["res://.godot/imported/footprint.png-50a20a6e39fc5cf6d387cad75140eec0.ctex"]
 
 [params]
 

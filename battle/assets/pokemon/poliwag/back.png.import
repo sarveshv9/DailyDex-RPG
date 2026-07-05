@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nxlbduewflyk"
-path="res://.godot/imported/back.png-747992f8073c5f334590c2528ff3d9c1.ctex"
+path="res://.godot/imported/back.png-9a2a0906cec607f2fd2ce92272e4932a.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/poliwag/back.png"
-dest_files=["res://.godot/imported/back.png-747992f8073c5f334590c2528ff3d9c1.ctex"]
+dest_files=["res://.godot/imported/back.png-9a2a0906cec607f2fd2ce92272e4932a.ctex"]
 
 [params]
 

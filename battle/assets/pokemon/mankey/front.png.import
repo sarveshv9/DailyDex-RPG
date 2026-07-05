@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dibp6faqp5fa8"
-path="res://.godot/imported/front.png-bed3829327edddce276e7255f15d4610.ctex"
+path="res://.godot/imported/front.png-3f411be4e09315bde06f7fb265780b93.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/mankey/front.png"
-dest_files=["res://.godot/imported/front.png-bed3829327edddce276e7255f15d4610.ctex"]
+dest_files=["res://.godot/imported/front.png-3f411be4e09315bde06f7fb265780b93.ctex"]
 
 [params]
 

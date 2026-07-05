@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckoxa17d2lqia"
-path="res://.godot/imported/icon.png-76203beb34e71bd7d44adee9fcab517d.ctex"
+path="res://.godot/imported/icon.png-dc288465fe171a0aeccd6d7158213319.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/corphish/icon.png"
-dest_files=["res://.godot/imported/icon.png-76203beb34e71bd7d44adee9fcab517d.ctex"]
+dest_files=["res://.godot/imported/icon.png-dc288465fe171a0aeccd6d7158213319.ctex"]
 
 [params]
 

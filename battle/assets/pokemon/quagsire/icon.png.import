@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cse0asmukbet6"
-path="res://.godot/imported/icon.png-76c2c20edb6929612e8c213e615df79e.ctex"
+path="res://.godot/imported/icon.png-786a04ad75cb99489ed7476c6f33e65d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/quagsire/icon.png"
-dest_files=["res://.godot/imported/icon.png-76c2c20edb6929612e8c213e615df79e.ctex"]
+dest_files=["res://.godot/imported/icon.png-786a04ad75cb99489ed7476c6f33e65d.ctex"]
 
 [params]
 

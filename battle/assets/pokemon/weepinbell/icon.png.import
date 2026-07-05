@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://boq45p0qbtqt6"
-path="res://.godot/imported/icon.png-4d38cf75c7ac93dda878e50f11e4ca9e.ctex"
+path="res://.godot/imported/icon.png-9774a06db2bd0cf1a0cbdf814fa46ab8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/weepinbell/icon.png"
-dest_files=["res://.godot/imported/icon.png-4d38cf75c7ac93dda878e50f11e4ca9e.ctex"]
+dest_files=["res://.godot/imported/icon.png-9774a06db2bd0cf1a0cbdf814fa46ab8.ctex"]
 
 [params]
 

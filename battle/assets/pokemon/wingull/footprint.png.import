@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkd8e66jdlpk3"
-path="res://.godot/imported/footprint.png-712e657d06e52595500e8986ad9a286f.ctex"
+path="res://.godot/imported/footprint.png-81b3af2df209a63aee4c3e2f46f74ee0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/wingull/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-712e657d06e52595500e8986ad9a286f.ctex"]
+dest_files=["res://.godot/imported/footprint.png-81b3af2df209a63aee4c3e2f46f74ee0.ctex"]
 
 [params]
 

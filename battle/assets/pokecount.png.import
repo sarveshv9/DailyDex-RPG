@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kfbqdrn8twjj"
-path="res://.godot/imported/pokecount.png-098a24feffda780def535a8b47f55b2d.ctex"
+path="res://.godot/imported/pokecount.png-8f0fabb237dab1557279cb3c69c992c2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokecount.png"
-dest_files=["res://.godot/imported/pokecount.png-098a24feffda780def535a8b47f55b2d.ctex"]
+dest_files=["res://.godot/imported/pokecount.png-8f0fabb237dab1557279cb3c69c992c2.ctex"]
 
 [params]
 

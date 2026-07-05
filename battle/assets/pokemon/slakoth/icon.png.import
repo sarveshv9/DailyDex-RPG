@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cul5d7p871l6d"
-path="res://.godot/imported/icon.png-4f6a1076ed5745814c4c90cc468f3dd4.ctex"
+path="res://.godot/imported/icon.png-53ce92712c4caac3ff36d96ae65bf3e5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/slakoth/icon.png"
-dest_files=["res://.godot/imported/icon.png-4f6a1076ed5745814c4c90cc468f3dd4.ctex"]
+dest_files=["res://.godot/imported/icon.png-53ce92712c4caac3ff36d96ae65bf3e5.ctex"]
 
 [params]
 

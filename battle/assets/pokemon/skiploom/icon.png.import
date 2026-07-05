@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c48qp534rc4bn"
-path="res://.godot/imported/icon.png-7bac1b55e3d01aec39b17845c43b1d52.ctex"
+path="res://.godot/imported/icon.png-a79cabc18a78046bbf4da234dcf96d14.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/skiploom/icon.png"
-dest_files=["res://.godot/imported/icon.png-7bac1b55e3d01aec39b17845c43b1d52.ctex"]
+dest_files=["res://.godot/imported/icon.png-a79cabc18a78046bbf4da234dcf96d14.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqvqxw5slr5ku"
-path="res://.godot/imported/footprint.png-51d6297ab293865d8496cda58926324e.ctex"
+path="res://.godot/imported/footprint.png-3d765c93c6b8e9c723896824935dfc49.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/pupitar/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-51d6297ab293865d8496cda58926324e.ctex"]
+dest_files=["res://.godot/imported/footprint.png-3d765c93c6b8e9c723896824935dfc49.ctex"]
 
 [params]
 

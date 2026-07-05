@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3vk5sx3n4y5l"
-path="res://.godot/imported/footprint.png-f9bcf9be9d11161ffaad17a849b22f12.ctex"
+path="res://.godot/imported/footprint.png-afdbadb546b1ec9d8e699d7d8d731ab9.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/squirtle/footprint.png"
-dest_files=["res://.godot/imported/footprint.png-f9bcf9be9d11161ffaad17a849b22f12.ctex"]
+dest_files=["res://.godot/imported/footprint.png-afdbadb546b1ec9d8e699d7d8d731ab9.ctex"]
 
 [params]
 

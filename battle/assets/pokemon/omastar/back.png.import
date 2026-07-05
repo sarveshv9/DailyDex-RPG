@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://juh0or1urr45"
-path="res://.godot/imported/back.png-f4ffc77b55d3dd04e73a0212062786ea.ctex"
+path="res://.godot/imported/back.png-104adcc43fe50d601dde63fdcc9d7f3e.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://battle/assets/pokemon/omastar/back.png"
-dest_files=["res://.godot/imported/back.png-f4ffc77b55d3dd04e73a0212062786ea.ctex"]
+dest_files=["res://.godot/imported/back.png-104adcc43fe50d601dde63fdcc9d7f3e.ctex"]
 
 [params]
 
