@@ -2,7 +2,6 @@
 
 [ext_resource type="TileSet" uid="uid://cx5l6e3tq8rem" path="res://maps/tilesets/level.tres" id="1_hajnr"]
 [ext_resource type="PackedScene" uid="uid://cxdoor" path="res://maps/door/door.tscn" id="6_ammrs"]
-[ext_resource type="PackedScene" path="res://characters/player/player.tscn" id="7_player"]
 [ext_resource type="PackedScene" uid="uid://37hb5krok0li" path="res://characters/npc/npc_mom.tscn" id="8_mom"]
 [ext_resource type="PackedScene" path="res://characters/npc/npc_prof.tscn" id="9_prof"]
 [ext_resource type="PackedScene" path="res://characters/npc/npc_rival.tscn" id="10_rival"]
@@ -64,6 +63,10 @@ frame_down = 0
 frame_up = 1
 frame_left = 2
 frame_right = 3
+anim_down = Array[int]([0, 4, 5, 0])
+anim_up = Array[int]([1, 6, 7, 1])
+anim_left = Array[int]([2, 8, 9, 2])
+anim_right = Array[int]([3, 10, 11, 3])
 
 [node name="NPCProf" parent="." unique_id=388568878 instance=ExtResource("9_prof")]
 position = Vector2(214, 139)
@@ -71,9 +74,18 @@ frame_down = 0
 frame_up = 1
 frame_left = 2
 frame_right = 3
+anim_down = Array[int]([0, 4, 5, 0])
+anim_up = Array[int]([1, 6, 7, 1])
+anim_left = Array[int]([2, 8, 9, 2])
+anim_right = Array[int]([3, 10, 11, 3])
 
 [node name="NPCRival" parent="." unique_id=34689375 instance=ExtResource("10_rival")]
 position = Vector2(168, 200)
-
-[node name="Player" parent="." unique_id=206336562 instance=ExtResource("7_player")]
-position = Vector2(168, 136)
+frame_down = 0
+frame_up = 1
+frame_left = 2
+frame_right = 3
+anim_down = Array[int]([0, 4, 5, 0])
+anim_up = Array[int]([1, 6, 7, 1])
+anim_left = Array[int]([2, 8, 9, 2])
+anim_right = Array[int]([3, 10, 11, 3])

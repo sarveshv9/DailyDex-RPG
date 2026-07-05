@@ -10,7 +10,7 @@
 position = Vector2(-7, 34)
 
 [node name="StarterTown" parent="." unique_id=2139237698 instance=ExtResource("2_twn")]
-position = Vector2(-851, -96)
+position = Vector2(-559, -109)
 
 [node name="Player" parent="." unique_id=1289932307 instance=ExtResource("3_player")]
-position = Vector2(162, 280)
+position = Vector2(155, 178)
