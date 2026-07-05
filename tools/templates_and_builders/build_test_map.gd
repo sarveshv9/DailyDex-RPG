@@ -33,7 +33,7 @@ func _init():
 	if door_scene != null:
 		var ext_door = door_scene.instantiate()
 		ext_door.position = Vector2(208, 128) # Near the player in exterior
-		ext_door.target_scene_path = "res://maps/test_interior.tscn"
+		ext_door.target_scene_path = "res://maps/villages/small_village/interiors/test_interior.tscn"
 		ext_door.target_spawn_position = Vector2(72, 64) # Player spawns here inside
 		map_root.add_child(ext_door)
 		ext_door.owner = map_root
@@ -85,7 +85,7 @@ func _init():
 			
 		var int_final = PackedScene.new()
 		int_final.pack(int_root)
-		ResourceSaver.save(int_final, "res://maps/test_interior.tscn")
+		ResourceSaver.save(int_final, "res://maps/villages/small_village/interiors/test_interior.tscn")
 		print("Test interior map assembled and saved successfully.")
 
 	quit(0)

@@ -58,7 +58,7 @@ func _init():
 	if door_scene:
 		var d = door_scene.instantiate()
 		d.position = Vector2(192, 160)
-		d.target_scene_path = "res://maps/test_interior.tscn"
+		d.target_scene_path = "res://maps/villages/small_village/interiors/test_interior.tscn"
 		d.target_spawn_position = Vector2(72, 64)
 		map_root.add_child(d)
 		d.owner = map_root
@@ -66,7 +66,7 @@ func _init():
 	# Save the scene
 	var final_scene = PackedScene.new()
 	final_scene.pack(map_root)
-	var err = ResourceSaver.save(final_scene, "res://maps/starter_village.tscn")
+	var err = ResourceSaver.save(final_scene, "res://maps/villages/starter_village/starter_village.tscn")
 	
 	if err != OK:
 		printerr("Failed to save starter_village.tscn")

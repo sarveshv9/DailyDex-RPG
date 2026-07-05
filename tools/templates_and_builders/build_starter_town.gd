@@ -48,7 +48,7 @@ func _init():
 	# Save the scene
 	var final_scene = PackedScene.new()
 	final_scene.pack(map_root)
-	var err = ResourceSaver.save(final_scene, "res://maps/starter_town.tscn")
+	var err = ResourceSaver.save(final_scene, "res://maps/towns/town_01/town_01.tscn")
 	
 	if err != OK:
 		printerr("Failed to save starter_town.tscn")
