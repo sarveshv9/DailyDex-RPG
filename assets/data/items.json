@@ -1,0 +1,2553 @@
+{
+  "0": {
+    "id": 0,
+    "internal_name": "ITEM_NONE",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "1": {
+    "id": 1,
+    "internal_name": "ITEM_MASTER_BALL",
+    "name": "Master Ball",
+    "price": 0,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "2": {
+    "id": 2,
+    "internal_name": "ITEM_ULTRA_BALL",
+    "name": "Ultra Ball",
+    "price": 1200,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "3": {
+    "id": 3,
+    "internal_name": "ITEM_GREAT_BALL",
+    "name": "Great Ball",
+    "price": 600,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "4": {
+    "id": 4,
+    "internal_name": "ITEM_POKE_BALL",
+    "name": "Pok\u00e9 Ball",
+    "price": 200,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "5": {
+    "id": 5,
+    "internal_name": "ITEM_SAFARI_BALL",
+    "name": "Safari Ball",
+    "price": 0,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "6": {
+    "id": 6,
+    "internal_name": "ITEM_NET_BALL",
+    "name": "Net Ball",
+    "price": 1000,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "7": {
+    "id": 7,
+    "internal_name": "ITEM_DIVE_BALL",
+    "name": "Dive Ball",
+    "price": 1000,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "8": {
+    "id": 8,
+    "internal_name": "ITEM_NEST_BALL",
+    "name": "Nest Ball",
+    "price": 1000,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "9": {
+    "id": 9,
+    "internal_name": "ITEM_REPEAT_BALL",
+    "name": "Repeat Ball",
+    "price": 1000,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "10": {
+    "id": 10,
+    "internal_name": "ITEM_TIMER_BALL",
+    "name": "Timer Ball",
+    "price": 1000,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "11": {
+    "id": 11,
+    "internal_name": "ITEM_LUXURY_BALL",
+    "name": "Luxury Ball",
+    "price": 1000,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "12": {
+    "id": 12,
+    "internal_name": "ITEM_PREMIER_BALL",
+    "name": "Premier Ball",
+    "price": 200,
+    "pocket": "poke_balls",
+    "battle_usable": true
+  },
+  "13": {
+    "id": 13,
+    "internal_name": "ITEM_POTION",
+    "name": "Potion",
+    "price": 300,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "14": {
+    "id": 14,
+    "internal_name": "ITEM_ANTIDOTE",
+    "name": "Antidote",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "15": {
+    "id": 15,
+    "internal_name": "ITEM_BURN_HEAL",
+    "name": "Burn Heal",
+    "price": 250,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "16": {
+    "id": 16,
+    "internal_name": "ITEM_ICE_HEAL",
+    "name": "Ice Heal",
+    "price": 250,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "17": {
+    "id": 17,
+    "internal_name": "ITEM_AWAKENING",
+    "name": "Awakening",
+    "price": 250,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "18": {
+    "id": 18,
+    "internal_name": "ITEM_PARALYZE_HEAL",
+    "name": "Parlyz Heal",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "19": {
+    "id": 19,
+    "internal_name": "ITEM_FULL_RESTORE",
+    "name": "Full Restore",
+    "price": 3000,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "20": {
+    "id": 20,
+    "internal_name": "ITEM_MAX_POTION",
+    "name": "Max Potion",
+    "price": 2500,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "21": {
+    "id": 21,
+    "internal_name": "ITEM_HYPER_POTION",
+    "name": "Hyper Potion",
+    "price": 1200,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "22": {
+    "id": 22,
+    "internal_name": "ITEM_SUPER_POTION",
+    "name": "Super Potion",
+    "price": 700,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "23": {
+    "id": 23,
+    "internal_name": "ITEM_FULL_HEAL",
+    "name": "Full Heal",
+    "price": 600,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "24": {
+    "id": 24,
+    "internal_name": "ITEM_REVIVE",
+    "name": "Revive",
+    "price": 1500,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "25": {
+    "id": 25,
+    "internal_name": "ITEM_MAX_REVIVE",
+    "name": "Max Revive",
+    "price": 4000,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "26": {
+    "id": 26,
+    "internal_name": "ITEM_FRESH_WATER",
+    "name": "Fresh Water",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "27": {
+    "id": 27,
+    "internal_name": "ITEM_SODA_POP",
+    "name": "Soda Pop",
+    "price": 300,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "28": {
+    "id": 28,
+    "internal_name": "ITEM_LEMONADE",
+    "name": "Lemonade",
+    "price": 350,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "29": {
+    "id": 29,
+    "internal_name": "ITEM_MOOMOO_MILK",
+    "name": "Moomoo Milk",
+    "price": 500,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "30": {
+    "id": 30,
+    "internal_name": "ITEM_ENERGY_POWDER",
+    "name": "Energypowder",
+    "price": 500,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "31": {
+    "id": 31,
+    "internal_name": "ITEM_ENERGY_ROOT",
+    "name": "Energy Root",
+    "price": 800,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "32": {
+    "id": 32,
+    "internal_name": "ITEM_HEAL_POWDER",
+    "name": "Heal Powder",
+    "price": 450,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "33": {
+    "id": 33,
+    "internal_name": "ITEM_REVIVAL_HERB",
+    "name": "Revival Herb",
+    "price": 2800,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "34": {
+    "id": 34,
+    "internal_name": "ITEM_ETHER",
+    "name": "Ether",
+    "price": 1200,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "35": {
+    "id": 35,
+    "internal_name": "ITEM_MAX_ETHER",
+    "name": "Max Ether",
+    "price": 2000,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "36": {
+    "id": 36,
+    "internal_name": "ITEM_ELIXIR",
+    "name": "Elixir",
+    "price": 3000,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "37": {
+    "id": 37,
+    "internal_name": "ITEM_MAX_ELIXIR",
+    "name": "Max Elixir",
+    "price": 4500,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "38": {
+    "id": 38,
+    "internal_name": "ITEM_LAVA_COOKIE",
+    "name": "Lava Cookie",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "39": {
+    "id": 39,
+    "internal_name": "ITEM_BLUE_FLUTE",
+    "name": "Blue Flute",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "40": {
+    "id": 40,
+    "internal_name": "ITEM_YELLOW_FLUTE",
+    "name": "Yellow Flute",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "41": {
+    "id": 41,
+    "internal_name": "ITEM_RED_FLUTE",
+    "name": "Red Flute",
+    "price": 300,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "42": {
+    "id": 42,
+    "internal_name": "ITEM_BLACK_FLUTE",
+    "name": "Black Flute",
+    "price": 400,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "43": {
+    "id": 43,
+    "internal_name": "ITEM_WHITE_FLUTE",
+    "name": "White Flute",
+    "price": 500,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "44": {
+    "id": 44,
+    "internal_name": "ITEM_BERRY_JUICE",
+    "name": "Berry Juice",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "45": {
+    "id": 45,
+    "internal_name": "ITEM_SACRED_ASH",
+    "name": "Sacred Ash",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "46": {
+    "id": 46,
+    "internal_name": "ITEM_SHOAL_SALT",
+    "name": "Shoal Salt",
+    "price": 20,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "47": {
+    "id": 47,
+    "internal_name": "ITEM_SHOAL_SHELL",
+    "name": "Shoal Shell",
+    "price": 20,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "48": {
+    "id": 48,
+    "internal_name": "ITEM_RED_SHARD",
+    "name": "Red Shard",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "49": {
+    "id": 49,
+    "internal_name": "ITEM_BLUE_SHARD",
+    "name": "Blue Shard",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "50": {
+    "id": 50,
+    "internal_name": "ITEM_YELLOW_SHARD",
+    "name": "Yellow Shard",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "51": {
+    "id": 51,
+    "internal_name": "ITEM_GREEN_SHARD",
+    "name": "Green Shard",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "52": {
+    "id": 52,
+    "internal_name": "ITEM_034",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "53": {
+    "id": 53,
+    "internal_name": "ITEM_035",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "54": {
+    "id": 54,
+    "internal_name": "ITEM_036",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "55": {
+    "id": 55,
+    "internal_name": "ITEM_037",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "56": {
+    "id": 56,
+    "internal_name": "ITEM_038",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "57": {
+    "id": 57,
+    "internal_name": "ITEM_039",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "58": {
+    "id": 58,
+    "internal_name": "ITEM_03A",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "59": {
+    "id": 59,
+    "internal_name": "ITEM_03B",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "60": {
+    "id": 60,
+    "internal_name": "ITEM_03C",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "61": {
+    "id": 61,
+    "internal_name": "ITEM_03D",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "62": {
+    "id": 62,
+    "internal_name": "ITEM_03E",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "63": {
+    "id": 63,
+    "internal_name": "ITEM_HP_UP",
+    "name": "Hp Up",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "64": {
+    "id": 64,
+    "internal_name": "ITEM_PROTEIN",
+    "name": "Protein",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "65": {
+    "id": 65,
+    "internal_name": "ITEM_IRON",
+    "name": "Iron",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "66": {
+    "id": 66,
+    "internal_name": "ITEM_CARBOS",
+    "name": "Carbos",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "67": {
+    "id": 67,
+    "internal_name": "ITEM_CALCIUM",
+    "name": "Calcium",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "68": {
+    "id": 68,
+    "internal_name": "ITEM_RARE_CANDY",
+    "name": "Rare Candy",
+    "price": 4800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "69": {
+    "id": 69,
+    "internal_name": "ITEM_PP_UP",
+    "name": "Pp Up",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "70": {
+    "id": 70,
+    "internal_name": "ITEM_ZINC",
+    "name": "Zinc",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "71": {
+    "id": 71,
+    "internal_name": "ITEM_PP_MAX",
+    "name": "Pp Max",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "72": {
+    "id": 72,
+    "internal_name": "ITEM_048",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "73": {
+    "id": 73,
+    "internal_name": "ITEM_GUARD_SPEC",
+    "name": "Guard Spec.",
+    "price": 700,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "74": {
+    "id": 74,
+    "internal_name": "ITEM_DIRE_HIT",
+    "name": "Dire Hit",
+    "price": 650,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "75": {
+    "id": 75,
+    "internal_name": "ITEM_X_ATTACK",
+    "name": "X Attack",
+    "price": 500,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "76": {
+    "id": 76,
+    "internal_name": "ITEM_X_DEFEND",
+    "name": "X Defend",
+    "price": 550,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "77": {
+    "id": 77,
+    "internal_name": "ITEM_X_SPEED",
+    "name": "X Speed",
+    "price": 350,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "78": {
+    "id": 78,
+    "internal_name": "ITEM_X_ACCURACY",
+    "name": "X Accuracy",
+    "price": 950,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "79": {
+    "id": 79,
+    "internal_name": "ITEM_X_SPECIAL",
+    "name": "X Special",
+    "price": 350,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "80": {
+    "id": 80,
+    "internal_name": "ITEM_POKE_DOLL",
+    "name": "Pok\u00e9 Doll",
+    "price": 1000,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "81": {
+    "id": 81,
+    "internal_name": "ITEM_FLUFFY_TAIL",
+    "name": "Fluffy Tail",
+    "price": 1000,
+    "pocket": "items",
+    "battle_usable": true
+  },
+  "82": {
+    "id": 82,
+    "internal_name": "ITEM_052",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "83": {
+    "id": 83,
+    "internal_name": "ITEM_SUPER_REPEL",
+    "name": "Super Repel",
+    "price": 500,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "84": {
+    "id": 84,
+    "internal_name": "ITEM_MAX_REPEL",
+    "name": "Max Repel",
+    "price": 700,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "85": {
+    "id": 85,
+    "internal_name": "ITEM_ESCAPE_ROPE",
+    "name": "Escape Rope",
+    "price": 550,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "86": {
+    "id": 86,
+    "internal_name": "ITEM_REPEL",
+    "name": "Repel",
+    "price": 350,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "87": {
+    "id": 87,
+    "internal_name": "ITEM_057",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "88": {
+    "id": 88,
+    "internal_name": "ITEM_058",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "89": {
+    "id": 89,
+    "internal_name": "ITEM_059",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "90": {
+    "id": 90,
+    "internal_name": "ITEM_05A",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "91": {
+    "id": 91,
+    "internal_name": "ITEM_05B",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "92": {
+    "id": 92,
+    "internal_name": "ITEM_05C",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "93": {
+    "id": 93,
+    "internal_name": "ITEM_SUN_STONE",
+    "name": "Sun Stone",
+    "price": 2100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "94": {
+    "id": 94,
+    "internal_name": "ITEM_MOON_STONE",
+    "name": "Moon Stone",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "95": {
+    "id": 95,
+    "internal_name": "ITEM_FIRE_STONE",
+    "name": "Fire Stone",
+    "price": 2100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "96": {
+    "id": 96,
+    "internal_name": "ITEM_THUNDER_STONE",
+    "name": "Thunderstone",
+    "price": 2100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "97": {
+    "id": 97,
+    "internal_name": "ITEM_WATER_STONE",
+    "name": "Water Stone",
+    "price": 2100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "98": {
+    "id": 98,
+    "internal_name": "ITEM_LEAF_STONE",
+    "name": "Leaf Stone",
+    "price": 2100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "99": {
+    "id": 99,
+    "internal_name": "ITEM_063",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "100": {
+    "id": 100,
+    "internal_name": "ITEM_064",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "101": {
+    "id": 101,
+    "internal_name": "ITEM_065",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "102": {
+    "id": 102,
+    "internal_name": "ITEM_066",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "103": {
+    "id": 103,
+    "internal_name": "ITEM_TINY_MUSHROOM",
+    "name": "Tinymushroom",
+    "price": 500,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "104": {
+    "id": 104,
+    "internal_name": "ITEM_BIG_MUSHROOM",
+    "name": "Big Mushroom",
+    "price": 5000,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "105": {
+    "id": 105,
+    "internal_name": "ITEM_069",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "106": {
+    "id": 106,
+    "internal_name": "ITEM_PEARL",
+    "name": "Pearl",
+    "price": 1400,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "107": {
+    "id": 107,
+    "internal_name": "ITEM_BIG_PEARL",
+    "name": "Big Pearl",
+    "price": 7500,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "108": {
+    "id": 108,
+    "internal_name": "ITEM_STARDUST",
+    "name": "Stardust",
+    "price": 2000,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "109": {
+    "id": 109,
+    "internal_name": "ITEM_STAR_PIECE",
+    "name": "Star Piece",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "110": {
+    "id": 110,
+    "internal_name": "ITEM_NUGGET",
+    "name": "Nugget",
+    "price": 10000,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "111": {
+    "id": 111,
+    "internal_name": "ITEM_HEART_SCALE",
+    "name": "Heart Scale",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "112": {
+    "id": 112,
+    "internal_name": "ITEM_070",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "113": {
+    "id": 113,
+    "internal_name": "ITEM_071",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "114": {
+    "id": 114,
+    "internal_name": "ITEM_072",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "115": {
+    "id": 115,
+    "internal_name": "ITEM_073",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "116": {
+    "id": 116,
+    "internal_name": "ITEM_074",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "117": {
+    "id": 117,
+    "internal_name": "ITEM_075",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "118": {
+    "id": 118,
+    "internal_name": "ITEM_076",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "119": {
+    "id": 119,
+    "internal_name": "ITEM_077",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "120": {
+    "id": 120,
+    "internal_name": "ITEM_078",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "121": {
+    "id": 121,
+    "internal_name": "ITEM_ORANGE_MAIL",
+    "name": "Orange Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "122": {
+    "id": 122,
+    "internal_name": "ITEM_HARBOR_MAIL",
+    "name": "Harbor Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "123": {
+    "id": 123,
+    "internal_name": "ITEM_GLITTER_MAIL",
+    "name": "Glitter Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "124": {
+    "id": 124,
+    "internal_name": "ITEM_MECH_MAIL",
+    "name": "Mech Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "125": {
+    "id": 125,
+    "internal_name": "ITEM_WOOD_MAIL",
+    "name": "Wood Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "126": {
+    "id": 126,
+    "internal_name": "ITEM_WAVE_MAIL",
+    "name": "Wave Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "127": {
+    "id": 127,
+    "internal_name": "ITEM_BEAD_MAIL",
+    "name": "Bead Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "128": {
+    "id": 128,
+    "internal_name": "ITEM_SHADOW_MAIL",
+    "name": "Shadow Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "129": {
+    "id": 129,
+    "internal_name": "ITEM_TROPIC_MAIL",
+    "name": "Tropic Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "130": {
+    "id": 130,
+    "internal_name": "ITEM_DREAM_MAIL",
+    "name": "Dream Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "131": {
+    "id": 131,
+    "internal_name": "ITEM_FAB_MAIL",
+    "name": "Fab Mail",
+    "price": 50,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "132": {
+    "id": 132,
+    "internal_name": "ITEM_RETRO_MAIL",
+    "name": "Retro Mail",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "133": {
+    "id": 133,
+    "internal_name": "ITEM_CHERI_BERRY",
+    "name": "Cheri Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "134": {
+    "id": 134,
+    "internal_name": "ITEM_CHESTO_BERRY",
+    "name": "Chesto Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "135": {
+    "id": 135,
+    "internal_name": "ITEM_PECHA_BERRY",
+    "name": "Pecha Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "136": {
+    "id": 136,
+    "internal_name": "ITEM_RAWST_BERRY",
+    "name": "Rawst Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "137": {
+    "id": 137,
+    "internal_name": "ITEM_ASPEAR_BERRY",
+    "name": "Aspear Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "138": {
+    "id": 138,
+    "internal_name": "ITEM_LEPPA_BERRY",
+    "name": "Leppa Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "139": {
+    "id": 139,
+    "internal_name": "ITEM_ORAN_BERRY",
+    "name": "Oran Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "140": {
+    "id": 140,
+    "internal_name": "ITEM_PERSIM_BERRY",
+    "name": "Persim Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "141": {
+    "id": 141,
+    "internal_name": "ITEM_LUM_BERRY",
+    "name": "Lum Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "142": {
+    "id": 142,
+    "internal_name": "ITEM_SITRUS_BERRY",
+    "name": "Sitrus Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "143": {
+    "id": 143,
+    "internal_name": "ITEM_FIGY_BERRY",
+    "name": "Figy Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "144": {
+    "id": 144,
+    "internal_name": "ITEM_WIKI_BERRY",
+    "name": "Wiki Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "145": {
+    "id": 145,
+    "internal_name": "ITEM_MAGO_BERRY",
+    "name": "Mago Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "146": {
+    "id": 146,
+    "internal_name": "ITEM_AGUAV_BERRY",
+    "name": "Aguav Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "147": {
+    "id": 147,
+    "internal_name": "ITEM_IAPAPA_BERRY",
+    "name": "Iapapa Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "148": {
+    "id": 148,
+    "internal_name": "ITEM_RAZZ_BERRY",
+    "name": "Razz Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "149": {
+    "id": 149,
+    "internal_name": "ITEM_BLUK_BERRY",
+    "name": "Bluk Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "150": {
+    "id": 150,
+    "internal_name": "ITEM_NANAB_BERRY",
+    "name": "Nanab Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "151": {
+    "id": 151,
+    "internal_name": "ITEM_WEPEAR_BERRY",
+    "name": "Wepear Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "152": {
+    "id": 152,
+    "internal_name": "ITEM_PINAP_BERRY",
+    "name": "Pinap Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "153": {
+    "id": 153,
+    "internal_name": "ITEM_POMEG_BERRY",
+    "name": "Pomeg Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "154": {
+    "id": 154,
+    "internal_name": "ITEM_KELPSY_BERRY",
+    "name": "Kelpsy Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "155": {
+    "id": 155,
+    "internal_name": "ITEM_QUALOT_BERRY",
+    "name": "Qualot Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "156": {
+    "id": 156,
+    "internal_name": "ITEM_HONDEW_BERRY",
+    "name": "Hondew Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "157": {
+    "id": 157,
+    "internal_name": "ITEM_GREPA_BERRY",
+    "name": "Grepa Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "158": {
+    "id": 158,
+    "internal_name": "ITEM_TAMATO_BERRY",
+    "name": "Tamato Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "159": {
+    "id": 159,
+    "internal_name": "ITEM_CORNN_BERRY",
+    "name": "Cornn Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "160": {
+    "id": 160,
+    "internal_name": "ITEM_MAGOST_BERRY",
+    "name": "Magost Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "161": {
+    "id": 161,
+    "internal_name": "ITEM_RABUTA_BERRY",
+    "name": "Rabuta Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "162": {
+    "id": 162,
+    "internal_name": "ITEM_NOMEL_BERRY",
+    "name": "Nomel Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "163": {
+    "id": 163,
+    "internal_name": "ITEM_SPELON_BERRY",
+    "name": "Spelon Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "164": {
+    "id": 164,
+    "internal_name": "ITEM_PAMTRE_BERRY",
+    "name": "Pamtre Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "165": {
+    "id": 165,
+    "internal_name": "ITEM_WATMEL_BERRY",
+    "name": "Watmel Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "166": {
+    "id": 166,
+    "internal_name": "ITEM_DURIN_BERRY",
+    "name": "Durin Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "167": {
+    "id": 167,
+    "internal_name": "ITEM_BELUE_BERRY",
+    "name": "Belue Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "168": {
+    "id": 168,
+    "internal_name": "ITEM_LIECHI_BERRY",
+    "name": "Liechi Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "169": {
+    "id": 169,
+    "internal_name": "ITEM_GANLON_BERRY",
+    "name": "Ganlon Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "170": {
+    "id": 170,
+    "internal_name": "ITEM_SALAC_BERRY",
+    "name": "Salac Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "171": {
+    "id": 171,
+    "internal_name": "ITEM_PETAYA_BERRY",
+    "name": "Petaya Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "172": {
+    "id": 172,
+    "internal_name": "ITEM_APICOT_BERRY",
+    "name": "Apicot Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "173": {
+    "id": 173,
+    "internal_name": "ITEM_LANSAT_BERRY",
+    "name": "Lansat Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "174": {
+    "id": 174,
+    "internal_name": "ITEM_STARF_BERRY",
+    "name": "Starf Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": false
+  },
+  "175": {
+    "id": 175,
+    "internal_name": "ITEM_ENIGMA_BERRY",
+    "name": "Enigma Berry",
+    "price": 20,
+    "pocket": "berries",
+    "battle_usable": true
+  },
+  "176": {
+    "id": 176,
+    "internal_name": "ITEM_UNUSED_BERRY_1",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "177": {
+    "id": 177,
+    "internal_name": "ITEM_UNUSED_BERRY_2",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "178": {
+    "id": 178,
+    "internal_name": "ITEM_UNUSED_BERRY_3",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "179": {
+    "id": 179,
+    "internal_name": "ITEM_BRIGHT_POWDER",
+    "name": "Brightpowder",
+    "price": 10,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "180": {
+    "id": 180,
+    "internal_name": "ITEM_WHITE_HERB",
+    "name": "White Herb",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "181": {
+    "id": 181,
+    "internal_name": "ITEM_MACHO_BRACE",
+    "name": "Macho Brace",
+    "price": 3000,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "182": {
+    "id": 182,
+    "internal_name": "ITEM_EXP_SHARE",
+    "name": "Exp. Share",
+    "price": 3000,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "183": {
+    "id": 183,
+    "internal_name": "ITEM_QUICK_CLAW",
+    "name": "Quick Claw",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "184": {
+    "id": 184,
+    "internal_name": "ITEM_SOOTHE_BELL",
+    "name": "Soothe Bell",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "185": {
+    "id": 185,
+    "internal_name": "ITEM_MENTAL_HERB",
+    "name": "Mental Herb",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "186": {
+    "id": 186,
+    "internal_name": "ITEM_CHOICE_BAND",
+    "name": "Choice Band",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "187": {
+    "id": 187,
+    "internal_name": "ITEM_KINGS_ROCK",
+    "name": "King'S Rock",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "188": {
+    "id": 188,
+    "internal_name": "ITEM_SILVER_POWDER",
+    "name": "Silverpowder",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "189": {
+    "id": 189,
+    "internal_name": "ITEM_AMULET_COIN",
+    "name": "Amulet Coin",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "190": {
+    "id": 190,
+    "internal_name": "ITEM_CLEANSE_TAG",
+    "name": "Cleanse Tag",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "191": {
+    "id": 191,
+    "internal_name": "ITEM_SOUL_DEW",
+    "name": "Soul Dew",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "192": {
+    "id": 192,
+    "internal_name": "ITEM_DEEP_SEA_TOOTH",
+    "name": "Deepseatooth",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "193": {
+    "id": 193,
+    "internal_name": "ITEM_DEEP_SEA_SCALE",
+    "name": "Deepseascale",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "194": {
+    "id": 194,
+    "internal_name": "ITEM_SMOKE_BALL",
+    "name": "Smoke Ball",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "195": {
+    "id": 195,
+    "internal_name": "ITEM_EVERSTONE",
+    "name": "Everstone",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "196": {
+    "id": 196,
+    "internal_name": "ITEM_FOCUS_BAND",
+    "name": "Focus Band",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "197": {
+    "id": 197,
+    "internal_name": "ITEM_LUCKY_EGG",
+    "name": "Lucky Egg",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "198": {
+    "id": 198,
+    "internal_name": "ITEM_SCOPE_LENS",
+    "name": "Scope Lens",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "199": {
+    "id": 199,
+    "internal_name": "ITEM_METAL_COAT",
+    "name": "Metal Coat",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "200": {
+    "id": 200,
+    "internal_name": "ITEM_LEFTOVERS",
+    "name": "Leftovers",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "201": {
+    "id": 201,
+    "internal_name": "ITEM_DRAGON_SCALE",
+    "name": "Dragon Scale",
+    "price": 2100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "202": {
+    "id": 202,
+    "internal_name": "ITEM_LIGHT_BALL",
+    "name": "Light Ball",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "203": {
+    "id": 203,
+    "internal_name": "ITEM_SOFT_SAND",
+    "name": "Soft Sand",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "204": {
+    "id": 204,
+    "internal_name": "ITEM_HARD_STONE",
+    "name": "Hard Stone",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "205": {
+    "id": 205,
+    "internal_name": "ITEM_MIRACLE_SEED",
+    "name": "Miracle Seed",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "206": {
+    "id": 206,
+    "internal_name": "ITEM_BLACK_GLASSES",
+    "name": "Blackglasses",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "207": {
+    "id": 207,
+    "internal_name": "ITEM_BLACK_BELT",
+    "name": "Black Belt",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "208": {
+    "id": 208,
+    "internal_name": "ITEM_MAGNET",
+    "name": "Magnet",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "209": {
+    "id": 209,
+    "internal_name": "ITEM_MYSTIC_WATER",
+    "name": "Mystic Water",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "210": {
+    "id": 210,
+    "internal_name": "ITEM_SHARP_BEAK",
+    "name": "Sharp Beak",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "211": {
+    "id": 211,
+    "internal_name": "ITEM_POISON_BARB",
+    "name": "Poison Barb",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "212": {
+    "id": 212,
+    "internal_name": "ITEM_NEVER_MELT_ICE",
+    "name": "Nevermeltice",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "213": {
+    "id": 213,
+    "internal_name": "ITEM_SPELL_TAG",
+    "name": "Spell Tag",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "214": {
+    "id": 214,
+    "internal_name": "ITEM_TWISTED_SPOON",
+    "name": "Twistedspoon",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "215": {
+    "id": 215,
+    "internal_name": "ITEM_CHARCOAL",
+    "name": "Charcoal",
+    "price": 9800,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "216": {
+    "id": 216,
+    "internal_name": "ITEM_DRAGON_FANG",
+    "name": "Dragon Fang",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "217": {
+    "id": 217,
+    "internal_name": "ITEM_SILK_SCARF",
+    "name": "Silk Scarf",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "218": {
+    "id": 218,
+    "internal_name": "ITEM_UP_GRADE",
+    "name": "Up-Grade",
+    "price": 2100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "219": {
+    "id": 219,
+    "internal_name": "ITEM_SHELL_BELL",
+    "name": "Shell Bell",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "220": {
+    "id": 220,
+    "internal_name": "ITEM_SEA_INCENSE",
+    "name": "Sea Incense",
+    "price": 9600,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "221": {
+    "id": 221,
+    "internal_name": "ITEM_LAX_INCENSE",
+    "name": "Lax Incense",
+    "price": 9600,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "222": {
+    "id": 222,
+    "internal_name": "ITEM_LUCKY_PUNCH",
+    "name": "Lucky Punch",
+    "price": 10,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "223": {
+    "id": 223,
+    "internal_name": "ITEM_METAL_POWDER",
+    "name": "Metal Powder",
+    "price": 10,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "224": {
+    "id": 224,
+    "internal_name": "ITEM_THICK_CLUB",
+    "name": "Thick Club",
+    "price": 500,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "225": {
+    "id": 225,
+    "internal_name": "ITEM_STICK",
+    "name": "Stick",
+    "price": 200,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "226": {
+    "id": 226,
+    "internal_name": "ITEM_0E2",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "227": {
+    "id": 227,
+    "internal_name": "ITEM_0E3",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "228": {
+    "id": 228,
+    "internal_name": "ITEM_0E4",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "229": {
+    "id": 229,
+    "internal_name": "ITEM_0E5",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "230": {
+    "id": 230,
+    "internal_name": "ITEM_0E6",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "231": {
+    "id": 231,
+    "internal_name": "ITEM_0E7",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "232": {
+    "id": 232,
+    "internal_name": "ITEM_0E8",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "233": {
+    "id": 233,
+    "internal_name": "ITEM_0E9",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "234": {
+    "id": 234,
+    "internal_name": "ITEM_0EA",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "235": {
+    "id": 235,
+    "internal_name": "ITEM_0EB",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "236": {
+    "id": 236,
+    "internal_name": "ITEM_0EC",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "237": {
+    "id": 237,
+    "internal_name": "ITEM_0ED",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "238": {
+    "id": 238,
+    "internal_name": "ITEM_0EE",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "239": {
+    "id": 239,
+    "internal_name": "ITEM_0EF",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "240": {
+    "id": 240,
+    "internal_name": "ITEM_0F0",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "241": {
+    "id": 241,
+    "internal_name": "ITEM_0F1",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "242": {
+    "id": 242,
+    "internal_name": "ITEM_0F2",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "243": {
+    "id": 243,
+    "internal_name": "ITEM_0F3",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "244": {
+    "id": 244,
+    "internal_name": "ITEM_0F4",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "245": {
+    "id": 245,
+    "internal_name": "ITEM_0F5",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "246": {
+    "id": 246,
+    "internal_name": "ITEM_0F6",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "247": {
+    "id": 247,
+    "internal_name": "ITEM_0F7",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "248": {
+    "id": 248,
+    "internal_name": "ITEM_0F8",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "249": {
+    "id": 249,
+    "internal_name": "ITEM_0F9",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "250": {
+    "id": 250,
+    "internal_name": "ITEM_0FA",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "251": {
+    "id": 251,
+    "internal_name": "ITEM_0FB",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "252": {
+    "id": 252,
+    "internal_name": "ITEM_0FC",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "253": {
+    "id": 253,
+    "internal_name": "ITEM_0FD",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "254": {
+    "id": 254,
+    "internal_name": "ITEM_RED_SCARF",
+    "name": "Red Scarf",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "255": {
+    "id": 255,
+    "internal_name": "ITEM_BLUE_SCARF",
+    "name": "Blue Scarf",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "256": {
+    "id": 256,
+    "internal_name": "ITEM_PINK_SCARF",
+    "name": "Pink Scarf",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "257": {
+    "id": 257,
+    "internal_name": "ITEM_GREEN_SCARF",
+    "name": "Green Scarf",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "258": {
+    "id": 258,
+    "internal_name": "ITEM_YELLOW_SCARF",
+    "name": "Yellow Scarf",
+    "price": 100,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "259": {
+    "id": 259,
+    "internal_name": "ITEM_MACH_BIKE",
+    "name": "Mach Bike",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "260": {
+    "id": 260,
+    "internal_name": "ITEM_COIN_CASE",
+    "name": "Coin Case",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "261": {
+    "id": 261,
+    "internal_name": "ITEM_ITEMFINDER",
+    "name": "Itemfinder",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "262": {
+    "id": 262,
+    "internal_name": "ITEM_OLD_ROD",
+    "name": "Old Rod",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "263": {
+    "id": 263,
+    "internal_name": "ITEM_GOOD_ROD",
+    "name": "Good Rod",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "264": {
+    "id": 264,
+    "internal_name": "ITEM_SUPER_ROD",
+    "name": "Super Rod",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "265": {
+    "id": 265,
+    "internal_name": "ITEM_SS_TICKET",
+    "name": "S.S. Ticket",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "266": {
+    "id": 266,
+    "internal_name": "ITEM_CONTEST_PASS",
+    "name": "Contest Pass",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "267": {
+    "id": 267,
+    "internal_name": "ITEM_10B",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "268": {
+    "id": 268,
+    "internal_name": "ITEM_WAILMER_PAIL",
+    "name": "Wailmer Pail",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "269": {
+    "id": 269,
+    "internal_name": "ITEM_DEVON_GOODS",
+    "name": "Devon Goods",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "270": {
+    "id": 270,
+    "internal_name": "ITEM_SOOT_SACK",
+    "name": "Soot Sack",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "271": {
+    "id": 271,
+    "internal_name": "ITEM_BASEMENT_KEY",
+    "name": "Basement Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "272": {
+    "id": 272,
+    "internal_name": "ITEM_ACRO_BIKE",
+    "name": "Acro Bike",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "273": {
+    "id": 273,
+    "internal_name": "ITEM_POKEBLOCK_CASE",
+    "name": "Pokeblock Case",
+    "price": 0,
+    "battle_usable": false
+  },
+  "274": {
+    "id": 274,
+    "internal_name": "ITEM_LETTER",
+    "name": "Letter",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "275": {
+    "id": 275,
+    "internal_name": "ITEM_EON_TICKET",
+    "name": "Eon Ticket",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "276": {
+    "id": 276,
+    "internal_name": "ITEM_RED_ORB",
+    "name": "Red Orb",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "277": {
+    "id": 277,
+    "internal_name": "ITEM_BLUE_ORB",
+    "name": "Blue Orb",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "278": {
+    "id": 278,
+    "internal_name": "ITEM_SCANNER",
+    "name": "Scanner",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "279": {
+    "id": 279,
+    "internal_name": "ITEM_GO_GOGGLES",
+    "name": "Go-Goggles",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "280": {
+    "id": 280,
+    "internal_name": "ITEM_METEORITE",
+    "name": "Meteorite",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "281": {
+    "id": 281,
+    "internal_name": "ITEM_ROOM_1_KEY",
+    "name": "Rm. 1 Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "282": {
+    "id": 282,
+    "internal_name": "ITEM_ROOM_2_KEY",
+    "name": "Rm. 2 Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "283": {
+    "id": 283,
+    "internal_name": "ITEM_ROOM_4_KEY",
+    "name": "Rm. 4 Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "284": {
+    "id": 284,
+    "internal_name": "ITEM_ROOM_6_KEY",
+    "name": "Rm. 6 Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "285": {
+    "id": 285,
+    "internal_name": "ITEM_STORAGE_KEY",
+    "name": "Storage Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "286": {
+    "id": 286,
+    "internal_name": "ITEM_ROOT_FOSSIL",
+    "name": "Root Fossil",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "287": {
+    "id": 287,
+    "internal_name": "ITEM_CLAW_FOSSIL",
+    "name": "Claw Fossil",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "288": {
+    "id": 288,
+    "internal_name": "ITEM_DEVON_SCOPE",
+    "name": "Devon Scope",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "347": {
+    "id": 347,
+    "internal_name": "ITEM_15B",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "348": {
+    "id": 348,
+    "internal_name": "ITEM_15C",
+    "name": "????????",
+    "price": 0,
+    "pocket": "items",
+    "battle_usable": false
+  },
+  "349": {
+    "id": 349,
+    "internal_name": "ITEM_OAKS_PARCEL",
+    "name": "Oak'S Parcel",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "350": {
+    "id": 350,
+    "internal_name": "ITEM_POKE_FLUTE",
+    "name": "Pok\u00e9 Flute",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "351": {
+    "id": 351,
+    "internal_name": "ITEM_SECRET_KEY",
+    "name": "Secret Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "352": {
+    "id": 352,
+    "internal_name": "ITEM_BIKE_VOUCHER",
+    "name": "Bike Voucher",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "353": {
+    "id": 353,
+    "internal_name": "ITEM_GOLD_TEETH",
+    "name": "Gold Teeth",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "354": {
+    "id": 354,
+    "internal_name": "ITEM_OLD_AMBER",
+    "name": "Old Amber",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "355": {
+    "id": 355,
+    "internal_name": "ITEM_CARD_KEY",
+    "name": "Card Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "356": {
+    "id": 356,
+    "internal_name": "ITEM_LIFT_KEY",
+    "name": "Lift Key",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "357": {
+    "id": 357,
+    "internal_name": "ITEM_HELIX_FOSSIL",
+    "name": "Helix Fossil",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "358": {
+    "id": 358,
+    "internal_name": "ITEM_DOME_FOSSIL",
+    "name": "Dome Fossil",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "359": {
+    "id": 359,
+    "internal_name": "ITEM_SILPH_SCOPE",
+    "name": "Silph Scope",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "360": {
+    "id": 360,
+    "internal_name": "ITEM_BICYCLE",
+    "name": "Bicycle",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "361": {
+    "id": 361,
+    "internal_name": "ITEM_TOWN_MAP",
+    "name": "Town Map",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "362": {
+    "id": 362,
+    "internal_name": "ITEM_VS_SEEKER",
+    "name": "Vs Seeker",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "363": {
+    "id": 363,
+    "internal_name": "ITEM_FAME_CHECKER",
+    "name": "Fame Checker",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "364": {
+    "id": 364,
+    "internal_name": "ITEM_TM_CASE",
+    "name": "Tm Case",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "365": {
+    "id": 365,
+    "internal_name": "ITEM_BERRY_POUCH",
+    "name": "Berry Pouch",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "366": {
+    "id": 366,
+    "internal_name": "ITEM_TEACHY_TV",
+    "name": "Teachy Tv",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "367": {
+    "id": 367,
+    "internal_name": "ITEM_TRI_PASS",
+    "name": "Tri-Pass",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "368": {
+    "id": 368,
+    "internal_name": "ITEM_RAINBOW_PASS",
+    "name": "Rainbow Pass",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "369": {
+    "id": 369,
+    "internal_name": "ITEM_TEA",
+    "name": "Tea",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "370": {
+    "id": 370,
+    "internal_name": "ITEM_MYSTIC_TICKET",
+    "name": "Mysticticket",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "371": {
+    "id": 371,
+    "internal_name": "ITEM_AURORA_TICKET",
+    "name": "Auroraticket",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "372": {
+    "id": 372,
+    "internal_name": "ITEM_POWDER_JAR",
+    "name": "Powder Jar",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "373": {
+    "id": 373,
+    "internal_name": "ITEM_RUBY",
+    "name": "Ruby",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "374": {
+    "id": 374,
+    "internal_name": "ITEM_SAPPHIRE",
+    "name": "Sapphire",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "375": {
+    "id": 375,
+    "internal_name": "ITEM_MAGMA_EMBLEM",
+    "name": "Magma Emblem",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  },
+  "376": {
+    "id": 376,
+    "internal_name": "ITEM_OLD_SEA_MAP",
+    "name": "Old Sea Map",
+    "price": 0,
+    "pocket": "key_items",
+    "battle_usable": false
+  }
+}
