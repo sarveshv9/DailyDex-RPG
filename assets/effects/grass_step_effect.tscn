@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://grass_step_effect"]
+
+[ext_resource type="Script" path="res://assets/effects/grass_step_effect.gd" id="1_script"]
+[ext_resource type="Texture2D" path="res://assets/effects/grass_step_animation.png" id="2_texture"]
+
+[node name="GrassStepEffect" type="Sprite2D"]
+z_index = 5
+texture = ExtResource("2_texture")
+hframes = 4
+script = ExtResource("1_script")

@@ -4,6 +4,9 @@ const TILE_SIZE = 16
 const MOVE_SPEED = 0.15 # seconds per tile
 const ENCOUNTER_CHANCE = 0.15
 
+const GRASS_STEP_EFFECT = preload("res://assets/effects/grass_step_effect.tscn")
+const STEPPED_GRASS_TEX = preload("res://assets/effects/stepped_tall_grass.png")
+
 signal encounter_triggered
 
 @onready var ray = $RayCast2D
@@ -12,6 +15,7 @@ signal encounter_triggered
 
 var is_moving = false
 var facing = Vector2.DOWN
+var grass_overlay: Sprite2D = null
 
 func _ready():
 	# Mask 1 (world_solid) + Mask 4 (npc, which is layer 3 bit) = 5
@@ -82,6 +86,11 @@ func _attempt_move(dir: Vector2):
 	
 	if not ray.is_colliding():
 		is_moving = true
+		
+		if is_instance_valid(grass_overlay):
+			grass_overlay.queue_free()
+			grass_overlay = null
+			
 		var target_pos = global_position + (dir * TILE_SIZE)
 		
 		var tween = create_tween()
@@ -94,7 +103,27 @@ func _attempt_move(dir: Vector2):
 		
 		# Check encounter zone (Phase 7 prep)
 		_check_encounter()
+		_check_grass_step()
 		
+func _check_grass_step():
+	var tilemap = get_parent().get_node_or_null("TallGrass") as TileMapLayer
+	if not tilemap:
+		return
+		
+	var tile_pos = tilemap.local_to_map(tilemap.to_local(global_position))
+	var tile_data = tilemap.get_cell_tile_data(tile_pos)
+	if tile_data:
+		var effect = GRASS_STEP_EFFECT.instantiate()
+		get_parent().add_child(effect)
+		effect.global_position = global_position
+		
+		if not is_instance_valid(grass_overlay):
+			grass_overlay = Sprite2D.new()
+			grass_overlay.texture = STEPPED_GRASS_TEX
+			grass_overlay.z_index = 5
+			get_parent().add_child(grass_overlay)
+			grass_overlay.global_position = global_position
+
 func _play_idle(dir: Vector2):
 	if dir == Vector2.UP:
 		anim.play("idle_up")
