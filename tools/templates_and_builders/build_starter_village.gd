@@ -12,7 +12,7 @@ func _init():
 		
 	var player_scene = load("res://characters/player/player.tscn")
 	var joy_scene = load("res://characters/npc/nurse_joy.tscn")
-	var door_scene = load("res://maps/door/door.tscn")
+	var door_scene = load("res://maps/common/door/door.tscn")
 	
 	# Create map root
 	var map_root = Node2D.new()

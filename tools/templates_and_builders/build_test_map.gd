@@ -27,7 +27,7 @@ func _init():
 	player.owner = map_root
 	
 	# Load the door scene
-	var door_scene = load("res://maps/door/door.tscn")
+	var door_scene = load("res://maps/common/door/door.tscn")
 	
 	# Create exterior door to interior
 	if door_scene != null:
@@ -50,7 +50,7 @@ func _init():
 	# Save the final test map
 	var final_scene = PackedScene.new()
 	final_scene.pack(map_root)
-	var err = ResourceSaver.save(final_scene, "res://maps/test_map.tscn")
+	var err = ResourceSaver.save(final_scene, "res://maps/world_map.tscn")
 	if err != OK:
 		printerr("Failed to save final test_map.")
 		quit(1)
@@ -78,7 +78,7 @@ func _init():
 		if door_scene != null:
 			var int_door = door_scene.instantiate()
 			int_door.position = Vector2(72, 112) # At the bottom of the interior room
-			int_door.target_scene_path = "res://maps/test_map.tscn"
+			int_door.target_scene_path = "res://maps/world_map.tscn"
 			int_door.target_spawn_position = Vector2(208, 144) # Spawns just below exterior door
 			int_root.add_child(int_door)
 			int_door.owner = int_root

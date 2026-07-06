@@ -48,7 +48,7 @@ func _init():
 	print("Dialogue UI built.")
 	
 	print("Injecting into test map...")
-	var map_scene = load("res://maps/test_map.tscn")
+	var map_scene = load("res://maps/world_map.tscn")
 	var map_root = map_scene.instantiate()
 	
 	# Load from disk so it acts as a true scene instance!
@@ -64,7 +64,7 @@ func _init():
 	
 	var new_map = PackedScene.new()
 	new_map.pack(map_root)
-	ResourceSaver.save(new_map, "res://maps/test_map.tscn")
+	ResourceSaver.save(new_map, "res://maps/world_map.tscn")
 	
 	print("Wired up and saved test map successfully.")
 	quit(0)

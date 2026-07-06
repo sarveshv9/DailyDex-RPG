@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://p1qc4uv21oul" path="res://maps/tilesets/levels/house.png" id="1_house"]
 [ext_resource type="PackedScene" path="res://characters/player/player.tscn" id="2_fngo5"]
-[ext_resource type="PackedScene" uid="uid://cxdoor" path="res://maps/door/door.tscn" id="4_qs184"]
+[ext_resource type="PackedScene" uid="uid://cxdoor" path="res://maps/common/door/door.tscn" id="4_qs184"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_wall_top"]
 size = Vector2(215, 48)
@@ -54,5 +54,5 @@ position = Vector2(85, 125)
 
 [node name="Door" parent="." unique_id=93459777 instance=ExtResource("4_qs184")]
 position = Vector2(76, 141)
-target_scene_path = "res://maps/villages/starter_village/starter_village.tscn"
+target_scene = "res://maps/villages/starter_village/starter_village.tscn"
 target_spawn_position = Vector2(176, 144)

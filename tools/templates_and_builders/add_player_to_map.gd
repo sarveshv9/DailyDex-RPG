@@ -2,7 +2,7 @@ extends SceneTree
 
 func _init():
 	print("Injecting player into test map...")
-	var scene = load("res://maps/test_map.tscn")
+	var scene = load("res://maps/world_map.tscn")
 	var root = scene.instantiate()
 	
 	var player_scene = load("res://characters/player/player.tscn")
@@ -14,7 +14,7 @@ func _init():
 	
 	var new_scene = PackedScene.new()
 	new_scene.pack(root)
-	var err = ResourceSaver.save(new_scene, "res://maps/test_map.tscn")
+	var err = ResourceSaver.save(new_scene, "res://maps/world_map.tscn")
 	if err != OK:
 		printerr("Failed to save map with player.")
 		quit(1)
